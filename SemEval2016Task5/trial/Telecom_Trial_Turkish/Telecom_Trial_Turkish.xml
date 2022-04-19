@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Tweets>
+    <Tweet tid="642032501272236032">
+        <text>CONTENT</text>
+        <Opinions>
+            <Opinion target="CONTENT" category="DEVICE#GENERAL" polarity="positive" from="27" to="40"/>
+        </Opinions>
+    </Tweet>
+    <Tweet tid="625388382491963394">
+        <text>CONTENT</text>
+        <Opinions>
+            <Opinion target="CONTENT" category="INTERNET#SPEED" polarity="positive" from="10" to="18"/>
+			<Opinion target="CONTENT" category="INTERNET#SPEED" polarity="negative" from="34" to="42"/>
+        </Opinions>
+    </Tweet>
+	<Tweet tid="626795642854060037">
+         <text>CONTENT</text>
+        <Opinions>
+            <Opinion target="CONTENT" category="INTERNET#SPEED" polarity="positive" from="71" to="86"/>
+        </Opinions>
+    </Tweet>
+	<Tweet tid="638409388433244160">
+        <text>CONTENT</text>
+        <Opinions>
+            <Opinion target="CONTENT" category="DEVICE#GENERAL" polarity="negative" from="18" to="32"/>
+        </Opinions>
+    </Tweet>
+	<Tweet tid="639831808335564800">
+        <text>CONTENT</text>
+        <Opinions>
+            <Opinion target="CONTENT" category="TELECOM OPERATOR#PRICE_INVOICE" polarity="negative" from="53" to="61"/>
+        </Opinions>
+    </Tweet>
+    <Tweet tid="641265005489336320">
+        <text>CONTENT</text>
+        <Opinions>
+            <Opinion target="CONTENT" category="DEVICE#GENERAL" polarity="positive" from="27" to="40"/>
+        </Opinions>
+    </Tweet>
+</Tweets>

@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Reviews>
+    <Review rid="g1080574-d1337519-r211045323">
+        <sentences>
+            <sentence id="g1080574-d1337519-r211045323:0">
+                <text>Une petite dame nous accueille sans le sourire mais surtout sans enthousiasme, ça devait l'énerver d'avoir des clients un mardi soir .... 3 tables.</text>
+                <Opinions>
+                    <Opinion target="NULL" category="SERVICE#GENERAL" polarity="negative" from="0" to="0"/>
+                </Opinions>
+            </sentence>
+            <sentence id="g1080574-d1337519-r211045323:1">
+                <text>Bref, passons ....</text>
+                <Opinions>
+                    <Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="negative" from="0" to="0"/>
+                </Opinions>
+            </sentence>
+            <sentence id="g1080574-d1337519-r211045323:2">
+                <text>On commande quand même, lasagnes pâteuses, avec beaucoup de fromage sans saveur sur le dessus, ce qui atténuait l'acidité du concentré de tomates ... !</text>
+                <Opinions>
+                    <Opinion target="lasagnes" category="FOOD#QUALITY" polarity="negative" from="24" to="32"/>
+                    <Opinion target="fromage" category="FOOD#QUALITY" polarity="negative" from="60" to="67"/>
+                    <Opinion target="concentré de tomates" category="FOOD#QUALITY" polarity="negative" from="125" to="145"/>
+                </Opinions>
+            </sentence>
+            <sentence id="g1080574-d1337519-r211045323:3">
+                <text>Dessert tout sauf maison .... !</text>
+                <Opinions>
+                    <Opinion target="Dessert" category="FOOD#QUALITY" polarity="negative" from="0" to="7"/>
+                </Opinions>
+            </sentence>
+            <sentence id="g1080574-d1337519-r211045323:4">
+                <text>Je ne conseille vraiment pas, même si votre frigo est vide et que les autres restau d'à côté sont pleins et que vous ne savez pas où aller .....</text>
+                <Opinions>
+                    <Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="negative" from="0" to="0"/>
+                </Opinions>
+            </sentence>
+            <sentence id="g1080574-d1337519-r211045323:5">
+                <text>Il vaut encore mieux aller au Mc Do !</text>
+                <Opinions>
+                    <Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="negative" from="0" to="0"/>
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="g187075-d3489527-r254992608">
+        <sentences>
+            <sentence id="g187075-d3489527-r254992608:0">
+                <text>Petit restaurant au décor soigné, aux tables bien mises.</text>
+                <Opinions>
+                    <Opinion target="décor" category="AMBIENCE#GENERAL" polarity="positive" from="20" to="25"/>
+                </Opinions>
+            </sentence>
+            <sentence id="g187075-d3489527-r254992608:1">
+                <text>L'accueil manque un peu de chaleur, le service qui suivra également.</text>
+                <Opinions>
+                    <Opinion target="accueil" category="SERVICE#GENERAL" polarity="negative" from="2" to="9"/>
+                    <Opinion target="NULL" category="SERVICE#GENERAL" polarity="negative" from="0" to="0"/>
+                </Opinions>
+            </sentence>
+            <sentence id="g187075-d3489527-r254992608:2">
+                <text>Les différents menus à base de "Mezzés" se ressemblent, les spécialités sont réussies pour certaines (hoummous, taboulé..), moins réussies pour d'autres comme par exemple la purée d'aubergine assez fade ou ces boulettes ayant un arrière goût "brûlé".</text>
+                <Opinions>
+                    <Opinion target="menus" category="FOOD#STYLE_OPTIONS" polarity="neutral" from="15" to="20"/>
+                    <Opinion target="hoummous" category="FOOD#QUALITY" polarity="positive" from="102" to="110"/>
+                    <Opinion target="taboulé" category="FOOD#QUALITY" polarity="positive" from="112" to="119"/>
+                    <Opinion target="purée d'aubergine" category="FOOD#QUALITY" polarity="negative" from="174" to="191"/>
+                    <Opinion target="boulettes" category="FOOD#QUALITY" polarity="negative" from="210" to="219"/>
+                </Opinions>
+            </sentence>
+            <sentence id="g187075-d3489527-r254992608:3">
+                <text>Nous sommes dans le classique du genre avec peu de surprise et des prix plutôt élevés.</text>
+                <Opinions>
+                    <Opinion target="NULL" category="FOOD#STYLE_OPTIONS" polarity="negative" from="0" to="0"/>
+                    <Opinion target="NULL" category="RESTAURANT#PRICES" polarity="negative" from="0" to="0"/>
+                </Opinions>
+            </sentence>
+            <sentence id="g187075-d3489527-r254992608:4">
+                <text>Mention spéciale toutefois à la carte des vins (libanais) et au geste du restaurateur qui a offert une partie des desserts.</text>
+                <Opinions>
+                    <Opinion target="carte des vins" category="DRINKS#STYLE_OPTIONS" polarity="positive" from="32" to="46"/>
+                    <Opinion target="restaurateur" category="SERVICE#GENERAL" polarity="positive" from="73" to="85"/>
+                </Opinions>
+            </sentence>
+            <sentence id="g187075-d3489527-r254992608:5">
+                <text>Allons, une bonne soirée tout de même, mais un effort souhaité sur les goûts et saveurs méditerranéennes !</text>
+                <Opinions>
+                    <Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="positive" from="0" to="0"/>
+                    <Opinion target="NULL" category="FOOD#QUALITY" polarity="negative" from="0" to="0"/>
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="g187095-d1872852-r270870454">
+        <sentences>
+            <sentence id="g187095-d1872852-r270870454:0">
+                <text>J'ai tout aimé ... :-)</text>
+                <Opinions>
+                    <Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="positive" from="0" to="0"/>
+                </Opinions>
+            </sentence>
+            <sentence id="g187095-d1872852-r270870454:1">
+                <text>Accueil et service sont agréables et efficaces</text>
+                <Opinions>
+                    <Opinion target="Accueil" category="SERVICE#GENERAL" polarity="positive" from="0" to="7"/>
+                    <Opinion target="service" category="SERVICE#GENERAL" polarity="positive" from="11" to="18"/>
+                </Opinions>
+            </sentence>
+            <sentence id="g187095-d1872852-r270870454:2">
+                <text>Tous les plats sont bons avec une mention spéciale pour le cassoulet breton</text>
+                <Opinions>
+                    <Opinion target="cassoulet breton" category="FOOD#QUALITY" polarity="positive" from="59" to="75"/>
+                    <Opinion target="plats" category="FOOD#QUALITY" polarity="positive" from="9" to="14"/>
+                </Opinions>
+            </sentence>
+            <sentence id="g187095-d1872852-r270870454:3">
+                <text></text>
+            </sentence>
+            <sentence id="g187095-d1872852-r270870454:4">
+                <text>Restaurant bondé le midi mieux vaut arriver tôt</text>
+                <Opinions>
+                    <Opinion target="Restaurant" category="AMBIENCE#GENERAL" polarity="negative" from="0" to="10"/>
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="g187095-d1954560-r227348486">
+        <sentences>
+            <sentence id="g187095-d1954560-r227348486:0">
+                <text>Accueil glacial, à peine installés et la carte en main que l'on vient prendre commande.</text>
+                <Opinions>
+                    <Opinion target="Accueil" category="SERVICE#GENERAL" polarity="negative" from="0" to="7"/>
+                    <Opinion target="NULL" category="SERVICE#GENERAL" polarity="negative" from="0" to="0"/>
+                </Opinions>
+            </sentence>
+            <sentence id="g187095-d1954560-r227348486:1">
+                <text>Comptez trois quarts d'heure pour avoir uniquement le plat.</text>
+                <Opinions>
+                    <Opinion target="NULL" category="SERVICE#GENERAL" polarity="negative" from="0" to="0"/>
+                </Opinions>
+            </sentence>
+            <sentence id="g187095-d1954560-r227348486:2">
+                <text>D'ailleurs plat qui nous est grossièrement transmit de mains à mains.</text>
+                <Opinions>
+                    <Opinion target="NULL" category="SERVICE#GENERAL" polarity="negative" from="0" to="0"/>
+                </Opinions>
+            </sentence>
+            <sentence id="g187095-d1954560-r227348486:3">
+                <text>Je n'appelle pas ça un service digne d'un restaurants.</text>
+                <Opinions>
+                    <Opinion target="service" category="SERVICE#GENERAL" polarity="negative" from="23" to="30"/>
+                </Opinions>
+            </sentence>
+            <sentence id="g187095-d1954560-r227348486:4">
+                <text>Une viande qui n'est pas cuite comme à notre demande : saignante et non à point comme demandé.</text>
+                <Opinions>
+                    <Opinion target="viande" category="FOOD#QUALITY" polarity="negative" from="4" to="10"/>
+                </Opinions>
+            </sentence>
+            <sentence id="g187095-d1954560-r227348486:5">
+                <text>Aucune commande de dessert n'a été prise après une demie heure d'attente à la fin du plat.</text>
+                <Opinions>
+                    <Opinion target="dessert" category="SERVICE#GENERAL" polarity="negative" from="19" to="26"/>
+                </Opinions>
+            </sentence>
+            <sentence id="g187095-d1954560-r227348486:6">
+                <text>Nous avons donc décidés de partir sans dessert !</text>
+            </sentence>
+            <sentence id="g187095-d1954560-r227348486:7">
+                <text>Départ aussi désagréable que l'accueil.</text>
+                <Opinions>
+                    <Opinion target="accueil" category="SERVICE#GENERAL" polarity="negative" from="31" to="38"/>
+                </Opinions>
+            </sentence>
+            <sentence id="g187095-d1954560-r227348486:8">
+                <text>Déçus de notre soirée car j'ai connu cette taverne sous de meilleurs jours.</text>
+                <Opinions>
+                    <Opinion target="taverne" category="RESTAURANT#GENERAL" polarity="negative" from="43" to="50"/>
+                </Opinions>
+            </sentence>
+            <sentence id="g187095-d1954560-r227348486:9">
+                <text>Beaucoup trop onéreux pour la qualité des plats.</text>
+                <Opinions>
+                    <Opinion target="plats" category="FOOD#QUALITY" polarity="negative" from="42" to="47"/>
+                    <Opinion target="NULL" category="RESTAURANT#PRICES" polarity="negative" from="0" to="0"/>
+                </Opinions>
+            </sentence>
+            <sentence id="g187095-d1954560-r227348486:10">
+                <text>Un rapport qualité/prix qui se passe donc de commentaire.</text>
+                <Opinions>
+                    <Opinion target="NULL" category="RESTAURANT#PRICES" polarity="negative" from="0" to="0"/>
+                    <Opinion target="qualité/prix" category="FOOD#QUALITY" polarity="neutral" from="11" to="23"/>
+                </Opinions>
+            </sentence>
+            <sentence id="g187095-d1954560-r227348486:11">
+                <text>Je déconseille +++ .</text>
+                <Opinions>
+                    <Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="negative" from="0" to="0"/>
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="g3463365-d3594852-r200815446">
+        <sentences>
+            <sentence id="g3463365-d3594852-r200815446:0">
+                <text>Nous sommes allés dans ce restaurant un dimanche soir.</text>
+            </sentence>
+            <sentence id="g3463365-d3594852-r200815446:1">
+                <text>Nous avons pris le menu à 29,90€.</text>
+            </sentence>
+            <sentence id="g3463365-d3594852-r200815446:2">
+                <text>Entrée: Saint Jacques en brochettes de qualité moyenne.</text>
+                <Opinions>
+                    <Opinion target="Saint Jacques en brochettes" category="FOOD#QUALITY" polarity="negative" from="8" to="35"/>
+                </Opinions>
+            </sentence>
+            <sentence id="g3463365-d3594852-r200815446:3">
+                <text>On ne change pas les couverts...</text>
+                <Opinions>
+                    <Opinion target="NULL" category="SERVICE#GENERAL" polarity="negative" from="0" to="0"/>
+                </Opinions>
+            </sentence>
+            <sentence id="g3463365-d3594852-r200815446:4">
+                <text>Plat: une pièce de boeuf grillée (pas très tendre), sans sauce, avec de la purée de carottes (très bonne), des brocolis et des pommes de terre pas cuites au milieu.</text>
+                <Opinions>
+                    <Opinion target="pièce de boeuf grillée" category="FOOD#QUALITY" polarity="negative" from="10" to="32"/>
+                    <Opinion target="purée de carottes" category="FOOD#QUALITY" polarity="positive" from="75" to="92"/>
+                    <Opinion target="pommes de terre" category="FOOD#QUALITY" polarity="negative" from="127" to="142"/>
+                </Opinions>
+            </sentence>
+            <sentence id="g3463365-d3594852-r200815446:5">
+                <text>Nous avons fait la remarque à la serveuse qui a transmis au cuisinier.</text>
+            </sentence>
+            <sentence id="g3463365-d3594852-r200815446:6">
+                <text>Nous avons entendu ce dernier dire depuis la cuisine que si on n'était pas content on n'avait qu'à les manger en purée!...</text>
+                <Opinions>
+                    <Opinion target="NULL" category="SERVICE#GENERAL" polarity="negative" from="0" to="0"/>
+                </Opinions>
+            </sentence>
+            <sentence id="g3463365-d3594852-r200815446:7">
+                <text>Dessert: mousse aux 2 chocolats, bonne mais beaucoup trop sucrée.</text>
+                <Opinions>
+                    <Opinion target="mousse aux 2 chocolats" category="FOOD#QUALITY" polarity="positive" from="9" to="31"/>
+                </Opinions>
+            </sentence>
+            <sentence id="g3463365-d3594852-r200815446:8">
+                <text>La salle est bien mais les WC ne sont pas à la hauteur.</text>
+                <Opinions>
+                    <Opinion target="NULL" category="RESTAURANT#MISCELLANEOUS" polarity="negative" from="0" to="0"/>
+                    <Opinion target="salle" category="AMBIENCE#GENERAL" polarity="positive" from="3" to="8"/>
+                </Opinions>
+            </sentence>
+            <sentence id="g3463365-d3594852-r200815446:9">
+                <text>L'établissement dispose aussi d'une jolie terrasse.</text>
+                <Opinions>
+                    <Opinion target="terrasse" category="AMBIENCE#GENERAL" polarity="positive" from="42" to="50"/>
+                </Opinions>
+            </sentence>
+            <sentence id="g3463365-d3594852-r200815446:10">
+                <text>En résumé un cuisinier mal embouché, un repas peut-être bio mais pas gastronomique (on peut manger bio sans être forcément au régime...), le tout pour un prix trop élevé.</text>
+                <Opinions>
+                    <Opinion target="cuisinier" category="SERVICE#GENERAL" polarity="negative" from="13" to="22"/>
+                    <Opinion target="repas" category="FOOD#QUALITY" polarity="negative" from="40" to="45"/>
+                    <Opinion target="NULL" category="RESTAURANT#PRICES" polarity="negative" from="0" to="0"/>
+                    <Opinion target="NULL" category="FOOD#STYLE_OPTIONS" polarity="negative" from="0" to="0"/>
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+</Reviews>

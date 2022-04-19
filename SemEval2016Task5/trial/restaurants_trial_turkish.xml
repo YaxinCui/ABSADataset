@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Reviews>
+	<Review rid="101">
+        <sentences>
+            <sentence id="101:0">
+                <text>Son olarak dün gittiğim her gittiğimde ayrı keyif aldığım güzel mekan.</text>
+                <Opinions>
+                    <Opinion target="mekan" category="RESTAURANT#GENERAL" polarity="positive" from="64" to="69"/>
+                </Opinions>
+            </sentence>
+			<sentence id="101:1">
+                <text>Sahibi Ara Güler isminde bir fotoğrafçı mekanın içi de çok keyifli , yemekleri de leziz personel de oldukça nazik. </text>
+                <Opinions>
+                    <Opinion target="mekanın içi" category="AMBIENCE#GENERAL" polarity="positive" from="40" to="51"/>
+					<Opinion target="yemekleri" category="FOOD#QUALITY" polarity="positive" from="69" to="78"/>
+					<Opinion target="personel" category="SERVICE#GENERAL" polarity="positive" from="88" to="96"/>
+                </Opinions>
+            </sentence>
+			<sentence id="101:2">
+                <text>Tüm hardallı balığı denedim ardından elmalı yeşil çay ikisi de enfesti.</text>
+                <Opinions>
+                    <Opinion target="hardallı balığı" category="FOOD#QUALITY" polarity="positive" from="4" to="19"/>
+					<Opinion target="elmalı yeşil çay" category="DRINKS#QUALITY" polarity="positive" from="37" to="53"/>
+                </Opinions>
+            </sentence>
+			<sentence id="101:3">
+                <text>Giderseniz deneyebilirsiniz :)</text>
+                <Opinions>
+                    <Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="positive" from="0" to="0"/>
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+	<Review rid="102">
+        <sentences>
+            <sentence id="102:0">
+                <text>	Gördüğüm en güzel dekorasyonlu simit sarayı diyebilirim.</text>
+                <Opinions>
+                    <Opinion target="dekorasyonlu" category="AMBIENCE#GENERAL" polarity="positive" from="18" to="30"/>
+                </Opinions>
+            </sentence>
+			<sentence id="102:1">
+                <text>Yemek alanının orta yerinde dairesel olarak inşa edilmiş ve her tarafı camdan.</text>
+                <Opinions>
+                    <Opinion target="NULL" category="AMBIENCE#GENERAL" polarity="neutral" from="0" to="0"/>
+                </Opinions>
+            </sentence>
+			<sentence id="102:2">
+                <text>Ben bir patatesli börek hastası olarak hep patatesli gül börek alıyorum. </text>
+                <Opinions>
+                    <Opinion target="patatesli börek" category="FOOD#QUALITY" polarity="positive" from="8" to="23"/>
+                </Opinions>
+            </sentence>
+			<sentence id="102:3">
+                <text>Simit sandviçleri de Denenmeli.</text>
+                <Opinions>
+                    <Opinion target="Simit sandviçleri" category="FOOD#QUALITY" polarity="positive" from="0" to="17"/>
+                </Opinions>
+            </sentence>
+			<sentence id="102:4">
+                <text>Viaport için alışveriş arasında dinlenebileceğiniz hoş bir mekan.</text>
+                <Opinions>
+                    <Opinion target="mekan" category="AMBIENCE#GENERAL" polarity="positive" from="59" to="64"/>
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+	<Review rid="103">
+        <sentences>
+            <sentence id="103:0">
+                <text>Kahvaltı tabağının 12.5 tl den 18.5 tl ye çıkması gerçekten çok komik.</text>
+                <Opinions>
+                    <Opinion target="Kahvaltı tabağının" category="FOOD#PRICES" polarity="negative" from="0" to="18"/>
+                </Opinions>
+            </sentence>
+			<sentence id="103:1">
+                <text>Bir yudum portakal suyu koyarak tabağı süsleyerek göz dolduruyorlar .</text>
+                <Opinions>
+                    <Opinion target="tabağı" category="FOOD#STYLE_OPTIONS" polarity="negative" from="32" to="37"/>
+                </Opinions>
+            </sentence>
+			<sentence id="103:2">
+                <text>Ayrıca bu mekanın manzarası vs yok çok dar bir mekan . </text>
+                <Opinions>
+                    <Opinion target="mekan" category="AMBIENCE#GENERAL" polarity="negative" from="47" to="52"/>
+                </Opinions>
+            </sentence>
+			<sentence id="103:2">
+                <text>Bahçesi diyorlar da bahçe dediğiniz küçücük alan ve yer bulmak imkansız .</text>
+                <Opinions>
+                    <Opinion target="Bahçesi" category="AMBIENCE#GENERAL" polarity="negative" from="0" to="7"/>
+                </Opinions>
+            </sentence>
+			<sentence id="103:2">
+                <text>Ayrıca mekanın sahibi içten değil bence laubali .</text>
+                <Opinions>
+                    <Opinion target="mekanın sahibi" category="SERVICE#GENERAL" polarity="negative" from="7" to="21"/>
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+	<Review rid="104">
+        <sentences>
+            <sentence id="104:0" OutOfScope="TRUE">
+                <text>Tuzla Balıkçısının daha küçük ve sakin versiyonu.</text>
+            </sentence>
+			<sentence id="104:1">
+                <text>Fiyatlar yakın, sokakta rahat bir ortamda, kaşıkla çeşitli balık servisi alıyorsunuz.</text>
+                <Opinions>
+                    <Opinion target="Fiyatlar" category="RESTAURANT#PRICES" polarity="neutral" from="0" to="8"/>
+					<Opinion target="ortamda" category="AMBIENCE#GENERAL" polarity="positive" from="34" to="41"/>
+					<Opinion target="balık servisi" category="FOOD#STYLE_OPTIONS" polarity="positive" from="59" to="72"/>
+                </Opinions>
+            </sentence>
+			<sentence id="104:2">
+                <text>İyi bir yer belki arada bir denenebilir.</text>
+                <Opinions>
+                    <Opinion target="yer" category="RESTAURANT#GENERAL" polarity="positive" from="8" to="11"/>
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+	<Review rid="105">
+        <sentences>
+            <sentence id="105:0">
+                <text>Fiyatları ortalamanın üstünde. </text>
+				<Opinions>
+                    <Opinion target="Fiyatları" category="RESTAURANT#PRICES" polarity="negative" from="0" to="9"/>
+                </Opinions>
+			</sentence>
+			<sentence id="105:1">
+                <text>Ulaşım zor.</text>
+				<Opinions>
+                    <Opinion target="Ulaşım" category="LOCATION#GENERAL" polarity="negative" from="0" to="6"/>
+                </Opinions>
+			</sentence>
+			<sentence id="105:2">
+                <text>Etleri oldukça lezzetli. </text>
+				<Opinions>
+                    <Opinion target="Etleri" category="FOOD#QUALITY" polarity="positive" from="0" to="6"/>
+                </Opinions>
+			</sentence>
+			<sentence id="105:3">
+                <text>Şarap çeşitleri fazla ve şaraplar kaliteli.</text>
+				<Opinions>
+                    <Opinion target="Şarap" category="DRINKS#STYLE_OPTIONS" polarity="positive" from="0" to="5"/>
+					<Opinion target="şaraplar" category="DRINKS#QUALITY" polarity="positive" from="25" to="33"/>
+                </Opinions>
+			</sentence>
+			<sentence id="105:4">
+                <text>Garsonlar elbette kibarlar ama sürekli etrafınızda dolaşıp size bakmaları bazen huzursuzluk verebiliyor.</text>
+				<Opinions>
+                    <Opinion target="Garsonlar" category="SERVICE#GENERAL" polarity="positive" from="0" to="9"/>
+					<Opinion target="NULL" category="SERVICE#GENERAL" polarity="negative" from="0" to="0"/>
+                </Opinions>
+			</sentence>
+			<sentence id="105:4">
+                <text>Mekan-dekorasyon fena değil ama etlerin kalitesi ve fiyatların yüksekliği ile karşılaştırıldığında biraz sönük kalıyor.</text>
+				<Opinions>
+                    <Opinion target="Mekan-dekorasyon" category="AMBIENCE#GENERAL" polarity="negative" from="0" to="16"/>
+					<Opinion target="etlerin" category="FOOD#QUALITY" polarity="negative" from="32" to="39"/>
+					<Opinion target="fiyatların" category="RESTAURANT#PRICES" polarity="negative" from="52" to="62"/>
+                </Opinions>
+			</sentence>
+			<sentence id="105:5">
+                <text>Lokumu tavsiye ederim.</text>
+				<Opinions>
+                    <Opinion target="Lokumu" category="FOOD#QUALITY" polarity="negative" from="0" to="6"/>
+                </Opinions>
+			</sentence>
+        </sentences>
+    </Review>
+</Reviews>

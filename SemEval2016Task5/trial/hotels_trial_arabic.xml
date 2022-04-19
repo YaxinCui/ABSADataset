@@ -1,0 +1,260 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Reviews>
+   <Review rid="3">
+      <sentences>
+         <Sentence id="3:0">
+            <text>الفندق رائع وموقعة اكثر من رائع. علي بعد خطوات من بوابة الملك فهد.</text>
+            <Opinions>
+               <Opinion target="الفندق" category="LOCATION#GENERAL" polarity="positive" from="0" to="6" />
+               <Opinion target="موقعة" category="LOCATION#GENERAL" polarity="positive" from="13" to="18" />
+            </Opinions>
+         </Sentence>
+         <Sentence id="3:1">
+            <text>قمت بحجزغرفة برؤية للحرم ووجدت الغرفة تطل علي الكعبة.</text>
+            <Opinions>
+               <Opinion target="الغرفة" category="ROOMS#MISCELLANEOUS" polarity="positive" from="57" to="63" />
+            </Opinions>
+         </Sentence>
+         <Sentence id="3:2">
+            <text>أذاعة الأذان والصلاة داخل الغرف. الأفطار رائع</text>
+            <Opinions>
+               <Opinion target="الغرف" category="ROOMS#DESIGN_FEATURES" polarity="positive" from="48" to="53" />
+               <Opinion target="الأفطار" category="FOOD_DRINKS#QUALITY" polarity="positive" from="51" to="58" />
+            </Opinions>
+         </Sentence>
+         <Sentence id="3:3">
+            <text>يعيبة فقط الأنترنت غير مجاني والضوضاء في الغرف المجاورة</text>
+            <Opinions>
+               <Opinion target="الأنترنت" category="SERVICE#GENERAL" polarity="negative" from="18" to="26" />
+               <Opinion target="الغرف" category="ROOMS#COMFORT" polarity="negative" from="60" to="65" />
+            </Opinions>
+         </Sentence>
+      </sentences>
+   </Review>
+   <Review rid="5">
+      <sentences>
+         <Sentence id="5:0">
+            <text>الفطور جيد</text>
+            <Opinions>
+               <Opinion target="الفطور" category="FOOD_DRINKS#QUALITY" polarity="positive" from="0" to="6" />
+            </Opinions>
+         </Sentence>
+         <Sentence id="5:1">
+            <text>الحمام غير مقبول لكذا فندق يمكن أصغر حمام بالعالم لفندق خمسة نجوم اظنه يدخل بسهولة في جينيز</text>
+            <Opinions>
+               <Opinion target="الحمام" category="FACILITIES#QUALITY" polarity="negative" from="0" to="6" />
+            </Opinions>
+         </Sentence>
+         <Sentence id="5:2">
+            <text>الغرفة جيدة و خدمة الغرف جيدة جدا الاستقبال جيد ولكن مزدحم جدا الاستعلامات او الكونسييرج سيء للغاية</text>
+            <Opinions>
+               <Opinion target="الغرفة" category="ROOMS#GENERAL" polarity="positive" from="0" to="6" />
+               <Opinion target="خدمة الغرف" category="SERVICE#GENERAL" polarity="positive" from="14" to="24" />
+               <Opinion target="الاستقبال" category="SERVICE#GENERAL" polarity="positive" from="32" to="41" />
+               <Opinion target="الاستعلامات" category="SERVICE#GENERAL" polarity="negative" from="68" to="79" />
+            </Opinions>
+         </Sentence>
+      </sentences>
+   </Review>
+   <Review rid="6">
+      <sentences>
+         <Sentence id="6:0">
+            <text>الفندق اكثر من رائع من جميع النواحي من حيث القرب من الحرم والنظافه وتعاون جميع العاملين من بداية حجزي حتي خروجي من الفندق والافطار وتعاون العاملين و حاملين الحقائب</text>
+            <Opinions>
+               <Opinion target="الفندق" category="HOTEL#GENERAL" polarity="positive" from="0" to="6" />
+               <Opinion target="القرب من الحرم" category="LOCATION#GENERAL" polarity="positive" from="66" to="80" />
+               <Opinion target="العاملين" category="SERVICE#GENERAL" polarity="positive" from="107" to="115" />
+               <Opinion target="الافطار" category="FOOD_DRINKS#QUALITY" polarity="positive" from="172" to="179" />
+               <Opinion target="العاملين" category="SERVICE#GENERAL" polarity="positive" from="187" to="195" />
+               <Opinion target="حاملين الحقائب" category="SERVICE#GENERAL" polarity="positive" from="192" to="206" />
+            </Opinions>
+         </Sentence>
+         <Sentence id="6:1">
+            <text>ولا ينقص الفندق الا توفير المواقف و النت يكون مجاني</text>
+            <Opinions>
+               <Opinion target="المواقف" category="FACILITIES#GENERAL" polarity="negative" from="47" to="54" />
+               <Opinion target="النت" category="SERVICE#GENERAL" polarity="negative" from="52" to="56" />
+            </Opinions>
+         </Sentence>
+      </sentences>
+   </Review>
+   <Review rid="7">
+      <sentences>
+         <Sentence id="7:0">
+            <text>الافطار متكرر وبعيد جداً تتعب الى ان تصل لمكان الافطار وزحمه جداً و الاصنصير يتاخر جداً الى ان يصل لك واحياناً تحتاج الى اكثر من اصنصير لان بعض الاصنصيرات لا تخدم جميع الادوار</text>
+            <Opinions>
+               <Opinion target="الافطار" category="FOOD_DRINKS#MISCELLANEOUS " polarity="negative" from="0" to="7" />
+               <Opinion target="الاصنصير" category="SERVICE#GENERAL" polarity="negative" from="110" to="118" />
+            </Opinions>
+         </Sentence>
+         <Sentence id="7:1">
+            <text>عند استلام الغرفه في دورة المياه توجد رائحه كريهه وطلبت تنظيفها</text>
+            <Opinions>
+               <Opinion target="دورة المياه" category="FACILITIES#QUALITY" polarity="negative" from="38" to="49" />
+            </Opinions>
+         </Sentence>
+      </sentences>
+   </Review>
+   <Review rid="10">
+      <sentences>
+         <Sentence id="10:0">
+            <text>عدم الاهتمام بالنظافه لدرجة البقع بالاسره والموكيت وايضا حامل الشاي بيده من غير صحن او صينيه ودخلنا الغرف مافيها صابون او مناديل او مويه ولا فوط ولا شباشب ولا شي انصدمت ان هذا فندق 5 نجوم.. !!!</text>
+            <Opinions>
+               <Opinion target="النظافه" category="HOTEL#CLEANLINESS" polarity="negative" from="26" to="33" />
+               <Opinion target="الغرف" category="ROOMS#GENERAL" polarity="negative" from="170" to="175" />
+               <Opinion target="صابون" category="FACILITIES#MISCELLANEOUS " polarity="negative" from="185" to="190" />
+               <Opinion target="مناديل" category="FACILITIES#MISCELLANEOUS " polarity="negative" from="192" to="198" />
+               <Opinion target="فوط" category="FACILITIES#MISCELLANEOUS " polarity="negative" from="215" to="218" />
+               <Opinion target="شباشب" category="FACILITIES#MISCELLANEOUS " polarity="negative" from="224" to="229" />
+            </Opinions>
+         </Sentence>
+         <Sentence id="10:1">
+            <text>الاطلاله مكتوب على الحرم بينما بالواقع مو طالع الا مأذنة الحرم فقط</text>
+            <Opinions>
+               <Opinion target="الاطلاله" category="LOCATION#GENERAL" polarity="negative" from="0" to="8" />
+            </Opinions>
+         </Sentence>
+      </sentences>
+   </Review>
+   <Review rid="11">
+      <sentences>
+         <Sentence id="11:0">
+            <text>شكرا لكل العاملين في فندق انتركوننتال الاردن ـ لقد استمتعنا بطيب الاقامة في القندق.</text>
+            <Opinions>
+               <Opinion target="العاملين" category="HOTEL#GENERAL" polarity="positive" from="16" to="24" />
+               <Opinion target="انتركوننتال الاردن" category="HOTEL#GENERAL" polarity="positive" from="32" to="50" />
+               <Opinion target="الاقامة" category="HOTEL#COMFORT" polarity="positive" from="70" to="77" />
+               <Opinion target="NULL" category="SERVICE#GENERAL" polarity="positive" from="0" to="0" />
+            </Opinions>
+         </Sentence>
+         <Sentence id="11:1">
+            <text>المعاملة جد راقيه وممتازه والغرف كانت ممتازه ايضا لكل العاملين هناك باقة شكر وتقدير وعرفان</text>
+            <Opinions>
+               <Opinion target="المعاملة" category="SERVICE#GENERAL" polarity="positive" from="0" to="8" />
+               <Opinion target="الغرف" category="ROOMS#GENERAL" polarity="positive" from="35" to="40" />
+            </Opinions>
+         </Sentence>
+      </sentences>
+   </Review>   
+   <Review rid="13">
+      <sentences>
+         <Sentence id="13:0">
+            <text>فندق ينقصه كافة الخدمات مثل النظافة العامة</text>
+            <Opinions>
+               <Opinion target="الخدمات" category="SERVICE#GENERAL" polarity="negative" from="29" to="36" />
+               <Opinion target="NULL" category="HOTEL#CLEANLINESS" polarity="negative" from="0" to="0" />
+            </Opinions>
+         </Sentence>
+         <Sentence id="13:1">
+            <text>يحتاج الى تجديد لانه مليء بالحشرات</text>
+            <Opinions>
+               <Opinion target="NULL" category="HOTEL#CLEANLINESS" polarity="negative" from="0" to="0" />
+            </Opinions>
+         </Sentence>
+         <Sentence id="13:2">
+            <text>موظفيه يفتقروا الى الاحترافية و اللطافة</text>
+            <Opinions>
+               <Opinion target="موظفيه" category="SERVICE#GENERAL" polarity="negative" from="0" to="6" />
+            </Opinions>
+         </Sentence>
+         <Sentence id="13:3">
+            <text>فندق سيء بكل ما تحمله الكلمة من معنى</text>
+            <Opinions>
+               <Opinion target="فندق" category="HOTEL#GENERAL" polarity="negative" from="0" to="4" />
+            </Opinions>
+         </Sentence>
+         <Sentence id="13:4">
+            <text>لا توجد حلول مرضية للعميل من خدمة العملاء</text>
+            <Opinions>
+               <Opinion target="خدمة العملاء" category="SERVICE#GENERAL" polarity="negative" from="52" to="64" />
+            </Opinions>
+         </Sentence>
+      </sentences>
+   </Review>
+   <Review rid="15">
+      <sentences>
+         <Sentence id="15:0">
+            <text>الاستقبال تعامله سيئ الغرفه الي انا أخذها بدون صالة محولين الصالة لغرفة نوم</text>
+            <Opinions>
+               <Opinion target="الاستقبال" category="HOTEL#GENERAL" polarity="negative" from="0" to="9" />
+               <Opinion target="الغرفه" category="SERVICE#DESIGN_FEATURES" polarity="negative" from="22" to="28" />
+            </Opinions>
+         </Sentence>
+         <Sentence id="15:1">
+            <text>مافيه مناشف الخدمه سيئه بعد طلب المناشف للاستحمام السعر مبالغ فيه جدا</text>
+            <Opinions>
+               <Opinion target="الخدمه" category="SERVICE#GENERAL" polarity="negative" from="22" to="28" />
+               <Opinion target="السعر" category="HOTEL#PRICES" polarity="negative" from="81" to="86" />
+            </Opinions>
+         </Sentence>
+         <Sentence id="15:2">
+            <text>مافيه وأي فاي ولا مواقف سيارات مجانيه مع العلم الفنادق الأخرى في برج الساعه يتوفر المواقف وانترنت مجاني</text>
+            <Opinions>
+               <Opinion target="وأي فاي" category="SERVICE#GENERAL" polarity="negative" from="11" to="18" />
+               <Opinion target="مواقف سيارات" category="FACILITIES#GENERAL" polarity="negative" from="20" to="32" />
+            </Opinions>
+         </Sentence>
+      </sentences>
+   </Review>
+   <Review rid="16">
+      <sentences>
+         <Sentence id="16:0">
+            <text>الفندق ممتاز ومن افضل الفنادق الي نزلت فيهم في المدينة المنورة</text>
+            <Opinions>
+               <Opinion target="الفندق" category="HOTEL#GENERAL" polarity="positive" from="0" to="6" />
+               <Opinion target="NULL" category="SERVICE#GENERAL" polarity="positive" from="0" to="0" />
+            </Opinions>
+         </Sentence>
+         <Sentence id="16:1">
+            <text>موقعه ممتاز قريب جدا لباب النساء الخدمة ممتازة ، والغرف جميلة</text>
+            <Opinions>
+               <Opinion target="موقعه" category="LOCATION#GENERAL" polarity="positive" from="0" to="5" />
+               <Opinion target="الخدمة" category="SERVICE#GENERAL" polarity="positive" from="51" to="57" />
+               <Opinion target="الغرف" category="ROOMS#DESIGN_FEATURES" polarity="positive" from="71" to="76" />
+            </Opinions>
+         </Sentence>
+         <Sentence id="16:2">
+            <text>والاكل رائع ، انا بنصح الكل ينزل عليه لانو جد روعة</text>
+            <Opinions>
+               <Opinion target="الاكل" category="FOOD_DRINKS#QUALITY" polarity="positive" from="2" to="7" />
+            </Opinions>
+         </Sentence>
+         <Sentence id="16:3">
+            <text>وجود خدمات توصيل من والى المطار وجود سيارات تنقلك الى المزارات ( مسجد قباء - مقبرة الشهداء - مقبرة البقيع )</text>
+            <Opinions>
+               <Opinion target="خدمات توصيل" category="SERVICE#GENERAL" polarity="positive" from="9" to="20" />
+               <Opinion target="NULL" category="HOTEL#GENERAL" polarity="positive" from="0" to="0" />
+            </Opinions>
+         </Sentence>
+      </sentences>
+   </Review>
+   <Review rid="17">
+      <sentences>
+         <Sentence id="17:0">
+            <text>فندق متكامل الغرفه جميله ويعيبها صغيرة نوعا ما ولكن الاطلاله رائعه جدا روحانيه رهيبه خصوصا انك تنزل من الفندق والحرم امامك</text>
+            <Opinions>
+               <Opinion target="فندق" category="HOTEL#GENERAL" polarity="positive" from="0" to="4" />
+               <Opinion target="الغرفه" category="ROOMS#GENERAL" polarity="positive" from="15" to="21" />
+               <Opinion target="الاطلاله" category="LOCATION#GENERAL" polarity="positive" from="77" to="85" />
+               <Opinion target="NULL" category="ROOMS#COMFORT" polarity="negative" from="0" to="0" />
+            </Opinions>
+         </Sentence>
+         <Sentence id="17:1">
+            <text>ويوجد مصلى بالفندق يتبع للحرم اي انك تصلي فيه مع امام الحرم</text>
+            <Opinions>
+               <Opinion target="مصلى" category="FACILITIES#GENERAL" polarity="positive" from="11" to="15" />
+            </Opinions>
+         </Sentence>
+         <Sentence id="17:2">
+            <text>الفطور والغداء والعشاء متنوع جدا وبه كل شي تتمناه ويوجد غرفه العاب مميزة بالفندق ولكن بمقابل يستحق الزيارة</text>
+            <Opinions>
+               <Opinion target="الفطور" category="FOOD_DRINKS#MISCELLANEOUS " polarity="positive" from="0" to="6" />
+               <Opinion target="الغداء" category="FOOD_DRINKS#MISCELLANEOUS " polarity="positive" from="4" to="10" />
+               <Opinion target="العشاء" category="FOOD_DRINKS#MISCELLANEOUS " polarity="positive" from="8" to="14" />
+               <Opinion target="غرفه العاب" category="FACILITIES#GENERAL" polarity="positive" from="69" to="79" />
+               <Opinion target="NULL" category="HOTEL#GENERAL" polarity="positive" from="0" to="0" />
+            </Opinions>
+         </Sentence>
+      </sentences>
+   </Review>
+</Reviews>

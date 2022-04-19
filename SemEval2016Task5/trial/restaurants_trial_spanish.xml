@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Reviews>
+    <Review rid="es_la-scala-zaragoza_comment-4006">
+        <sentences>
+            <sentence id="es_la-scala-zaragoza_comment-4006:0">
+                <text>En Zaragoza hay Restaurantes correctos, buenos, muy buenos,Restaurantes a los que no vuelves, los que pasan desapercibidos, mediocres y pésimos como por ejemplo La Scala.</text>
+                <Opinions>
+                    <Opinion target="La Scala" category="RESTAURANT#GENERAL" polarity="negative" from="161" to="169"/>
+                </Opinions>
+            </sentence>
+            <sentence id="es_la-scala-zaragoza_comment-4006:1">
+                <text>Afirmar que en ese local se pueden degustar verdaderas delicias es una auténtica temeridad.</text>
+                <Opinions>
+                    <Opinion target="delicias" category="FOOD#QUALITY" polarity="negative" from="55" to="63"/>
+                </Opinions>
+            </sentence>
+            <sentence id="es_la-scala-zaragoza_comment-4006:2">
+                <text>Para olvidar. </text>
+                <Opinions>
+                    <Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="negative" from="0" to="0"/>
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="es_barceloneta_8_AntonioSerranoPueyo_2015-05-30">
+        <sentences>
+            <sentence id="es_barceloneta_8_AntonioSerranoPueyo_2015-05-30:0">
+                <text>Fui, una vez más, con un amigo a comer al Restaurante Barceloneta.</text>
+                <Opinions/>
+            </sentence>
+            <sentence id="es_barceloneta_8_AntonioSerranoPueyo_2015-05-30:1">
+                <text>Nunca defrauda.</text>
+                <Opinions>
+                    <Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="positive" from="0" to="0"/>
+                </Opinions>
+            </sentence>
+            <sentence id="es_barceloneta_8_AntonioSerranoPueyo_2015-05-30:2">
+                <text>Productos de calidad óptima, elaborados magníficamente.</text>
+                <Opinions>
+                    <Opinion target="Productos" category="FOOD#QUALITY" polarity="positive" from="0" to="9"/>
+                </Opinions>
+            </sentence>
+            <sentence id="es_barceloneta_8_AntonioSerranoPueyo_2015-05-30:3">
+                <text>Siempre es igual de excelente, con un servicio impecable.</text>
+                <Opinions>
+                    <Opinion target="servicio" category="SERVICE#GENERAL" polarity="positive" from="38" to="46"/>
+                </Opinions>
+            </sentence>
+            <sentence id="es_barceloneta_8_AntonioSerranoPueyo_2015-05-30:4">
+                <text>Un Jefe de Sala que siempre recuerda y saluda a los cliente habituales, aunque hayan pasado meses desde la última vez que visitaron el restaurante.</text>
+                <Opinions>
+                    <Opinion target="Jefe de Sala" category="SERVICE#GENERAL" polarity="positive" from="3" to="15"/>
+                </Opinions>
+            </sentence>
+            <sentence id="es_barceloneta_8_AntonioSerranoPueyo_2015-05-30:5">
+                <text>Un valor seguro.</text>
+                <Opinions>
+                    <Opinion target="Un valor seguro" category="RESTAURANT#GENERAL" polarity="positive" from="0" to="15"/>
+                </Opinions>
+            </sentence>
+            <sentence id="es_barceloneta_8_AntonioSerranoPueyo_2015-05-30:6">
+                <text>Un &quot;Blue chip&quot; de la restauración.</text>
+                <Opinions>
+                    <Opinion target="Un &quot;Blue chip&quot; de la restauración" category="RESTAURANT#GENERAL" polarity="positive" from="0" to="33"/>
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="es_l_olive_22_IsabelSanchezSanchdez_2012-01-07">
+        <sentences>
+            <sentence id="es_l_olive_22_IsabelSanchezSanchdez_2012-01-07:0">
+                <text>Es muy buen restaurante.</text>
+                <Opinions>
+                    <Opinion target="restaurante" category="RESTAURANT#GENERAL" polarity="positive" from="12" to="23"/>
+                </Opinions>
+            </sentence>
+            <sentence id="es_l_olive_22_IsabelSanchezSanchdez_2012-01-07:1">
+                <text>Ya habiamos estado en el anterior en la calle muntaner.</text>
+                <Opinions/>
+            </sentence>
+            <sentence id="es_l_olive_22_IsabelSanchezSanchdez_2012-01-07:2">
+                <text>Este es mucho mas elegante, el trato muy correcto y la ambientacion te hace sentir muy a gusto.</text>
+                <Opinions>
+                    <Opinion target="trato" category="SERVICE#GENERAL" polarity="positive" from="31" to="36"/>
+                    <Opinion target="NULL" category="AMBIENCE#GENERAL" polarity="positive" from="0" to="0"/>
+                </Opinions>
+            </sentence>
+            <sentence id="es_l_olive_22_IsabelSanchezSanchdez_2012-01-07:3">
+                <text>La comida de calidad.</text>
+                <Opinions>
+                    <Opinion target="comida" category="FOOD#QUALITY" polarity="positive" from="3" to="9"/>
+                </Opinions>
+            </sentence>
+            <sentence id="es_l_olive_22_IsabelSanchezSanchdez_2012-01-07:4">
+                <text>Recomiendo los calçots rebozados.</text>
+                <Opinions>
+                    <Opinion target="calçots rebozados" category="FOOD#QUALITY" polarity="positive" from="15" to="32"/>
+                </Opinions>
+            </sentence>
+            <sentence id="es_l_olive_22_IsabelSanchezSanchdez_2012-01-07:5">
+                <text>Sin duda repetiremos.</text>
+                <Opinions>
+                    <Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="positive" from="0" to="0"/>
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="es_balmes_rossello_83_CarlosLopezRodriguez_2012-12-23">
+        <sentences>
+            <sentence id="es_balmes_rossello_83_CarlosLopezRodriguez_2012-12-23:0">
+                <text>Perfecto.</text>
+                <Opinions>
+                    <Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="positive" from="0" to="0"/>
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="es_colette-zaragoza_comment-1142">
+        <sentences>
+            <sentence id="es_colette-zaragoza_comment-1142:0">
+                <text>Ayer estuvimos cenando en Colette.</text>
+                <Opinions/>
+            </sentence>
+            <sentence id="es_colette-zaragoza_comment-1142:1">
+                <text>¡Excelente cena!</text>
+                <Opinions>
+                    <Opinion target="cena" category="FOOD#QUALITY" polarity="positive" from="11" to="15"/>
+                </Opinions>
+            </sentence>
+            <sentence id="es_colette-zaragoza_comment-1142:2">
+                <text>Hacía mucho tiempo que un restaurante en Zaragoza no me sorprendía de esta manera: Gran calidad del producto, numerosos detalles, puntos de cocción perfectos en casi todos los platos, raciones abundantes y un precio elevado pero ajustado a la calidad.El servicio fue atento y educado aunque tuvo algún pequeño fallo (como servir la segunda botella de vino en las copas en que aún quedaba algo de la anterior)De comienzo una buena variedad de panes (pizza, oliva verde, oliva negra, …) con un cuenquito de aceite de oliva con tomate mozzarella y albahaca.</text>
+                <Opinions>
+                    <Opinion target="producto" category="FOOD#QUALITY" polarity="positive" from="100" to="108"/>
+                    <Opinion target="detalles" category="SERVICE#GENERAL" polarity="positive" from="120" to="128"/>
+                    <Opinion target="raciones" category="FOOD#STYLE_OPTIONS" polarity="positive" from="184" to="192"/>
+                    <Opinion target="NULL" category="RESTAURANT#PRICES" polarity="neutral" from="0" to="0"/>
+                    <Opinion target="NULL" category="FOOD#QUALITY" polarity="positive" from="0" to="0"/>
+                    <Opinion target="servicio" category="SERVICE#GENERAL" polarity="neutral" from="254" to="262"/>
+                    <Opinion target="puntos de cocción" category="FOOD#QUALITY" polarity="positive" from="130" to="147"/>
+                </Opinions>
+            </sentence>
+            <sentence id="es_colette-zaragoza_comment-1142:3">
+                <text>Unos aperitivos ofrecidos por la casa con un cóctel de martini blanco enfriado con nitrógeno líquido y una pastilla de foie mi-cuit envuelto en frambuesa con sidral y algodón de coco.</text>
+                <Opinions/>
+            </sentence>
+            <sentence id="es_colette-zaragoza_comment-1142:4">
+                <text>Muy logrados ambos.</text>
+                <Opinions/>
+            </sentence>
+            <sentence id="es_colette-zaragoza_comment-1142:5">
+                <text>Como entrantes compartimos:- un carpaccio de buey de Kobe, excelente, sabrosísimo.- una tempura de comenillas rellenas de foie y alchofas- una cola entera de bogavante a la plancha con salsa de su coral (muy sabrosa, aunque un poco pasada de punto)Antes del segundo la casa nos ofreció un pinco de membrillo y queso en tempura presentado en un palo de canela encendido.</text>
+                <Opinions>
+                    <Opinion target="carpaccio de buey de Kobe" category="FOOD#QUALITY" polarity="positive" from="32" to="57"/>
+                    <Opinion target="cola entera de bogavante a la plancha con salsa de su coral" category="FOOD#QUALITY" polarity="neutral" from="143" to="202"/>
+                </Opinions>
+            </sentence>
+            <sentence id="es_colette-zaragoza_comment-1142:6">
+                <text>Muy original presentación y muy lograda la combinación.Los segundos fueron un poco más tradicionales:</text>
+                <Opinions>
+                    <Opinion target="presentación" category="FOOD#STYLE_OPTIONS" polarity="positive" from="13" to="25"/>
+                    <Opinion target="combinación" category="FOOD#STYLE_OPTIONS" polarity="positive" from="43" to="54"/>
+                </Opinions>
+            </sentence>
+            <sentence id="es_colette-zaragoza_comment-1142:7">
+                <text>- Solomillo con foie y setas de temporada: gigantesca ración y punto exactamente como se pidió, cosa poco común.</text>
+                <Opinions/>
+            </sentence>
+            <sentence id="es_colette-zaragoza_comment-1142:8">
+                <text>- Jarrete a baja temperatura con salsa caramelizada y puré trufado.</text>
+                <Opinions/>
+            </sentence>
+            <sentence id="es_colette-zaragoza_comment-1142:9">
+                <text>Extraordinario sabor y textura.</text>
+                <Opinions>
+                    <Opinion target="sabor" category="FOOD#QUALITY" polarity="positive" from="15" to="20"/>
+                    <Opinion target="textura" category="FOOD#QUALITY" polarity="positive" from="23" to="30"/>
+                </Opinions>
+            </sentence>
+            <sentence id="es_colette-zaragoza_comment-1142:10">
+                <text>- Rape con couscous y chipirón.</text>
+                <Opinions/>
+            </sentence>
+            <sentence id="es_colette-zaragoza_comment-1142:11">
+                <text>Gran taco de rape cocido en su punto y muy sabroso.</text>
+                <Opinions>
+                    <Opinion target="taco de rape" category="FOOD#QUALITY" polarity="positive" from="5" to="17"/>
+                </Opinions>
+            </sentence>
+            <sentence id="es_colette-zaragoza_comment-1142:12">
+                <text>- Pichón.</text>
+                <Opinions/>
+            </sentence>
+            <sentence id="es_colette-zaragoza_comment-1142:13">
+                <text>Sólo las pechugas.</text>
+                <Opinions/>
+            </sentence>
+            <sentence id="es_colette-zaragoza_comment-1142:14">
+                <text>Tal vez pod´ria haber estado un poco menos hecho, pero muy sabroso y también acompañado por un excelente puré.</text>
+                <Opinions>
+                    <Opinion target="puré" category="FOOD#QUALITY" polarity="positive" from="105" to="109"/>
+                    <Opinion target="NULL" category="FOOD#QUALITY" polarity="neutral" from="0" to="0"/>
+                </Opinions>
+            </sentence>
+            <sentence id="es_colette-zaragoza_comment-1142:15">
+                <text>Otro entretenimiento de la casa antes del postre con unas migas con fresas deshidratadas y confitadas con sopa de vainilla (servida en una copita de hielo secos para que hiciera un efecto de volcán burbujeante).</text>
+                <Opinions/>
+            </sentence>
+            <sentence id="es_colette-zaragoza_comment-1142:16">
+                <text>Espectacular y muy sabroso.</text>
+                <Opinions>
+                    <Opinion target="NULL" category="FOOD#QUALITY" polarity="positive" from="0" to="0"/>
+                </Opinions>
+            </sentence>
+            <sentence id="es_colette-zaragoza_comment-1142:17">
+                <text>Sólo pedimos dos postres y la verdad es que fueron lo más flojo de la cena:</text>
+                <Opinions>
+                    <Opinion target="postres" category="FOOD#QUALITY" polarity="neutral" from="17" to="24"/>
+                </Opinions>
+            </sentence>
+            <sentence id="es_colette-zaragoza_comment-1142:18">
+                <text>- Una tarta crujiente de manzana con helado de vainilla.- Un coulante de chocolate con helado de marron glacé.</text>
+                <Opinions/>
+            </sentence>
+            <sentence id="es_colette-zaragoza_comment-1142:19">
+                <text>Cuando ya estábamos terminando los cafés nos trajeron unos pastelillos.</text>
+                <Opinions/>
+            </sentence>
+            <sentence id="es_colette-zaragoza_comment-1142:20">
+                <text>Ahí se quedaron la mayoría, eran bastante normalillos y además ya no podíamos más.En resumen 280 € para 4 personas incluyendo dos botellas de Enate Merlot-merlot (que contribuyeron en 60 € a la cuenta)Creo que una cuenta nada desproporcionada con la calidad y cantidad de la comida y de los detalles que nos ofrecieron.</text>
+                <Opinions/>
+            </sentence>
+            <sentence id="es_colette-zaragoza_comment-1142:21">
+                <text>Un buen sitio, a seguir.</text>
+                <Opinions>
+                    <Opinion target="sitio" category="RESTAURANT#GENERAL" polarity="positive" from="8" to="13"/>
+                </Opinions>
+            </sentence>
+            <sentence id="es_colette-zaragoza_comment-1142:22">
+                <text>Si mantienen el nivel de innovación y calidad puede ser un soplo de aire fresco en Zaragoza.</text>
+                <Opinions>
+                    <Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="positive" from="0" to="0"/>
+                </Opinions>
+            </sentence>
+            <sentence id="es_colette-zaragoza_comment-1142:23">
+                <text>P.D.</text>
+                <Opinions/>
+            </sentence>
+            <sentence id="es_colette-zaragoza_comment-1142:24">
+                <text>Por lo que leo en comentarios anteriores han debido reducir los precios, pues ayer la tempura de colmenillas y foie costaba 18 € y no los 22 que se mencionan en otro comentario.</text>
+                <Opinions/>
+            </sentence>
+            <sentence id="es_colette-zaragoza_comment-1142:25">
+                <text>Si es así, bien hecho. </text>
+                <Opinions/>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="es_9reinas_55_JoseMCazorlaMontero_2011-11-03">
+        <sentences>
+            <sentence id="es_9reinas_55_JoseMCazorlaMontero_2011-11-03:0">
+                <text>Tomamos Vacío y Entrañas (especialidades conocidas, entre otras cosas, por lo blando de su carne).</text>
+                <Opinions/>
+            </sentence>
+            <sentence id="es_9reinas_55_JoseMCazorlaMontero_2011-11-03:1">
+                <text>En algunos momentos, nos llegamos a preguntar si lo que teníamos en la boca era carne o un trozo de neumático.</text>
+                <Opinions>
+                    <Opinion target="carne" category="FOOD#QUALITY" polarity="negative" from="80" to="85"/>
+                </Opinions>
+            </sentence>
+            <sentence id="es_9reinas_55_JoseMCazorlaMontero_2011-11-03:2">
+                <text>Decepcionante...</text>
+                <Opinions>
+                    <Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="negative" from="0" to="0"/>
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="es_l_olive_74_Claudia_2008-05-16">
+        <sentences>
+            <sentence id="es_l_olive_74_Claudia_2008-05-16:0">
+                <text>estuvimos ayer mi marido y yo para celebrar su cumpleaños.</text>
+                <Opinions/>
+            </sentence>
+            <sentence id="es_l_olive_74_Claudia_2008-05-16:1">
+                <text>Y la verdad que lo pasamos estupendo.</text>
+                <Opinions>
+                    <Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="positive" from="0" to="0"/>
+                </Opinions>
+            </sentence>
+            <sentence id="es_l_olive_74_Claudia_2008-05-16:2">
+                <text>La comida muy pero muy buena, áun me acuerdo del foie y de mangret de pato con salsa de fresa.</text>
+                <Opinions>
+                    <Opinion target="comida" category="FOOD#QUALITY" polarity="positive" from="3" to="9"/>
+                    <Opinion target="foie" category="FOOD#QUALITY" polarity="positive" from="49" to="53"/>
+                    <Opinion target="mangret de pato con salsa de fresa" category="FOOD#QUALITY" polarity="positive" from="59" to="93"/>
+                </Opinions>
+            </sentence>
+            <sentence id="es_l_olive_74_Claudia_2008-05-16:3">
+                <text>Me ha encantado.</text>
+                <Opinions>
+                    <Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="positive" from="0" to="0"/>
+                </Opinions>
+            </sentence>
+            <sentence id="es_l_olive_74_Claudia_2008-05-16:4">
+                <text>Es verdad que los camareros van con mucha prisa, pero a nosotros nos ha ido bien, porque después de cenar teníamos que ir al teatro, y aun así salimos del restaurante corriendo.</text>
+                <Opinions>
+                    <Opinion target="camareros" category="SERVICE#GENERAL" polarity="positive" from="18" to="27"/>
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="es_barceloneta_61_ConsueloMateosCandeleda_2012-04-07">
+        <sentences>
+            <sentence id="es_barceloneta_61_ConsueloMateosCandeleda_2012-04-07:0">
+                <text>A pesar de ser un restaurante de pescado y marisco, mi marido encontró buenísimo el filete a la pimienta verde que pidió.</text>
+                <Opinions>
+                    <Opinion target="filete a la pimienta verde" category="FOOD#QUALITY" polarity="positive" from="84" to="110"/>
+                </Opinions>
+            </sentence>
+            <sentence id="es_barceloneta_61_ConsueloMateosCandeleda_2012-04-07:1">
+                <text>El trato muy bueno.</text>
+                <Opinions>
+                    <Opinion target="trato" category="SERVICE#GENERAL" polarity="positive" from="3" to="8"/>
+                </Opinions>
+            </sentence>
+            <sentence id="es_barceloneta_61_ConsueloMateosCandeleda_2012-04-07:2">
+                <text>Yo pedí una mesa bien situada y atendieron la petición, nos dieron una con muy buenas vistas.</text>
+                <Opinions>
+                    <Opinion target="vistas" category="AMBIENCE#GENERAL" polarity="positive" from="86" to="92"/>
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="es_barceloneta_120_Gabriela_2008-07-18">
+        <sentences>
+            <sentence id="es_barceloneta_120_Gabriela_2008-07-18:0">
+                <text>Servicio impecable y se come de maravilla!</text>
+                <Opinions>
+                    <Opinion target="NULL" category="SERVICE#GENERAL" polarity="positive" from="0" to="0"/>
+                    <Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="positive" from="0" to="0"/>
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="es_salamanca_18_BegHispaniaLuisClaver_2014-12-15">
+        <sentences>
+            <sentence id="es_salamanca_18_BegHispaniaLuisClaver_2014-12-15:0">
+                <text>Nos pusieron en la terraza, sin avisar previamente.</text>
+                <Opinions>
+                    <Opinion target="terraza" category="AMBIENCE#GENERAL" polarity="negative" from="19" to="26"/>
+                </Opinions>
+            </sentence>
+            <sentence id="es_salamanca_18_BegHispaniaLuisClaver_2014-12-15:1">
+                <text>En la mesa faltaban 3 cubiertos, habiendo confirmado previamente el número de comensales el mismo día.</text>
+                <Opinions>
+                    <Opinion target="NULL" category="SERVICE#GENERAL" polarity="negative" from="0" to="0"/>
+                </Opinions>
+            </sentence>
+            <sentence id="es_salamanca_18_BegHispaniaLuisClaver_2014-12-15:2">
+                <text>Había un nivel de ruido excesivamente alto, muy molesto y del menú que contratamos casi no vimos ni un plato, prácticamente, nos trajeron prácticamente lo que quisieron.</text>
+                <Opinions>
+                    <Opinion target="ruido" category="AMBIENCE#GENERAL" polarity="negative" from="18" to="23"/>
+                    <Opinion target="menú" category="FOOD#STYLE_OPTIONS" polarity="negative" from="62" to="66"/>
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+</Reviews>

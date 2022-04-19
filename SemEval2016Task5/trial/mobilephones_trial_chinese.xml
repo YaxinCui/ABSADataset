@@ -1,0 +1,186 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Reviews>
+    <Review rid="1">
+        <sentences>
+            <sentence id="1:0">
+                <text>用了一个月的台电C280客观评价，</text>
+            </sentence>
+            <sentence id="1:1">
+                <text>优点：音质非常不错，</text>
+                <Opinions>
+                    <Opinion category="MULTIMEDIA DEVICES#QUALITY" polarity="positive"/>
+                </Opinions>
+            </sentence>
+            <sentence id="1:2">
+                <text>建议大家配个好耳机更爽。</text>
+            </sentence>　
+            <sentence id="1:3">
+                <text>视频图像也很清晰，</text>
+                <Opinions>
+                    <Opinion category="MULTIMEDIA DEVICES#QUALITY" polarity="positive"/>
+                </Opinions>
+            </sentence>
+            <sentence id="1:4">
+                <text>色彩还原较好。</text>
+                <Opinions>
+                    <Opinion category="MULTIMEDIA DEVICES#QUALITY" polarity="positive"/>
+                </Opinions>
+            </sentence>
+            <sentence id="1:5">
+                <text>外观也很现代。</text>
+                <Opinions>
+                    <Opinion category="DISPLAY#GENERAL" polarity="positive"/>
+                </Opinions>
+            </sentence>
+            <sentence id="1:6">
+                <text>缺点：操作太麻烦了，</text>
+                <Opinions>
+                    <Opinion category="PHONE#OPERATION_PERFORMANCE" polarity="negative"/>
+                </Opinions>
+            </sentence>
+            <sentence id="1:7">
+                <text>也许刚买的朋友们会不适应。</text>
+            </sentence>
+            <sentence id="1:8">
+                <text>播放音乐界面太幼稚了，</text>
+                <Opinions>
+                    <Opinion category="MULTIMEDIA DEVICES#GENERAL" polarity="negative"/>
+                </Opinions>
+            </sentence>
+            <sentence id="1:9">
+                <text>MP3格式的音乐播放时会强制淡入，</text>
+                <Opinions>
+                    <Opinion category="MULTIMEDIA DEVICES#OPERATION_PERFORMANCE" polarity="negative"/>
+                </Opinions>
+            </sentence>
+            <sentence id="1:10">
+                <text>听英语的朋友们要倒霉了。</text>
+            </sentence>
+            <sentence id="1:11">
+                <text>电池最让人不满意，</text>
+                <Opinions>
+                    <Opinion category="BATTERY#GENERAL" polarity="negative"/>
+                </Opinions>
+            </sentence>
+            <sentence id="1:12">
+                <text>持续时间太短。</text>
+                <Opinions>
+                    <Opinion category="BATTERY#QUALITY" polarity="negative"/>
+                </Opinions>
+            </sentence>
+            <sentence id="1:13">
+                <text>总评：总体还是很让人满意的，</text>
+                <Opinions>
+                    <Opinion category="PHONE#GENERAL" polarity="positive"/>
+                </Opinions>
+            </sentence>
+            <sentence id="1:14">
+                <text>性价比很高。</text>
+                <Opinions>
+                    <Opinion category="PHONE#PRICE" polarity="positive"/>
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="2">
+        <sentences>
+            <sentence id="2:0">
+                <text>我也是入手D1三天</text>
+            </sentence>
+            <sentence id="2:1">
+                <text>个人感觉还是蛮好的机子，</text>
+                <Opinions>
+                    <Opinion category="PHONE#GENERAL" polarity="positive"/>
+                </Opinions>
+            </sentence>
+            <sentence id="2:2">
+                <text>希望华为以后带给国人更多的惊喜！</text>
+                <Opinions>
+                    <Opinion category="COMPANY#GENERAL" polarity="positive"/>
+                </Opinions>
+            </sentence>
+            <sentence id="2:3">
+                <text>本人买这台机器是出于支持优秀的本国企业，</text>
+                <Opinions>
+                    <Opinion category="COMPANY#GENERAL" polarity="positive"/>
+                </Opinions>
+            </sentence>
+            <sentence id="2:4">
+                <text>那怕我的力量只是微不足道的。</text>
+            </sentence>
+            <sentence id="2:5">
+                <text>电池也如大家说的一样使劲折腾的话真是不怎么耐用，</text>
+                <Opinions>
+                    <Opinion category="BATTERY#QUALITY" polarity="negative"/>
+                </Opinions>
+            </sentence>
+            <sentence id="2:6">
+                <text>毕竟是4.5寸的原因吧！</text>
+            </sentence>
+            <sentence id="2:7">
+                <text>我用过几部大屏幕智能机一般都有这个通病！</text>
+            </sentence>
+            <sentence id="2:8">
+                <text>所以个人感觉电池这块是大屏幕的通病，</text>
+                <Opinions>
+                    <Opinion category="BATTERY#QUALITY" polarity="negative"/>
+                </Opinions>
+            </sentence>
+            <sentence id="2:9">
+                <text>不过现在有移动电源，</text>
+            </sentence>
+            <sentence id="2:10">
+                <text>出远门的时候大家还是可以带着去的呵呵！</text>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="3">
+        <sentences>
+            <sentence id="3:0">
+                <text>先买了c8825d使用两天，</text>
+            </sentence>
+            <sentence id="3:1">
+                <text>优点很多，</text>
+                <Opinions>
+                    <Opinion category="PHONE#GENERAL" polarity="positive"/>
+                </Opinions>
+            </sentence>
+            <sentence id="3:2">
+                <text>速度快，</text>
+                <Opinions>
+                    <Opinion category="PHONE#QUALITY" polarity="positive"/>
+                </Opinions>
+            </sentence>
+            <sentence id="3:3">
+                <text>gps搜星定位快，</text>
+                <Opinions>
+                    <Opinion category="SOFTWARE#QUALITY" polarity="positive"/>
+                </Opinions>
+            </sentence>
+            <sentence id="3:4">
+                <text>通话质量也不错。</text>
+                <Opinions>
+                    <Opinion category="CALLS#QUALITY" polarity="positive"/>
+                </Opinions>
+            </sentence>
+            <sentence id="3:5">
+                <text>随后发现问题，</text>
+            </sentence>
+            <sentence id="3:6">
+                <text>开机几个小时后3g网络失效，</text>
+                <Opinions>
+                    <Opinion category="PHONE#CONNECTIVITY" polarity="negative"/>
+                </Opinions>
+            </sentence>
+            <sentence id="3:7">
+                <text>表现为网页无法打开。</text>
+            </sentence>
+            <sentence id="3:8">
+                <text>在即时通信软件风行的今天这个故障是无法忍受的。</text>
+                <Opinions>
+                    <Opinion category="SOFTWARE#CONNECTIVITY" polarity="negative"/>
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+</Reviews>

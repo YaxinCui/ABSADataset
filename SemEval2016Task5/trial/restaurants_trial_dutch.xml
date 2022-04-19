@@ -1,0 +1,210 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Reviews>  
+  <Review rid="Review-g188671-d1761224_4">
+    <sentences>
+      <sentence id="1">
+        <text>Uitstekend restaurant .</text>
+        <Opinions>
+          <Opinion target="restaurant" category="RESTAURANT#GENERAL" polarity="positive" from="11" to="21"/>
+        </Opinions>
+      </sentence>
+      <sentence id="2">
+        <text>We hebben de Vlaamse stoofschotel gekozen en deze bleek geweldig .</text>
+        <Opinions>
+          <Opinion target="vlaamse stoofschotel" category="FOOD#QUALITY" polarity="positive" from="13" to="33"/>
+        </Opinions>
+      </sentence>
+      <sentence id="3">
+        <text>Een zeer royale portie en heerlijke Belgische friet !</text>
+        <Opinions>
+          <Opinion target="belgische friet" category="FOOD#QUALITY" polarity="positive" from="36" to="51"/>
+          <Opinion target="portie" category="FOOD#STYLE_OPTIONS" polarity="positive" from="16" to="22"/>
+        </Opinions>
+      </sentence>
+      <sentence id="4">
+        <text>De goed geprijsde huiswijn , die aangeraden werd , paste er excellent bij .</text>
+        <Opinions>
+          <Opinion target="huiswijn" category="DRINKS#PRICES" polarity="positive" from="18" to="26"/>
+          <Opinion target="huiswijn" category="DRINKS#QUALITY" polarity="positive" from="18" to="26"/>
+        </Opinions>
+      </sentence>
+      <sentence id="5">
+        <text>Uiterst vriendelijke bediening .</text>
+        <Opinions>
+          <Opinion target="bediening" category="SERVICE#GENERAL" polarity="positive" from="21" to="30"/>
+        </Opinions>
+      </sentence>
+      <sentence id="6">
+        <text>Het ligt wel iets buiten het centrum , maar de wandeling wordt beloond met een zeer goede maaltijd .</text>
+        <Opinions>
+          <Opinion target="null" category="LOCATION#GENERAL" polarity="positive" from="0" to="0"/>
+          <Opinion target="maaltijd" category="FOOD#QUALITY" polarity="positive" from="90" to="98"/>
+        </Opinions>
+      </sentence>
+      <sentence id="7">
+        <text>Een aanrader , dit restaurant .</text>
+        <Opinions>
+          <Opinion target="restaurant" category="RESTAURANT#GENERAL" polarity="positive" from="19" to="29"/>
+        </Opinions>
+      </sentence>
+      <sentence id="8">
+        <text>Rudie en Willemijn</text>
+        <Opinions/>
+      </sentence>
+    </sentences>
+  </Review>
+  <Review rid="Review-g188671-d2166198_2">
+    <sentences>
+      <sentence id="1">
+        <text>Lekker gegeten .</text>
+        <Opinions>
+          <Opinion target="null" category="FOOD#QUALITY" polarity="positive" from="0" to="0"/>
+        </Opinions>
+      </sentence>
+      <sentence id="2">
+        <text>Zeer attente en vriendelijke bediening .</text>
+        <Opinions>
+          <Opinion target="bediening" category="SERVICE#GENERAL" polarity="positive" from="29" to="38"/>
+        </Opinions>
+      </sentence>
+      <sentence id="3">
+        <text>Hier zou ik zonder nadenken een tweede maal gaan eten .</text>
+        <Opinions>
+          <Opinion target="null" category="RESTAURANT#GENERAL" polarity="positive" from="0" to="0"/>
+        </Opinions>
+      </sentence>
+      <sentence id="4">
+        <text>Ook de wijn was een aanrader .</text>
+        <Opinions>
+          <Opinion target="wijn" category="DRINKS#QUALITY" polarity="positive" from="7" to="11"/>
+        </Opinions>
+      </sentence>
+    </sentences>
+  </Review>
+  <Review rid="Review-g188671-d2294477_1">
+    <sentences>
+      <sentence id="1">
+        <text>Brugge is een mooie stad .</text>
+        <Opinions/>
+      </sentence>
+      <sentence id="2">
+        <text>De spareribs waren lekker !</text>
+        <Opinions>
+          <Opinion target="spareribs" category="FOOD#QUALITY" polarity="positive" from="3" to="12"/>
+        </Opinions>
+      </sentence>
+      <sentence id="3">
+        <text>Personeel is erg vriendelijk en goede bediening .</text>
+        <Opinions>
+          <Opinion target="personeel" category="SERVICE#GENERAL" polarity="positive" from="0" to="9"/>
+        </Opinions>
+      </sentence>
+    </sentences>
+  </Review>
+  <Review rid="Review-g188671-d2330356_2">
+    <sentences>
+      <sentence id="1">
+        <text>Hier wordt de perfectie nagestreefd !</text>
+        <Opinions>
+          <Opinion target="null" category="RESTAURANT#GENERAL" polarity="positive" from="0" to="0"/>
+        </Opinions>
+      </sentence>
+      <sentence id="2">
+        <text>Zalige gebakjes en het brood met rozijnen is perfect ! !</text>
+        <Opinions>
+          <Opinion target="brood met rozijnen" category="FOOD#QUALITY" polarity="positive" from="23" to="41"/>
+          <Opinion target="gebakjes" category="FOOD#QUALITY" polarity="positive" from="7" to="15"/>
+        </Opinions>
+      </sentence>
+      <sentence id="3">
+        <text>Vriendelijke bediening , en top patissier ! ! ! !</text>
+        <Opinions>
+          <Opinion target="bediening" category="SERVICE#GENERAL" polarity="positive" from="13" to="22"/>
+          <Opinion target="patissier" category="RESTAURANT#GENERAL" polarity="positive" from="32" to="41"/>
+        </Opinions>
+      </sentence>
+    </sentences>
+  </Review>
+  <Review rid="Review-g941689-d3671892_2">
+    <sentences>
+      <sentence id="1">
+        <text>Vandaag een verjaardagsfeestje .</text>
+        <Opinions/>
+      </sentence>
+      <sentence id="2">
+        <text>Dus gezellig samen uit eten .</text>
+        <Opinions/>
+      </sentence>
+      <sentence id="3">
+        <text>Tafel gereserveerd en dan genieten maar , dachten we .</text>
+        <Opinions/>
+      </sentence>
+      <sentence id="4">
+        <text>Om 18 uur aan tafel .</text>
+        <Opinions/>
+      </sentence>
+      <sentence id="5">
+        <text>Nadat we zelf de menukaarten hadden gevonden hebben we om half zeven maar eens gevraagd of we konden bestellen .</text>
+        <Opinions>
+          <Opinion target="null" category="SERVICE#GENERAL" polarity="negative" from="0" to="0"/>
+        </Opinions>
+      </sentence>
+      <sentence id="6">
+        <text>Tien minuten later nog maar eens gevraagd .</text>
+        <Opinions>
+          <Opinion target="null" category="SERVICE#GENERAL" polarity="negative" from="0" to="0"/>
+        </Opinions>
+      </sentence>
+      <sentence id="7">
+        <text>Het voorgerecht was ok .</text>
+        <Opinions>
+          <Opinion target="voorgerecht" category="FOOD#QUALITY" polarity="neutral" from="4" to="15"/>
+        </Opinions>
+      </sentence>
+      <sentence id="8">
+        <text>Op het hoofdgerecht hebben dan nog drie kwartier kunnen wachten na meermaals navragen .</text>
+        <Opinions>
+          <Opinion target="null" category="SERVICE#GENERAL" polarity="negative" from="0" to="0"/>
+        </Opinions>
+      </sentence>
+      <sentence id="9">
+        <text>Kleine porties , half rauw vlees , kortom : waardeloos .</text>
+        <Opinions>
+          <Opinion target="vlees" category="FOOD#QUALITY" polarity="negative" from="27" to="32"/>
+          <Opinion target="porties" category="FOOD#STYLE_OPTIONS" polarity="negative" from="7" to="14"/>
+        </Opinions>
+      </sentence>
+      <sentence id="10">
+        <text>De salade verlept , de frieten uit de diepvries .</text>
+        <Opinions>
+          <Opinion target="salade" category="FOOD#QUALITY" polarity="negative" from="3" to="9"/>
+          <Opinion target="frieten" category="FOOD#QUALITY" polarity="negative" from="23" to="30"/>
+        </Opinions>
+      </sentence>
+      <sentence id="11">
+        <text>De bediening is onvriendelijk , begint altijd met de gasten te discussiëren .</text>
+        <Opinions>
+          <Opinion target="bediening" category="SERVICE#GENERAL" polarity="negative" from="3" to="12"/>
+        </Opinions>
+      </sentence>
+      <sentence id="12">
+        <text>Mijn tweede Leefe uit het vatkwam in een flesje !</text>
+        <Opinions>
+          <Opinion target="leefe" category="DRINKS#STYLE_OPTIONS" polarity="negative" from="12" to="17"/>
+        </Opinions>
+      </sentence>
+      <sentence id="13">
+        <text>Kortom : echt waardeloos .</text>
+        <Opinions>
+          <Opinion target="null" category="RESTAURANT#GENERAL" polarity="negative" from="0" to="0"/>
+        </Opinions>
+      </sentence>
+      <sentence id="14">
+        <text>Nooit meer .</text>
+        <Opinions>
+          <Opinion target="null" category="RESTAURANT#GENERAL" polarity="negative" from="0" to="0"/>
+        </Opinions>
+      </sentence>
+    </sentences>
+  </Review>
+</Reviews> 
