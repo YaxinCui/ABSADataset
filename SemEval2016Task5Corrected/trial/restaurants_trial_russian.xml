@@ -1,0 +1,395 @@
+<?xml version="1.0" ?>
+<Reviews>
+	<Review rid="3976">
+		<sentences>
+			<sentence id="3976:0">
+				<text>День 8-го марта прошёл, можно и итоги подвести.</text>
+				<Opinions/>
+			</sentence>
+			<sentence id="3976:1">
+				<text>Решил написать отзыв о ресторане в котором отметили прекрасный весений праздник, прочитал отзывы edik077 и Rules77777и понял что либо мы были вразных ресторанах, либо у ребят что-то незаладилось.</text>
+				<Opinions>
+					<Opinion target="ресторане" category="RESTAURANT#GENERAL" polarity="positive" from="23" to="32"/>
+				</Opinions>
+			</sentence>
+			<sentence id="3976:2">
+				<text>Но теперь о ресторане.</text>
+				<Opinions/>
+			</sentence>
+			<sentence id="3976:3">
+				<text>Столик бронировали заранее и сделали так как предложил администратор т.е. сделали предварительный заказ, когда придя увидели полностью заполненый ресторан поняли что совет нам дали действительно правильный, в ресторане было человек 70-80, тут действительно горячее блюдо можно ждать весьма долго.</text>
+				<Opinions>
+					<Opinion target="администратор" category="SERVICE#GENERAL" polarity="positive" from="55" to="68"/>
+					<Opinion target="предварительный заказ" category="SERVICE#GENERAL" polarity="positive" from="82" to="103"/>
+				</Opinions>
+			</sentence>
+			<sentence id="3976:4">
+				<text>Меню достаточно разнообразное и весьма вкусное, мне и моим друзьям понравилось всё что нам принесли, а принесли нам немало.</text>
+				<Opinions>
+					<Opinion target="Меню" category="FOOD#QUALITY" polarity="positive" from="0" to="4"/>
+					<Opinion target="Меню" category="FOOD#STYLE_OPTIONS" polarity="positive" from="0" to="4"/>
+				</Opinions>
+			</sentence>
+			<sentence id="3976:5">
+				<text>Обслуживание может и не самое лучьшее в городе, но официанты делали всё что нужно.</text>
+				<Opinions>
+					<Opinion target="официанты" category="SERVICE#GENERAL" polarity="neutral" from="51" to="60"/>
+				</Opinions>
+			</sentence>
+			<sentence id="3976:6">
+				<text>Должен сказать что ждать нам всёравно пришлось, не очень долго конечно, но всё-же.</text>
+				<Opinions>
+ 					<Opinion target="NULL" category="SERVICE#GENERAL" polarity="neutral" from="0" to="0"/>
+				</Opinions>
+			</sentence>
+			<sentence id="3976:7">
+				<text>Интерьер хороший, удобные диваны.</text>
+				<Opinions>
+					<Opinion target="Интерьер" category="AMBIENCE#GENERAL" polarity="positive" from="0" to="8"/>
+					<Opinion target="диваны" category="AMBIENCE#GENERAL" polarity="positive" from="26" to="32"/>
+				</Opinions>
+			</sentence>
+			<sentence id="3976:8">
+				<text>Очень хорошая музыкальная программа и весёлый ведущий.</text>
+				<Opinions>
+					<Opinion target="музыкальная программа" category="AMBIENCE#GENERAL" polarity="positive" from="14" to="35"/>
+					<Opinion target="ведущий" category="AMBIENCE#GENERAL" polarity="positive" from="46" to="53"/>
+				</Opinions>
+			</sentence>
+			<sentence id="3976:9">
+				<text>В общем я остался доволен своим выбором, и тем как мы провели вечер, хороший ресторан, уютный и кухня хорошая.</text>
+				<Opinions>
+					<Opinion target="ресторан" category="RESTAURANT#GENERAL" polarity="positive" from="77" to="85"/>
+					<Opinion target="NULL" category="AMBIENCE#GENERAL" polarity="positive" from="0" to="0"/>
+					<Opinion target="кухня" category="FOOD#QUALITY" polarity="positive" from="96" to="101"/>
+				</Opinions>
+			</sentence>
+			<sentence id="3976:10">
+				<text>Руководству и персоналу СПАСИБО.</text>
+				<Opinions>
+					<Opinion target="Руководству" category="RESTAURANT#GENERAL" polarity="positive" from="0" to="11"/>
+					<Opinion target="персоналу" category="SERVICE#GENERAL" polarity="positive" from="14" to="23"/>
+				</Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="30808">
+		<sentences>
+			<sentence id="30808:0">
+				<text>Отмечали в этом ресторане день рождение на первом этаже в субботу вечером.</text>
+				<Opinions/>
+			</sentence>
+			<sentence id="30808:1">
+				<text>Хочу выразить большую благодарность прежде всего руководству ресторана, обслуживающему персоналу и конечно же тем сотрудникам, которые готовят посетителям заведения столь вкусные блюда.</text>
+				<Opinions>
+					<Opinion target="руководству ресторана" category="RESTAURANT#GENERAL" polarity="positive" from="49" to="70"/>
+					<Opinion target="обслуживающему персоналу" category="SERVICE#GENERAL" polarity="positive" from="72" to="96"/>
+					<Opinion target="сотрудникам" category="SERVICE#GENERAL" polarity="positive" from="114" to="125"/>
+					<Opinion target="блюда" category="FOOD#QUALITY" polarity="positive" from="179" to="184"/>
+				</Opinions>
+			</sentence>
+			<sentence id="30808:2">
+				<text>Понравилось абсолютно все.</text>
+				<Opinions>
+					<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="positive" from="0" to="0"/>
+				</Opinions>
+			</sentence>
+			<sentence id="30808:3">
+				<text>Конечно же впечатляет интерьер: уютно и красиво.</text>
+				<Opinions>
+					<Opinion target="интерьер" category="AMBIENCE#GENERAL" polarity="positive" from="22" to="30"/>
+				</Opinions>
+			</sentence>
+			<sentence id="30808:4">
+				<text>Стол был шикарный.</text>
+				<Opinions>
+					<Opinion target="Стол" category="FOOD#QUALITY" polarity="positive" from="0" to="4"/>
+				</Opinions>
+			</sentence>
+			<sentence id="30808:5">
+				<text>Нас обслуживал официант Бахрам, спасибо ему.</text>
+				<Opinions>
+					<Opinion target="официант" category="SERVICE#GENERAL" polarity="positive" from="15" to="23"/>
+				</Opinions>
+			</sentence>
+			<sentence id="30808:6">
+				<text>Хочу отметить, что для ресторана такого уровня цены не высокие.</text>
+				<Opinions>
+					<Opinion target="ресторана" category="RESTAURANT#GENERAL" polarity="positive" from="23" to="32"/>
+					<Opinion target="ресторана" category="RESTAURANT#PRICES" polarity="positive" from="23" to="32"/>
+				</Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="16137">
+		<sentences>
+			<sentence id="16137:0">
+				<text>Для встречи с друзьями было выбрано данное заведение в основном благодаря отзывам.</text>
+				<Opinions/>
+			</sentence>
+			<sentence id="16137:1">
+				<text>Ну во-первых, хочется отметить одно маленькое разочарование, которое меня охватило сразу же: интерьер.</text>
+				<Opinions>
+					<Opinion target="интерьер" category="AMBIENCE#GENERAL" polarity="negative" from="93" to="101"/>
+				</Opinions>
+			</sentence>
+			<sentence id="16137:2">
+				<text>Я действительно ожидала увидеть нечто большее.</text>
+				<Opinions>
+					<Opinion target="NULL" category="AMBIENCE#GENERAL" polarity="negative" from="0" to="0"/>
+				</Opinions>
+			</sentence>
+			<sentence id="16137:3">
+				<text>Не буду нудно расписывать что и как не так.</text>
+				<Opinions>
+					<Opinion target="NULL" category="AMBIENCE#GENERAL" polarity="negative" from="0" to="0"/>
+				</Opinions>
+			</sentence>
+			<sentence id="16137:4">
+				<text>Просто осталось чувство, что столь интересную задумку gangster bar-а не до конца смогли реализовать.</text>
+				<Opinions>
+					<Opinion target="gangster bar-а" category="AMBIENCE#GENERAL" polarity="negative" from="54" to="68"/>
+				</Opinions>
+			</sentence>
+			<sentence id="16137:5">
+				<text>Черно-белые плакаты, кирпичные стены...</text>
+				<Opinions/>
+			</sentence>
+			<sentence id="16137:6">
+				<text>Во-вторых: Встреча гостей в ресторане- отсутствовала, мы стояли ждали...оглядывались, пару официантов делали свои дела...</text>
+				<Opinions>
+					<Opinion target="Встреча гостей" category="SERVICE#GENERAL" polarity="negative" from="11" to="25"/>
+					<Opinion target="официантов" category="SERVICE#GENERAL" polarity="negative" from="91" to="101"/>
+				</Opinions>
+			</sentence>
+			<sentence id="16137:7">
+				<text>Не дождавшись хоть какого-то внимания в наш адрес, подошли к ближайшей девушке-официанту, и попросили посадить нас за столик, заказанный ранее.</text>
+				<Opinions>
+					<Opinion target="девушке-официанту" category="SERVICE#GENERAL" polarity="negative" from="71" to="88"/>
+				</Opinions>
+			</sentence>
+			<sentence id="16137:8">
+				<text>Провели.</text>
+				<Opinions>
+					<Opinion target="NULL" category="SERVICE#GENERAL" polarity="neutral" from="0" to="0"/>
+				</Opinions>
+			</sentence>
+			<sentence id="16137:9">
+				<text>Усадили.</text>
+				<Opinions>
+					<Opinion target="NULL" category="SERVICE#GENERAL" polarity="neutral" from="0" to="0"/>
+				</Opinions>
+			</sentence>
+			<sentence id="16137:10">
+				<text>Дальше было лучше.</text>
+				<Opinions/>
+			</sentence>
+			<sentence id="16137:11">
+				<text>Заказ принимали быстро, еду приносили тоже достаточно быстро, убирали пустые тарелки, бокалы вовремя.</text>
+				<Opinions>
+					<Opinion target="Заказ" category="SERVICE#GENERAL" polarity="positive" from="0" to="5"/>
+				</Opinions>
+			</sentence>
+			<sentence id="16137:12">
+				<text>Сама еда-названия соответствуют выбранному стилю заведения.</text>
+				<Opinions>
+					<Opinion target="еда" category="FOOD#STYLE_OPTIONS" polarity="positive" from="5" to="8"/>
+					<Opinion target="заведения" category="RESTAURANT#GENERAL" polarity="neutral" from="49" to="58"/>
+				</Opinions>
+			</sentence>
+			<sentence id="16137:13">
+				<text>Хотя на деле, ничего особенного и не предлагают.</text>
+				<Opinions>
+					<Opinion target="NULL" category="FOOD#STYLE_OPTIONS" polarity="negative" from="0" to="0"/>
+				</Opinions>
+			</sentence>
+			<sentence id="16137:14">
+				<text>Персонал улыбчивый, приветливый.</text>
+				<Opinions>
+					<Opinion target="Персонал" category="SERVICE#GENERAL" polarity="positive" from="0" to="8"/>
+				</Opinions>
+			</sentence>
+			<sentence id="16137:15">
+				<text>Сырная тарелка оставляет желать лучшего-для любителей сыра ее ну просто ОЧЕНЬ мало:)</text>
+				<Opinions>
+					<Opinion target="Сырная тарелка" category="FOOD#STYLE_OPTIONS" polarity="negative" from="0" to="14"/>
+				</Opinions>
+			</sentence>
+			<sentence id="16137:16">
+				<text>Салат цезарь-тарелка капусты, и три тонюсеньких (0,3см) ломтика курицы, сухарики, соус.</text>
+				<Opinions>
+					<Opinion target="Салат цезарь" category="FOOD#STYLE_OPTIONS" polarity="negative" from="0" to="12"/>
+					<Opinion target="курицы" category="FOOD#STYLE_OPTIONS" polarity="negative" from="64" to="70"/>
+				</Opinions>
+			</sentence>
+			<sentence id="16137:17">
+				<text>Из блюд больше ничего нареканий не вызвало.</text>
+				<Opinions>
+					<Opinion target="блюд" category="FOOD#QUALITY" polarity="neutral" from="3" to="7"/>
+				</Opinions>
+			</sentence>
+			<sentence id="16137:18">
+				<text>В итоге, хочу сделать вывод: соотношение цена-качество выдержано.</text>
+				<Opinions>
+					<Opinion target="NULL" category="FOOD#PRICES" polarity="positive" from="0" to="0"/>
+				</Opinions>
+			</sentence>
+			<sentence id="16137:19">
+				<text>Отличное место для большой компании.</text>
+				<Opinions>
+					<Opinion target="место" category="RESTAURANT#GENERAL" polarity="positive" from="9" to="14"/>
+				</Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="35867">
+		<sentences>
+			<sentence id="35867:0">
+				<text>Здравствуйте! 12.08.2014 мы отмечали нашу свадьбу в ресторане &quot;Фаворит&quot;.</text>
+				<Opinions/>
+			</sentence>
+			<sentence id="35867:1">
+				<text>Выбор был сделан по нескольким качествам данного места: прекрасное меню (большой выбор), вкуснейшая выпечка!!!, отличный сервис, хорошее расположение (метро рядом), красивый интерьер, присутствие естественного освещения делает атмосферу еще уютнее, цена соответствует качеству!!!</text>
+				<Opinions>
+					<Opinion target="места" category="RESTAURANT#PRICES" polarity="positive" from="49" to="54"/>
+					<Opinion target="меню" category="FOOD#STYLE_OPTIONS" polarity="positive" from="67" to="71"/>
+					<Opinion target="выпечка" category="FOOD#QUALITY" polarity="positive" from="100" to="107"/>
+					<Opinion target="сервис" category="SERVICE#GENERAL" polarity="positive" from="121" to="127"/>
+					<Opinion target="расположение" category="LOCATION#GENERAL" polarity="positive" from="137" to="149"/>
+					<Opinion target="интерьер" category="AMBIENCE#GENERAL" polarity="positive" from="174" to="182"/>
+					<Opinion target="атмосферу" category="AMBIENCE#GENERAL" polarity="positive" from="227" to="236"/>
+					<Opinion target="цена" category="FOOD#PRICES" polarity="positive" from="249" to="253"/>
+					<Opinion target="качеству" category="FOOD#QUALITY" polarity="positive" from="268" to="276"/>
+				</Opinions>
+			</sentence>
+			<sentence id="35867:2">
+				<text>Хотим сказать ОГРОМНОЕ спасибо всему персоналу!!!!!</text>
+				<Opinions>
+					<Opinion target="персоналу" category="SERVICE#GENERAL" polarity="positive" from="37" to="46"/>
+				</Opinions>
+			</sentence>
+			<sentence id="35867:3">
+				<text>Отдельно благодарим ЗАМЕЧАТЕЛЬНОГО менеджера по банкетам Анну, которая профессионально помогла: все подробно рассказала о кухне и самом ресторане, помогла с выбором блюд, напитков, выпечки и украшением зала, качественно донесла до нас всю необходимую информацию и суперски организовала наш праздник!!!</text>
+				<Opinions>
+					<Opinion target="менеджера" category="SERVICE#GENERAL" polarity="positive" from="35" to="44"/>					
+				</Opinions>
+			</sentence>
+			<sentence id="35867:4">
+				<text>Мы будем посещать Вас вновь и вновь!!!</text>
+				<Opinions>
+					<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="positive" from="0" to="0"/>
+				</Opinions>				
+			</sentence>
+			<sentence id="35867:5">
+				<text>Спасибо!!!</text>
+				<Opinions>
+					<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="positive" from="0" to="0"/>
+				</Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="6668">
+		<sentences>
+			<sentence id="6668:0">
+				<text>Мы посетили этот замечательный ресторанчик поздним вечером, ближе к полуночи, когда уже нигде не кормили по-настоящему.</text>
+				<Opinions>
+					<Opinion target="ресторанчик" category="RESTAURANT#GENERAL" polarity="positive" from="31" to="42"/>
+				</Opinions>
+			</sentence>
+			<sentence id="6668:1">
+				<text>Несмотря на плохую погоду, мы пытались показать приехавшим в гости родственникам (молодоженам) все красоты нашего города, включая белые ночи.</text>
+				<Opinions/>
+			</sentence>
+			<sentence id="6668:2">
+				<text>&quot;Квартиру №55&quot; выбрали из-за расположения и графика работы, ну и отзывы неплохие.</text>
+				<Opinions>
+					<Opinion target="&quot;Квартиру №55&quot;" category="RESTAURANT#GENERAL" polarity="positive" from="0" to="14"/>
+					<Opinion target="расположения" category="LOCATION#GENERAL" polarity="positive" from="29" to="41"/>
+				</Opinions>
+			</sentence>
+			<sentence id="6668:3">
+				<text>Часто проезжали мимо, и вот выдался повод зайти.</text>
+				<Opinions/>
+			</sentence>
+			<sentence id="6668:4">
+				<text>Накормили и напоили нас в эту холодную ночь замечательно вкусно.</text>
+				<Opinions>
+					<Opinion target="NULL" category="FOOD#QUALITY" polarity="positive" from="0" to="0"/>
+					<Opinion target="NULL" category="DRINK#QUALITY" polarity="positive" from="0" to="0"/>					
+				</Opinions>
+			</sentence>
+			<sentence id="6668:5">
+				<text>Не хочется употреблять слова сервис, обслуживание, т.к. нас не &quot;обслуживали&quot;, а радушно встречали, очень по-домашнему.</text>
+				<Opinions>
+					<Opinion target="NULL" category="SERVICE#GENERAL" polarity="positive" from="0" to="0"/>					
+				</Opinions>
+			</sentence>
+			<sentence id="6668:6">
+				<text>Помогли с заказом, посоветовали хорошее и недорогое вино.</text>
+				<Opinions>
+					<Opinion target="заказом" category="SERVICE#GENERAL" polarity="positive" from="10" to="17"/>
+					<Opinion target="вино" category="DRINK#PRICES" polarity="positive" from="52" to="56"/>
+					<Opinion target="вино" category="DRINK#QUALITY" polarity="positive" from="52" to="56"/>
+				</Opinions>
+			</sentence>
+			<sentence id="6668:7">
+				<text>Правда, заказ принесли не быстро, хотя кроме нас в ресторане было занято всего 2 столика и там уже люди давно сидели, пили чай.</text>
+				<Opinions>
+					<Opinion target="заказ" category="SERVICE#GENERAL" polarity="negative" from="8" to="13"/>										
+				</Opinions>
+			</sentence>
+			<sentence id="6668:8">
+				<text>Салаты готовили минут 20, потом еще ждали горячее.</text>
+				<Opinions>
+					<Opinion target="NULL" category="SERVICE#GENERAL" polarity="negative" from="0" to="0"/>
+				</Opinions>
+			</sentence>
+			<sentence id="6668:9">
+				<text>Мы скоротали время за бутылочкой вина.</text>
+				<Opinions>
+					<Opinion target="вина" category="FOOD#GENERAL" polarity="neutral" from="33" to="37"/>
+				</Opinions>
+			</sentence>
+			<sentence id="6668:10">
+				<text>Гостям очень понравились пожарские котлеты и тушеная телятина.</text>
+				<Opinions>
+					<Opinion target="пожарские котлеты" category="FOOD#QUALITY" polarity="positive" from="25" to="42"/>
+					<Opinion target="тушеная телятина" category="FOOD#QUALITY" polarity="positive" from="45" to="61"/>
+				</Opinions>
+			</sentence>
+			<sentence id="6668:11">
+				<text>Я брала буженину на гриле - это восторг!</text>
+				<Opinions>
+					<Opinion target="буженину на гриле" category="FOOD#QUALITY" polarity="positive" from="8" to="25"/>
+				</Opinions>
+			</sentence>
+			<sentence id="6668:12">
+				<text>Салаты были сытные и довольно вкусные, но как-то не запомнились.</text>
+				<Opinions>
+					<Opinion target="Салаты" category="FOOD#QUALITY" polarity="neutral" from="0" to="6"/>
+				</Opinions>
+			</sentence>
+			<sentence id="6668:13">
+				<text>Порции не огромные, но и не маленькие, мы наелись и не решились еще взять по десерту, хотя официант очень советовал и хвалил их десерты.</text>
+				<Opinions>
+					<Opinion target="Порции" category="FOOD#STYLE_OPTIONS" polarity="neutral" from="0" to="6"/>
+					<Opinion target="официант" category="SERVICE#GENERAL" polarity="neutral" from="91" to="99"/>
+				</Opinions>
+			</sentence>
+			<sentence id="6668:14">
+				<text>Так что, у нас есть повод придти в квартиру еще раз!</text>
+				<Opinions>
+					<Opinion target="квартиру" category="RESTAURANT#GENERAL" polarity="positive" from="35" to="43"/>
+				</Opinions>
+			</sentence>
+			<sentence id="6668:15">
+				<text>Хочу сказать большое спасибо &quot;ночному персоналу&quot; ресторана, который сделал наш поздний ужин таким приятным!</text>
+				<Opinions>
+					<Opinion target="персоналу" category="SERVICE#GENERAL" polarity="positive" from="38" to="47"/>
+					<Opinion target="ресторана" category="RESTAURANT#GENERAL" polarity="positive" from="49" to="58"/>
+					<Opinion target="ужин" category="FOOD#QUALITY" polarity="positive" from="87" to="91"/>
+				</Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+</Reviews>

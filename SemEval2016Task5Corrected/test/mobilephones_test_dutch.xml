@@ -1,0 +1,2175 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Reviews>
+    <Review rid="Wiko_dual_sim_smartphone_Lenny_1">
+        <sentences>
+            <sentence id="Wiko_dual_sim_smartphone_Lenny_1:1">
+                <text>Ik zou zeggen goed voor €40 maar voor 100 echt niet.</text>
+                <Opinions>
+                    <Opinion category="PHONE#PRICE" polarity="negative"  />
+                    <Opinion category="PHONE#QUALITY" polarity="negative"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Wiko_dual_sim_smartphone_Lenny_1:2">
+                <text>Ze hadden een goeie camera beloofd maar hij is zeer slecht ook raare achtergrond bij foto&apos;s.</text>
+                <Opinions>
+                    <Opinion category="MULTIMEDIA_DEVICES#OPERATION_PERFORMANCE" polarity="negative"  />
+                    <Opinion category="MULTIMEDIA_DEVICES#QUALITY" polarity="negative"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Wiko_dual_sim_smartphone_Lenny_1:3">
+                <text>Je hebt wel wat opties om foto&apos;s te bewerken.</text>
+                <Opinions>
+                    <Opinion category="SOFTWARE#DESIGN_FEATURES" polarity="neutral"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Wiko_dual_sim_smartphone_Lenny_1:4">
+                <text>Ook niet zo een snel toestel e,in het begin wel na een tijdje word hij traag .</text>
+                <Opinions>
+                    <Opinion category="PHONE#OPERATION_PERFORMANCE" polarity="negative"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Wiko_dual_sim_smartphone_Lenny_1:5">
+                <text>ook iets te groot zit niet zo goed in broekzak valt makkelijk uit je broekzak</text>
+                <Opinions>
+                    <Opinion category="PHONE#DESIGN_FEATURES" polarity="negative"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Wiko_dual_sim_smartphone_Lenny_1:6">
+                <text>Het is echt geen aanrader .</text>
+                <Opinions>
+                    <Opinion category="PHONE#GENERAL" polarity="negative"  />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="Wiko_dual_sim_smartphone_Lenny_2">
+        <sentences>
+            <sentence id="Wiko_dual_sim_smartphone_Lenny_2:1">
+                <text>Het is een erg fijne mobiel heel makkelijk te begrijpen.</text>
+                <Opinions>
+                    <Opinion category="PHONE#GENERAL" polarity="positive"  />
+                    <Opinion category="PHONE#USABILITY" polarity="positive"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Wiko_dual_sim_smartphone_Lenny_2:2">
+                <text>echter is de camera bizar slecht.</text>
+                <Opinions>
+                    <Opinion category="MULTIMEDIA_DEVICES#OPERATION_PERFORMANCE" polarity="negative"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Wiko_dual_sim_smartphone_Lenny_2:3">
+                <text>van dichtbij neemt hij geen scherpe foto&apos;s en stelt hij ook niet scherp.</text>
+                <Opinions>
+                    <Opinion category="MULTIMEDIA_DEVICES#QUALITY" polarity="negative"  />
+                    <Opinion category="MULTIMEDIA_DEVICES#OPERATION_PERFORMANCE" polarity="negative"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Wiko_dual_sim_smartphone_Lenny_2:4">
+                <text>en de rest van de foto&apos;s zijn wazig en blokkerig met rare vlekken.</text>
+                <Opinions>
+                    <Opinion category="MULTIMEDIA_DEVICES#QUALITY" polarity="negative"  />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="LG_Nexus_5_1">
+        <sentences>
+            <sentence id="LG_Nexus_5_1:1">
+                <text>Deze smartphone slaat in mijn ogen alles.</text>
+                <Opinions>
+                    <Opinion category="PHONE#GENERAL" polarity="positive"  />
+                </Opinions>
+            </sentence>
+            <sentence id="LG_Nexus_5_1:2">
+                <text>Met zijn prijs en capaciteiten kan hij gemakkelijk op tegen de Iphones.</text>
+                <Opinions>
+                    <Opinion category="PHONE#GENERAL" polarity="positive"  />
+                    <Opinion category="PHONE#PRICE" polarity="positive"  />
+                </Opinions>
+            </sentence>
+            <sentence id="LG_Nexus_5_1:3">
+                <text>Het toestel is van Google en draait met de finesse van Google.</text>
+                <Opinions>
+                    <Opinion category="PHONE#OPERATION_PERFORMANCE" polarity="positive"  />
+                </Opinions>
+            </sentence>
+            <sentence id="LG_Nexus_5_1:4">
+                <text>Bovendien krijg je altijd als eerste de nieuwste android updates die Google eerst naar zijn eigen toestellen stuurt en daarna pas naar de andere.</text>
+                <Opinions>
+                    <Opinion category="SOFTWARE#GENERAL" polarity="positive"  />
+                </Opinions>
+            </sentence>
+            <sentence id="LG_Nexus_5_1:5">
+                <text>Ik heb het toestel nu meer dan een jaar en ik ben er nog altijd even tevreden mee als n het begin.</text>
+                <Opinions>
+                    <Opinion category="PHONE#GENERAL" polarity="positive"  />
+                </Opinions>
+            </sentence>
+            <sentence id="LG_Nexus_5_1:6">
+                <text>De prijs zal waarschijnlijk nog wel wat zakken nu Google nieuwe Nexus-toestellen op de markt zal brengen.</text>
+                <Opinions/>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="LG_Nexus_5_2">
+        <sentences>
+            <sentence id="LG_Nexus_5_2:1">
+                <text>Het is een mooi en geweldig snel apparaat.</text>
+                <Opinions>
+                    <Opinion category="PHONE#OPERATION_PERFORMANCE" polarity="positive"  />
+                    <Opinion category="PHONE#DESIGN_FEATURES" polarity="positive"  />
+                </Opinions>
+            </sentence>
+            <sentence id="LG_Nexus_5_2:2">
+                <text>Helaas heeft de nexus 5 wel 1 groot probleem.</text>
+                <Opinions>
+                    <Opinion category="PHONE#GENERAL" polarity="negative"  />
+                </Opinions>
+            </sentence>
+            <sentence id="LG_Nexus_5_2:3">
+                <text>Hij gaat (bij mij in ieder geval) ontzettend snel en vaak kapot, en de reparatie kosten zijn zeker niet goedkoop.</text>
+                <Opinions>
+                    <Opinion category="PHONE#QUALITY" polarity="negative"  />
+                </Opinions>
+            </sentence>
+            <sentence id="LG_Nexus_5_2:4">
+                <text>Dus als u erover denkt om een nexus 5 aan te schaffen houd het dan wel in uw achterhoofd om er voorzichtig mee om te gaan.</text>
+                <Opinions/>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="LG_Nexus_5_3">
+        <sentences>
+            <sentence id="LG_Nexus_5_3:1">
+                <text>Is een snelle smartphone met een mooi scherm maar matig geluid en vooral : Lollipop lukt tot op heden niet (16/01/2015, toestel gekocht begin januari).</text>
+                <Opinions>
+                    <Opinion category="PHONE#OPERATION_PERFORMANCE" polarity="positive"  />
+                    <Opinion category="DISPLAY#DESIGN_FEATURES" polarity="positive"  />
+                    <Opinion category="MULTIMEDIA_DEVICES#QUALITY" polarity="negative"  />
+                    <Opinion category="OS#OPERATION_PERFORMANCE" polarity="negative"  />
+                </Opinions>
+            </sentence>
+            <sentence id="LG_Nexus_5_3:2">
+                <text>Had daarvoor een 2 jaar-oude HTC One S met amoled scherm.</text>
+                <Opinions/>
+            </sentence>
+            <sentence id="LG_Nexus_5_3:3">
+                <text>Beetje teleurgesteld door stock android : google apps niet zo makkelijk definitief uit te schakelen.</text>
+                <Opinions>
+                    <Opinion category="OS#GENERAL" polarity="negative"  />
+                </Opinions>
+            </sentence>
+            <sentence id="LG_Nexus_5_3:4">
+                <text>Mijn Nexus 7 2013 is op dat punt toch beter te manipuleren.</text>
+                <Opinions/>
+            </sentence>
+            <sentence id="LG_Nexus_5_3:5">
+                <text>Al bij al toch nog een goede smartphone voor z&apos;n geld.</text>
+                <Opinions>
+                    <Opinion category="PHONE#QUALITY" polarity="positive"  />
+                    <Opinion category="PHONE#PRICE" polarity="positive"  />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="LG_Nexus_5_4">
+        <sentences>
+            <sentence id="LG_Nexus_5_4:1">
+                <text>Jarenlang trouwe fan/klant van Apple.</text>
+                <Opinions>
+                    <Opinion category="COMPANY#GENERAL" polarity="positive"  />
+                </Opinions>
+            </sentence>
+            <sentence id="LG_Nexus_5_4:2">
+                <text>Uiteindelijk wou ik na ontelbare miserie met m&apos;n laatste Iphone overschakelen naar een ander merk.</text>
+                <Opinions/>
+            </sentence>
+            <sentence id="LG_Nexus_5_4:3">
+                <text>Lang over moeten nadenken, Apple heeft alles, is ordelijk, gemakkelijk, overzichtelijk, ... .</text>
+                <Opinions>
+                    <Opinion category="COMPANY#GENERAL" polarity="positive"  />
+                </Opinions>
+            </sentence>
+            <sentence id="LG_Nexus_5_4:4">
+                <text>Uiteindelijk gekozen voor deze Nexus 5.</text>
+                <Opinions/>
+            </sentence>
+            <sentence id="LG_Nexus_5_4:5">
+                <text>Hij is de helft goedkoper dan m&apos;n laatste Iphone en geloof me, hij is zijn prijs minstens dubbel waard (in tegenstelling tot Apple-producten).</text>
+                <Opinions>
+                    <Opinion category="PHONE#PRICE" polarity="positive"  />
+                    <Opinion category="PHONE#QUALITY" polarity="positive"  />
+                </Opinions>
+            </sentence>
+            <sentence id="LG_Nexus_5_4:6">
+                <text>Overschakelen ging erg vlot, even ordelijk en gemakkelijk als Iphone enkel kan hij minstens 20 snufjes extra waarvan Apple enkel kan dromen (PhotoSphere, wandelmappen, energiebesparende stand, batterijduur, ...)</text>
+                <Opinions>
+                    <Opinion category="PHONE#USABILITY" polarity="positive"  />
+                    <Opinion category="PHONE#DESIGN_FEATURES" polarity="positive"  />
+                </Opinions>
+            </sentence>
+            <sentence id="LG_Nexus_5_4:7">
+                <text>Batterij gaat als 4G/WIFI/GPS ingesteld zijn van &apos;s ochtends tot +/-2u &apos;snachts mee.</text>
+                <Opinions>
+                    <Opinion category="BATTERY#OPERATION_PERFORMANCE" polarity="positive"  />
+                </Opinions>
+            </sentence>
+            <sentence id="LG_Nexus_5_4:8">
+                <text>(Iphone was in zo&apos;n geval rond 15u uitgevallen)</text>
+                <Opinions/>
+            </sentence>
+            <sentence id="LG_Nexus_5_4:9">
+                <text>Geen enkele seconde spijt van gehad.</text>
+                <Opinions>
+                    <Opinion category="PHONE#GENERAL" polarity="positive"  />
+                </Opinions>
+            </sentence>
+            <sentence id="LG_Nexus_5_4:10">
+                <text>Thanks Bol!</text>
+                <Opinions>
+                    <Opinion category="COMPANY#GENERAL" polarity="positive"  />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="Huawei_Ascend_Mate_1">
+        <sentences>
+            <sentence id="Huawei_Ascend_Mate_1:1">
+                <text>Heb dit toestel nu al 5 maanden, en ik heb er nog geen problemen mee gehad.</text>
+                <Opinions>
+                    <Opinion category="PHONE#GENERAL" polarity="positive"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Huawei_Ascend_Mate_1:2">
+                <text>Aan het begin was het formaat alleen even wennen maar hier ben je na een week overheen - zorg wel dat je een hoesje besteld voor dat je de telefoon koopt - hij is erg groot en past dus niet zomaar in je tas.</text>
+                <Opinions>
+                    <Opinion category="PHONE#DESIGN_FEATURES" polarity="neutral"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Huawei_Ascend_Mate_1:3">
+                <text>Toestel is niet zwaar en je kan ondanks de grote maat prima ermee bellen.</text>
+                <Opinions>
+                    <Opinion category="PHONE#DESIGN_FEATURES" polarity="positive"  />
+                    <Opinion category="PHONE#OPERATION_PERFORMANCE" polarity="positive"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Huawei_Ascend_Mate_1:4">
+                <text>Aan beide kanten geeft dit goed gehoor.</text>
+                <Opinions>
+                    <Opinion category="PHONE#OPERATION_PERFORMANCE" polarity="positive"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Huawei_Ascend_Mate_1:5">
+                <text>Alle apps werken er uitstekend op en ook bijna alle apps zijn voor dit toestel beschikbaar.</text>
+                <Opinions>
+                    <Opinion category="SOFTWARE#OPERATION_PERFORMANCE" polarity="positive"  />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="Huawei_Ascend_Mate_2">
+        <sentences>
+            <sentence id="Huawei_Ascend_Mate_2:1">
+                <text>Mooi van design, door de afmetingen wel kwetsbaarder en een cover is wel aan te raden!</text>
+                <Opinions>
+                    <Opinion category="PHONE#DESIGN_FEATURES" polarity="neutral"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Huawei_Ascend_Mate_2:2">
+                <text>Accu gaat zeer lang mee, zelfs met intens gebruik.</text>
+                <Opinions>
+                    <Opinion category="BATTERY#OPERATION_PERFORMANCE" polarity="positive"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Huawei_Ascend_Mate_2:3">
+                <text>Via de instellingen kan je heel makkelijk de energiebesparing aanpassen wat de levensduur van de accu weer te goede komt.</text>
+                <Opinions>
+                    <Opinion category="BATTERY#OPERATION_PERFORMANCE" polarity="positive"  />
+                    <Opinion category="SOFTWARE#OPERATION_PERFORMANCE" polarity="positive"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Huawei_Ascend_Mate_2:4">
+                <text>Al heeft het toestel grote afmetingen, het past nog steeds in je broekzak.</text>
+                <Opinions>
+                    <Opinion category="PHONE#DESIGN_FEATURES" polarity="neutral"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Huawei_Ascend_Mate_2:5">
+                <text>Scherm regeert verder goed maar een screen protector is aan te raden.</text>
+                <Opinions>
+                    <Opinion category="DISPLAY#OPERATION_PERFORMANCE" polarity="positive"  />
+                    <Opinion category="DISPLAY#DESIGN_FEATURES" polarity="neutral"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Huawei_Ascend_Mate_2:6">
+                <text>Bij in en uitzoomen op een pagina heeft het toestel soms moeite.</text>
+                <Opinions>
+                    <Opinion category="SOFTWARE#OPERATION_PERFORMANCE" polarity="negative"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Huawei_Ascend_Mate_2:7">
+                <text>Scherpte en helderheid van de kleuren is zeer goed te noemen.</text>
+                <Opinions>
+                    <Opinion category="DISPLAY#QUALITY" polarity="positive"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Huawei_Ascend_Mate_2:8">
+                <text>Toestel is grotendeels naar eigen inzicht in te delen en heeft meerdere thema&apos;s.</text>
+                <Opinions>
+                    <Opinion category="OS#DESIGN_FEATURES" polarity="positive"  />
+                    <Opinion category="OS#USABILITY" polarity="positive"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Huawei_Ascend_Mate_2:9">
+                <text>De navigatie in de app instellingen is duidelijk en het toestel is zeer gebruiksvriendelijk.</text>
+                <Opinions>
+                    <Opinion category="SOFTWARE#USABILITY" polarity="positive"  />
+                    <Opinion category="PHONE#USABILITY" polarity="positive"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Huawei_Ascend_Mate_2:10">
+                <text>De snelle processor zorgt ervoor dat je makkelijk kunt multitasken.</text>
+                <Opinions>
+                    <Opinion category="CPU#OPERATION_PERFORMANCE" polarity="positive"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Huawei_Ascend_Mate_2:11">
+                <text>Camera is goed en maakt mooie foto&apos;s.</text>
+                <Opinions>
+                    <Opinion category="MULTIMEDIA_DEVICES#OPERATION_PERFORMANCE" polarity="positive"  />
+                    <Opinion category="MULTIMEDIA_DEVICES#QUALITY" polarity="positive"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Huawei_Ascend_Mate_2:12">
+                <text>Geluid is prima en heeft Dolby Digital Plus optie wat een sorround sound gevoel geeft.</text>
+                <Opinions>
+                    <Opinion category="MULTIMEDIA_DEVICES#OPERATION_PERFORMANCE" polarity="positive"  />
+                    <Opinion category="MULTIMEDIA_DEVICES#DESIGN_FEATURES" polarity="positive"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Huawei_Ascend_Mate_2:13">
+                <text>Nadeel is dat alle app&apos;s op een aparte blad komen te staan en niet in 1 app.</text>
+                <Opinions>
+                    <Opinion category="SOFTWARE#DESIGN_FEATURES" polarity="negative"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Huawei_Ascend_Mate_2:14">
+                <text>Lettertype is alleen aan te passen naar grootte en andere lettertypes heb ik nog niet kunnen installeren.</text>
+                <Opinions>
+                    <Opinion category="SOFTWARE#DESIGN_FEATURES" polarity="negative"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Huawei_Ascend_Mate_2:15">
+                <text>Voordeel is dat het toestel niet al teveel app&apos;s van Huawei zelf installeert.</text>
+                <Opinions>
+                    <Opinion category="PHONE#MISCELLANEOUS" polarity="positive"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Huawei_Ascend_Mate_2:16">
+                <text>Draait nog op Android 4.1.2 maar als ik Google gebruik dan denk ik dat er voor de Europese markt nog een update komt.</text>
+                <Opinions/>
+            </sentence>
+            <sentence id="Huawei_Ascend_Mate_2:17">
+                <text>Zeker weet ik het niet.</text>
+                <Opinions/>
+            </sentence>
+            <sentence id="Huawei_Ascend_Mate_2:18">
+                <text>Via de USB optie heb je de mogelijkheid om het programma HiSuite op pc/laptop te installeren die ook zeer makkelijk in gebruik is.</text>
+                <Opinions>
+                    <Opinion category="PORTS#GENERAL" polarity="positive"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Huawei_Ascend_Mate_2:19">
+                <text>Backuppen, terugzetten en overzetten van contacten en data gaat heel makkelijk.</text>
+                <Opinions>
+                    <Opinion category="PHONE#CONNECTIVITY" polarity="positive"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Huawei_Ascend_Mate_2:20">
+                <text>Dit type Mate is nog de 3G versie en de Mate 2 met 4G module is in de maak.</text>
+                <Opinions/>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="Huawei_Ascend_Mate_3">
+        <sentences>
+            <sentence id="Huawei_Ascend_Mate_3:1">
+                <text>Ik heb de mate nu 2 weken in gebruik en ben absoluut enthousiast.</text>
+                <Opinions>
+                    <Opinion category="PHONE#GENERAL" polarity="positive"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Huawei_Ascend_Mate_3:2">
+                <text>Huawei is nog niet heel erg bekend onder de mensen maar dit zou naar mijn mening moeten veranderen.</text>
+                <Opinions>
+                    <Opinion category="COMPANY#GENERAL" polarity="positive"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Huawei_Ascend_Mate_3:3">
+                <text>Je hebt heel veel telefoon voor weinig geld.</text>
+                <Opinions>
+                    <Opinion category="PHONE#GENERAL" polarity="positive"  />
+                    <Opinion category="PHONE#PRICE" polarity="positive"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Huawei_Ascend_Mate_3:4">
+                <text>Het scherm is mooi, helder, kleuren zijn naar wens in te stellen.</text>
+                <Opinions>
+                    <Opinion category="DISPLAY#OPERATION_PERFORMANCE" polarity="positive"  />
+                    <Opinion category="DISPLAY#DESIGN_FEATURES" polarity="positive"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Huawei_Ascend_Mate_3:5">
+                <text>De software is goed, helaas nog wel draaiend op android 4.1 maar er zal ongetwijfeld een update komen.</text>
+                <Opinions>
+                    <Opinion category="SOFTWARE#GENERAL" polarity="positive"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Huawei_Ascend_Mate_3:6">
+                <text>Het scherm reageerd goed en zorgt daardoor voor een goede beleving.</text>
+                <Opinions>
+                    <Opinion category="DISPLAY#OPERATION_PERFORMANCE" polarity="positive"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Huawei_Ascend_Mate_3:7">
+                <text>De accuduur is werkelijk briljant!</text>
+                <Opinions>
+                    <Opinion category="BATTERY#OPERATION_PERFORMANCE" polarity="positive"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Huawei_Ascend_Mate_3:8">
+                <text>Zelfs met regelmatig gebruik gaat de mate 2 dagen mee op de accu.</text>
+                <Opinions>
+                    <Opinion category="BATTERY#OPERATION_PERFORMANCE" polarity="positive"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Huawei_Ascend_Mate_3:9">
+                <text>Groot pluspunt!</text>
+                <Opinions>
+                    <Opinion category="BATTERY#OPERATION_PERFORMANCE" polarity="positive"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Huawei_Ascend_Mate_3:10">
+                <text>Mijn mate is mijn maatje.</text>
+                <Opinions>
+                    <Opinion category="PHONE#GENERAL" polarity="positive"  />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="Nokia_Lumia_635_1">
+        <sentences>
+            <sentence id="Nokia_Lumia_635_1:1">
+                <text>had mijn Samsung Galaxy S5 verkocht... meeste dachten waarom zou je zo een over stap maken naar iets wat niet in de categorie android of ios valt.. de nokia lumia is gewoon een top toestel, met niet zoveel fratsen er op waar mee je eigenlijk niets mee kan zoals bij samsung en apple.</text>
+                <Opinions>
+                    <Opinion category="PHONE#GENERAL" polarity="positive"  />
+                    <Opinion category="PHONE#DESIGN_FEATURES" polarity="positive"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Nokia_Lumia_635_1:2">
+                <text>als je verstand hebt van Windows dan heb je ook verstand van Lumia.</text>
+                <Opinions>
+                    <Opinion category="OS#USABILITY" polarity="positive"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Nokia_Lumia_635_1:3">
+                <text>Handig en Snel, Verbinding tussen je Windows 8 Computer en Lumia werkt optimaal.</text>
+                <Opinions>
+                    <Opinion category="PHONE#OPERATION_PERFORMANCE" polarity="positive"  />
+                    <Opinion category="PHONE#CONNECTIVITY" polarity="positive"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Nokia_Lumia_635_1:4">
+                <text>Hij ligt lekker in de hand, Toetsenbord is alleen even wennen, maar die vult je woorden al snel aan.</text>
+                <Opinions>
+                    <Opinion category="PHONE#DESIGN_FEATURES" polarity="positive"  />
+                    <Opinion category="KEYBOARD#QUALITY" polarity="neutral"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Nokia_Lumia_635_1:5">
+                <text>Het is best een oud model ik zou dus gaan voor de Lumia 640 LTE !.</text>
+                <Opinions>
+                    <Opinion category="PHONE#GENERAL" polarity="neutral"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Nokia_Lumia_635_1:6">
+                <text>Het is genieten, alles werkt perfect.. van filmpjes tot muziek, van games tot offline navigatie.</text>
+                <Opinions>
+                    <Opinion category="PHONE#GENERAL" polarity="positive"  />
+                    <Opinion category="PHONE#OPERATION_PERFORMANCE" polarity="positive"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Nokia_Lumia_635_1:7">
+                <text>Je zal merken dat je MB&apos;s over houd door middel van bepaalde apps die niet meer op je telefoon staan zoals gewoonlijk.</text>
+                <Opinions>
+                    <Opinion category="PHONE#DESIGN_FEATURES" polarity="positive"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Nokia_Lumia_635_1:8">
+                <text>4G op de Lumia is efficiënt.</text>
+                <Opinions>
+                    <Opinion category="PHONE#CONNECTIVITY" polarity="positive"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Nokia_Lumia_635_1:9">
+                <text>Voor mij was het meer ik stap over naar iets heel anders, eens wat anders proberen.</text>
+                <Opinions/>
+            </sentence>
+            <sentence id="Nokia_Lumia_635_1:10">
+                <text>Geen Front-Camera of Flits, Design is op en top.. en je word door alles en nog wat gelijk op de hoogte gehouden.</text>
+                <Opinions>
+                    <Opinion category="MULTIMEDIA_DEVICES#GENERAL" polarity="neutral"  />
+                    <Opinion category="PHONE#DESIGN_FEATURES" polarity="positive"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Nokia_Lumia_635_1:11">
+                <text>Sommige apps zoals Whatsapp etc.. zien der nog best Oud uit, maar er komen om de week nieuwe updates.</text>
+                <Opinions>
+                    <Opinion category="SOFTWARE#GENERAL" polarity="neutral"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Nokia_Lumia_635_1:12">
+                <text>Je merkt echt dat Windows en Lumia zich aan het ontwikkelen zijn, en dat Android en IOS wel eens een concurrentie erbij hebben wat Net een Level verder wilt gaan.</text>
+                <Opinions/>
+            </sentence>
+            <sentence id="Nokia_Lumia_635_1:13">
+                <text>Budget Telefoon Top!</text>
+                <Opinions>
+                    <Opinion category="PHONE#GENERAL" polarity="positive"  />
+                    <Opinion category="PHONE#PRICE" polarity="positive"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Nokia_Lumia_635_1:14">
+                <text>Batterij duur ook goed, Nokia blijft Nokia ;) daarom 640 LTE die komt na 635. en die was dus ook al overgenomen door Microsoft.</text>
+                <Opinions>
+                    <Opinion category="BATTERY#OPERATION_PERFORMANCE" polarity="positive"  />
+                    <Opinion category="COMPANY#GENERAL" polarity="positive"  />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="Nokia_Lumia_635_2">
+        <sentences>
+            <sentence id="Nokia_Lumia_635_2:1">
+                <text>Jarenlang iPhones gehad, nu eens gekozen voor een goedkopere Windows Phone.</text>
+                <Opinions>
+                    <Opinion category="PHONE#PRICE" polarity="positive"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Nokia_Lumia_635_2:2">
+                <text>Nog geen minuut spijt.</text>
+                <Opinions>
+                    <Opinion category="PHONE#GENERAL" polarity="positive"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Nokia_Lumia_635_2:3">
+                <text>De telefoon ziet er mooi uit en voelt degelijk.</text>
+                <Opinions>
+                    <Opinion category="PHONE#DESIGN_FEATURES" polarity="positive"  />
+                    <Opinion category="PHONE#QUALITY" polarity="positive"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Nokia_Lumia_635_2:4">
+                <text>Windows 8.1 is echt gebruiksvriendelijk, snel en een stuk moderner dan iOS.</text>
+                <Opinions>
+                    <Opinion category="OS#USABILITY" polarity="positive"  />
+                    <Opinion category="OS#OPERATION_PERFORMANCE" polarity="positive"  />
+                    <Opinion category="OS#DESIGN_FEATURES" polarity="positive"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Nokia_Lumia_635_2:5">
+                <text>Gebruik de telefoon met name voor bellen, sms-en, mailen en wat internet en apps.</text>
+                <Opinions/>
+            </sentence>
+            <sentence id="Nokia_Lumia_635_2:6">
+                <text>App aanbod is ruim voldoende, nog niets gemist.</text>
+                <Opinions>
+                    <Opinion category="SOFTWARE#GENERAL" polarity="positive"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Nokia_Lumia_635_2:7">
+                <text>Mailen en sms-en is fantastisch!</text>
+                <Opinions>
+                    <Opinion category="PHONE#GENERAL" polarity="positive"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Nokia_Lumia_635_2:8">
+                <text>Zeker met het &apos;swipe&apos; toetsenbord en de woordsuggesties, typ nu minstens 2 keer zo snel en zonder fouten.</text>
+                <Opinions>
+                    <Opinion category="KEYBOARD#DESIGN_FEATURES" polarity="positive"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Nokia_Lumia_635_2:9">
+                <text>Office documenten zijn makkelijk te openen.</text>
+                <Opinions>
+                    <Opinion category="SOFTWARE#USABILITY" polarity="positive"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Nokia_Lumia_635_2:10">
+                <text>Batterij gaat bij mij zo&apos;n 2 dagen mee.</text>
+                <Opinions>
+                    <Opinion category="BATTERY#OPERATION_PERFORMANCE" polarity="positive"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Nokia_Lumia_635_2:11">
+                <text>Er zijn ook wat minpunten.</text>
+                <Opinions/>
+            </sentence>
+            <sentence id="Nokia_Lumia_635_2:12">
+                <text>In fel zonlicht is het scherm buiten minder goed leesbaar.</text>
+                <Opinions>
+                    <Opinion category="DISPLAY#DESIGN_FEATURES" polarity="negative"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Nokia_Lumia_635_2:13">
+                <text>En de kwaliteit van de camera is beduidend minder dan ik gewend was.</text>
+                <Opinions>
+                    <Opinion category="MULTIMEDIA_DEVICES#QUALITY" polarity="negative"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Nokia_Lumia_635_2:14">
+                <text>Voor mij verder geen probleem.</text>
+                <Opinions/>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="Nokia_Lumia_635_3">
+        <sentences>
+            <sentence id="Nokia_Lumia_635_3:1">
+                <text>In combinatie met mijn pc, xbox en mijn account voor het werk is dit zeker en vast een betere dan mijn vorige android smartphone.</text>
+                <Opinions>
+                    <Opinion category="PHONE#GENERAL" polarity="positive"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Nokia_Lumia_635_3:2">
+                <text>Apps zijn veel veiliger, stabieler en vooral sneller.</text>
+                <Opinions>
+                    <Opinion category="SOFTWARE#OPERATION_PERFORMANCE" polarity="positive"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Nokia_Lumia_635_3:3">
+                <text>Door de goede 4g verbinding is het alsof je altijd je wifi mee hebt.</text>
+                <Opinions>
+                    <Opinion category="PHONE#CONNECTIVITY" polarity="positive"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Nokia_Lumia_635_3:4">
+                <text>Mails, twitter, skype,.... het werkt zo goed samen alsof het een onderdeel is van het besturingssysteem.</text>
+                <Opinions>
+                    <Opinion category="PHONE#GENERAL" polarity="positive"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Nokia_Lumia_635_3:5">
+                <text>Het volume van het belsignaal is zeker voldoende.</text>
+                <Opinions>
+                    <Opinion category="PHONE#MISCELLANEOUS" polarity="positive"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Nokia_Lumia_635_3:6">
+                <text>Duidelijk te horen in je zakken ook al zit er een extra cover rond.</text>
+                <Opinions>
+                    <Opinion category="PHONE#MISCELLANEOUS" polarity="positive"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Nokia_Lumia_635_3:7">
+                <text>De standaard opslagruimte mocht meer zijn en ook had de camera wel een flash mogen hebben maar die had ik nog niet eens gemist.</text>
+                <Opinions>
+                    <Opinion category="MEMORY#DESIGN_FEATURES" polarity="negative"  />
+                    <Opinion category="MULTIMEDIA_DEVICES#DESIGN_FEATURES" polarity="negative"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Nokia_Lumia_635_3:8">
+                <text>Bestanden raadplegen online, foto‘s bekijken en opslaan gaat zeer makkelijk en je hebt genoeg gratis opslagruimte.</text>
+                <Opinions>
+                    <Opinion category="PHONE#CONNECTIVITY" polarity="positive"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Nokia_Lumia_635_3:9">
+                <text>En hoe meer van microsoft je gebruikt (xbox,email,windows pc) hoe meer opslagruimte je krijgt.</text>
+                <Opinions/>
+            </sentence>
+            <sentence id="Nokia_Lumia_635_3:10">
+                <text>GRATIS.</text>
+                <Opinions/>
+            </sentence>
+            <sentence id="Nokia_Lumia_635_3:11">
+                <text>Prijs/kwaliteit is in orde.</text>
+                <Opinions>
+                    <Opinion category="PHONE#QUALITY" polarity="positive"  />
+                    <Opinion category="PHONE#PRICE" polarity="positive"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Nokia_Lumia_635_3:12">
+                <text>Als ze nu nog een waterdichte smartphone gaan maken is er voor mij niks beter.</text>
+                <Opinions/>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="Nokia_Lumia_635_4">
+        <sentences>
+            <sentence id="Nokia_Lumia_635_4:1">
+                <text>Men krijgt redelijk veel voor een scherpe prijs.</text>
+                <Opinions>
+                    <Opinion category="PHONE#GENERAL" polarity="positive"  />
+                    <Opinion category="PHONE#PRICE" polarity="positive"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Nokia_Lumia_635_4:2">
+                <text>Gunstig geprijsde smartphone.</text>
+                <Opinions>
+                    <Opinion category="PHONE#PRICE" polarity="positive"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Nokia_Lumia_635_4:3">
+                <text>Voelt licht maar toch degelijk aan.</text>
+                <Opinions>
+                    <Opinion category="PHONE#DESIGN_FEATURES" polarity="positive"  />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="Microsoft_Lumia_950_1">
+        <sentences>
+            <sentence id="Microsoft_Lumia_950_1:1">
+                <text>Super telefoon en draait heerlijk op windows 10.</text>
+                <Opinions>
+                    <Opinion category="PHONE#GENERAL" polarity="positive"  />
+                    <Opinion category="OS#OPERATION_PERFORMANCE" polarity="positive"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Microsoft_Lumia_950_1:2">
+                <text>Perfecte snelle camera, super mooi hd beeldscherm alleen jammer dat er nog te weinig apps zijn in de store....hopelijk komt dit nog</text>
+                <Opinions>
+                    <Opinion category="MULTIMEDIA_DEVICES#OPERATION_PERFORMANCE" polarity="positive"  />
+                    <Opinion category="DISPLAY#DESIGN_FEATURES" polarity="positive"  />
+                    <Opinion category="SOFTWARE#DESIGN_FEATURES" polarity="negative"  />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="Apple_iPhone_6s_1">
+        <sentences>
+            <sentence id="Apple_iPhone_6s_1:1">
+                <text>Ik heb er 5 dagen vol op plezier mee gehad, super snelle telefoon met allemaal handigheidjes eraan.</text>
+                <Opinions>
+                    <Opinion category="PHONE#GENERAL" polarity="positive"  />
+                    <Opinion category="PHONE#OPERATION_PERFORMANCE" polarity="positive"  />
+                    <Opinion category="PHONE#DESIGN_FEATURES" polarity="positive"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Apple_iPhone_6s_1:2">
+                <text>Ik weet niet of het een fabrieksfout geweest moet zijn, maar na 5 dagen is hij wel gecrasht bij mij.</text>
+                <Opinions>
+                    <Opinion category="PHONE#QUALITY" polarity="negative"  />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="Apple_iPhone_6s_2">
+        <sentences>
+            <sentence id="Apple_iPhone_6s_2:1">
+                <text>Eerste keer een iPhone gekocht en heel tevreden over.</text>
+                <Opinions>
+                    <Opinion category="PHONE#GENERAL" polarity="positive"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Apple_iPhone_6s_2:2">
+                <text>Werkt snel, duidelijke foto&apos;s.</text>
+                <Opinions>
+                    <Opinion category="PHONE#OPERATION_PERFORMANCE" polarity="positive"  />
+                    <Opinion category="MULTIMEDIA_DEVICES#QUALITY" polarity="positive"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Apple_iPhone_6s_2:3">
+                <text>Enkel de prijs is toch iets te veel naar mijn mening daar er niet heel veel verschil is met de iPhone 6.</text>
+                <Opinions>
+                    <Opinion category="PHONE#PRICE" polarity="negative"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Apple_iPhone_6s_2:4">
+                <text>Alsook de batterij die volgens mij snel de geest gaat geven, voor een nieuwe gsm is een dagje batterij meegaan toch niet al te veel.</text>
+                <Opinions>
+                    <Opinion category="BATTERY#OPERATION_PERFORMANCE" polarity="negative"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Apple_iPhone_6s_2:5">
+                <text>Danku bol.com voor de altijd snelle sevice die ik zeer waardeer!</text>
+                <Opinions>
+                    <Opinion category="COMPANY#GENERAL" polarity="positive"  />
+                    <Opinion category="SHIPPING#QUALITY" polarity="positive"  />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="Apple_iPhone_6s_3">
+        <sentences>
+            <sentence id="Apple_iPhone_6s_3:1">
+                <text>Een geweldig product van zeer hoge kwaliteit!</text>
+                <Opinions>
+                    <Opinion category="PHONE#GENERAL" polarity="positive"  />
+                    <Opinion category="PHONE#QUALITY" polarity="positive"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Apple_iPhone_6s_3:2">
+                <text>En dat gecombineerd met een zeer snelle levering!</text>
+                <Opinions>
+                    <Opinion category="SHIPPING#QUALITY" polarity="positive"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Apple_iPhone_6s_3:3">
+                <text>TOP!!!</text>
+                <Opinions>
+                    <Opinion category="PHONE#GENERAL" polarity="positive"  />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="Apple_iPhone_6s_4">
+        <sentences>
+            <sentence id="Apple_iPhone_6s_4:1">
+                <text>Camera is geweldig!!!</text>
+                <Opinions>
+                    <Opinion category="MULTIMEDIA_DEVICES#GENERAL" polarity="positive"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Apple_iPhone_6s_4:2">
+                <text>Sheen minpunten alleen krast ie wel snel maar dat Was ook al bij de 5s en de normale 6.</text>
+                <Opinions>
+                    <Opinion category="PHONE#GENERAL" polarity="positive"  />
+                    <Opinion category="PHONE#QUALITY" polarity="negative"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Apple_iPhone_6s_4:3">
+                <text>Ook live photos zijn geweldig(foto maar dan beweegt ie echt cool)</text>
+                <Opinions>
+                    <Opinion category="MULTIMEDIA_DEVICES#DESIGN_FEATURES" polarity="positive"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Apple_iPhone_6s_4:4">
+                <text>Ook veel opslag en 4k is prachtig</text>
+                <Opinions>
+                    <Opinion category="MEMORY#DESIGN_FEATURES" polarity="positive"  />
+                    <Opinion category="DISPLAY#DESIGN_FEATURES" polarity="positive"  />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="Apple_iPhone_6s_5">
+        <sentences>
+            <sentence id="Apple_iPhone_6s_5:1">
+                <text>De telefoon werkt een stuk sneller als mijn &apos;oude&apos;5 en het scherm is superscherp.</text>
+                <Opinions>
+                    <Opinion category="PHONE#OPERATION_PERFORMANCE" polarity="positive"  />
+                    <Opinion category="DISPLAY#DESIGN_FEATURES" polarity="positive"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Apple_iPhone_6s_5:2">
+                <text>Hij voelt wel een stuk zwaarder aan, hopelijk is dat omdat hij ook degelijker is.</text>
+                <Opinions>
+                    <Opinion category="PHONE#DESIGN_FEATURES" polarity="negative"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Apple_iPhone_6s_5:3">
+                <text>Je kan met je vingerafdruk de telefoon ontgrendelen, in mijn beleving werkt de code intoetsen toch nog sneller.</text>
+                <Opinions>
+                    <Opinion category="SOFTWARE#USABILITY" polarity="negative"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Apple_iPhone_6s_5:4">
+                <text>Verder heb ik hem nog te kort om een verder oordeel te vellen.</text>
+                <Opinions/>
+            </sentence>
+            <sentence id="Apple_iPhone_6s_5:5">
+                <text>Als je de 6 hebt, dan lijkt me de 6S nog niet nodig voor je en kun je wellicht beter wachten op de 7.</text>
+                <Opinions>
+                    <Opinion category="PHONE#GENERAL" polarity="neutral"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Apple_iPhone_6s_5:6">
+                <text>Mijn 5 was tijdens vakantie in de zee beland door een ongelukje dus ik moest wel een andere kopen.</text>
+                <Opinions/>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="Samsung_Galaxy_Core_2_1">
+        <sentences>
+            <sentence id="Samsung_Galaxy_Core_2_1:1">
+                <text>De telefoon is prima voor de prijs, maar heeeel weinig ruimte!!!</text>
+                <Opinions>
+                    <Opinion category="PHONE#GENERAL" polarity="positive"  />
+                    <Opinion category="PHONE#PRICE" polarity="positive"  />
+                    <Opinion category="MEMORY#DESIGN_FEATURES" polarity="negative"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Samsung_Galaxy_Core_2_1:2">
+                <text>Camera is ook niet al te best.</text>
+                <Opinions>
+                    <Opinion category="MULTIMEDIA_DEVICES#OPERATION_PERFORMANCE" polarity="negative"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Samsung_Galaxy_Core_2_1:3">
+                <text>Ook gaat de batterij snel leeg..</text>
+                <Opinions>
+                    <Opinion category="BATTERY#OPERATION_PERFORMANCE" polarity="negative"  />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="Samsung_Galaxy_Core_2_2">
+        <sentences>
+            <sentence id="Samsung_Galaxy_Core_2_2:1">
+                <text>Een erg fijne mobiel.</text>
+                <Opinions>
+                    <Opinion category="PHONE#GENERAL" polarity="positive"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Samsung_Galaxy_Core_2_2:2">
+                <text>Duidelijke camera en een fijn besturingssysteem.</text>
+                <Opinions>
+                    <Opinion category="MULTIMEDIA_DEVICES#USABILITY" polarity="positive"  />
+                    <Opinion category="OS#USABILITY" polarity="positive"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Samsung_Galaxy_Core_2_2:3">
+                <text>Echt een aanrader, ook handig voor in je broekzak te doen.</text>
+                <Opinions>
+                    <Opinion category="PHONE#GENERAL" polarity="positive"  />
+                    <Opinion category="PHONE#DESIGN_FEATURES" polarity="positive"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Samsung_Galaxy_Core_2_2:4">
+                <text>Een duidelijk en helder beeld.</text>
+                <Opinions>
+                    <Opinion category="DISPLAY#OPERATION_PERFORMANCE" polarity="positive"  />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="Samsung_Galaxy_Core_2_3">
+        <sentences>
+            <sentence id="Samsung_Galaxy_Core_2_3:1">
+                <text>Een goed mobiel die goed werkt met een helder display</text>
+                <Opinions>
+                    <Opinion category="PHONE#GENERAL" polarity="positive"  />
+                    <Opinion category="PHONE#OPERATION_PERFORMANCE" polarity="positive"  />
+                    <Opinion category="DISPLAY#OPERATION_PERFORMANCE" polarity="positive"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Samsung_Galaxy_Core_2_3:2">
+                <text>Is zeker een goede keuze.</text>
+                <Opinions>
+                    <Opinion category="PHONE#GENERAL" polarity="positive"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Samsung_Galaxy_Core_2_3:3">
+                <text>Wel is de batterij snel leg</text>
+                <Opinions>
+                    <Opinion category="BATTERY#OPERATION_PERFORMANCE" polarity="negative"  />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="Samsung_Galaxy_Core_2_4">
+        <sentences>
+            <sentence id="Samsung_Galaxy_Core_2_4:1">
+                <text>het toestel bevalt prima, het was even wennen maar na een tijdje is hij wel handig in gebruik.</text>
+                <Opinions>
+                    <Opinion category="PHONE#GENERAL" polarity="positive"  />
+                    <Opinion category="PHONE#USABILITY" polarity="neutral"  />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="Samsung_Galaxy_A3_1">
+        <sentences>
+            <sentence id="Samsung_Galaxy_A3_1:1">
+                <text>Knap design, intelligent display past helderheid aan aan omgeving.</text>
+                <Opinions>
+                    <Opinion category="PHONE#DESIGN_FEATURES" polarity="positive"  />
+                    <Opinion category="DISPLAY#DESIGN_FEATURES" polarity="positive"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Samsung_Galaxy_A3_1:2">
+                <text>Goede kwalitieit qua camera.</text>
+                <Opinions>
+                    <Opinion category="MULTIMEDIA_DEVICES#QUALITY" polarity="positive"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Samsung_Galaxy_A3_1:3">
+                <text>Batterij wel om de twee dagen.</text>
+                <Opinions>
+                    <Opinion category="BATTERY#OPERATION_PERFORMANCE" polarity="negative"  />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="Samsung_Galaxy_A3_2">
+        <sentences>
+            <sentence id="Samsung_Galaxy_A3_2:1">
+                <text>Een heel mooi toestel dat doet wat het moet doen.</text>
+                <Opinions>
+                    <Opinion category="PHONE#DESIGN_FEATURES" polarity="positive"  />
+                    <Opinion category="PHONE#GENERAL" polarity="neutral"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Samsung_Galaxy_A3_2:2">
+                <text>Kan verschillende apps tegelijk uitvoeren, is praktisch in gebruik en heb er nog geen problemen mee ondervonden.</text>
+                <Opinions>
+                    <Opinion category="PHONE#OPERATION_PERFORMANCE" polarity="positive"  />
+                    <Opinion category="PHONE#USABILITY" polarity="positive"  />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="Samsung_Galaxy_A3_3">
+        <sentences>
+            <sentence id="Samsung_Galaxy_A3_3:1">
+                <text>Geweldig mooi kleur.</text>
+                <Opinions>
+                    <Opinion category="PHONE#DESIGN_FEATURES" polarity="positive"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Samsung_Galaxy_A3_3:2">
+                <text>Werkt goed.</text>
+                <Opinions>
+                    <Opinion category="PHONE#OPERATION_PERFORMANCE" polarity="positive"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Samsung_Galaxy_A3_3:3">
+                <text>Juist het mindere ervan is dat ik iedere dag opnieuw moet opladen of om de dag.</text>
+                <Opinions>
+                    <Opinion category="BATTERY#OPERATION_PERFORMANCE" polarity="negative"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Samsung_Galaxy_A3_3:4">
+                <text>Ook als ik soms mijn camera wil gebruiken met de lens vooraan dat het soms streepjescode is precies.</text>
+                <Opinions>
+                    <Opinion category="MULTIMEDIA_DEVICES#OPERATION_PERFORMANCE" polarity="negative"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Samsung_Galaxy_A3_3:5">
+                <text>De app even sluiten of camera sluiten en openen en dit probleem is opgelost.</text>
+                <Opinions/>
+            </sentence>
+            <sentence id="Samsung_Galaxy_A3_3:6">
+                <text>Voor de rest ben ik echt heel blij ermee.</text>
+                <Opinions>
+                    <Opinion category="PHONE#GENERAL" polarity="positive"  />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="Samsung_Galaxy_A3_4">
+        <sentences>
+            <sentence id="Samsung_Galaxy_A3_4:1">
+                <text>deze smartphone is heel gemakkelijk in gebruik , de kwaliteit van de foto&apos;s en videobeelden is echt supergoed .</text>
+                <Opinions>
+                    <Opinion category="PHONE#USABILITY" polarity="positive"  />
+                    <Opinion category="MULTIMEDIA_DEVICES#QUALITY" polarity="positive"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Samsung_Galaxy_A3_4:2">
+                <text>qua prijs/kwaliteit scoort deze bij mij heel goed .</text>
+                <Opinions>
+                    <Opinion category="PHONE#QUALITY" polarity="positive"  />
+                    <Opinion category="PHONE#PRICE" polarity="positive"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Samsung_Galaxy_A3_4:3">
+                <text>de batterij gaat ook lang mee , als je wifi &amp; mobiel internet enkel aanzet als je het nodig hebt .</text>
+                <Opinions>
+                    <Opinion category="BATTERY#OPERATION_PERFORMANCE" polarity="positive"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Samsung_Galaxy_A3_4:4">
+                <text>ook werd ze geleverd zoals bol het had beloofd , mooi verpakt .</text>
+                <Opinions>
+                    <Opinion category="SHIPPING#QUALITY" polarity="positive"  />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="Samsung_Galaxy_A3_5">
+        <sentences>
+            <sentence id="Samsung_Galaxy_A3_5:1">
+                <text>Zeer leuk toestel.</text>
+                <Opinions>
+                    <Opinion category="PHONE#GENERAL" polarity="positive"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Samsung_Galaxy_A3_5:2">
+                <text>Zeker een aanrader!!</text>
+                <Opinions>
+                    <Opinion category="PHONE#GENERAL" polarity="positive"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Samsung_Galaxy_A3_5:3">
+                <text>Hij is supersnel en hapert nooit!</text>
+                <Opinions>
+                    <Opinion category="PHONE#OPERATION_PERFORMANCE" polarity="positive"  />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="Kazam_Trooper_451_1">
+        <sentences>
+            <sentence id="Kazam_Trooper_451_1:1">
+                <text>Wij hebben deze gekocht voor mijn moeder die al op leeftijd is en ze is er heel tevreden met ze kan er al redelijk goed met overweg en ze kan alles duidelijk zien zeer tevreden</text>
+                <Opinions>
+                    <Opinion category="PHONE#USABILITY" polarity="positive"  />
+                    <Opinion category="DISPLAY#DESIGN_FEATURES" polarity="positive"  />
+                    <Opinion category="PHONE#GENERAL" polarity="positive"  />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="Kazam_Trooper_451_2">
+        <sentences>
+            <sentence id="Kazam_Trooper_451_2:1">
+                <text>GSM is zijn geld wel waard maar jamer dat hij geen 4G ontvangt en dat hij niet snel met de wifi verbind, voor de rest is het een heel fij e GSM om mee te werken.</text>
+                <Opinions>
+                    <Opinion category="PHONE#QUALITY" polarity="positive"  />
+                    <Opinion category="PHONE#CONNECTIVITY" polarity="negative"  />
+                    <Opinion category="PHONE#GENERAL" polarity="positive"  />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="Kazam_Trooper_451_3">
+        <sentences>
+            <sentence id="Kazam_Trooper_451_3:1">
+                <text>Zoals altijd snelle en goede levering van Bol.com.</text>
+                <Opinions>
+                    <Opinion category="SHIPPING#QUALITY" polarity="positive"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Kazam_Trooper_451_3:2">
+                <text>Toestel doet voorlopig wat het moet doen.</text>
+                <Opinions>
+                    <Opinion category="PHONE#GENERAL" polarity="neutral"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Kazam_Trooper_451_3:3">
+                <text>Handig en duidelijk.</text>
+                <Opinions>
+                    <Opinion category="PHONE#GENERAL" polarity="positive"  />
+                    <Opinion category="PHONE#USABILITY" polarity="positive"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Kazam_Trooper_451_3:4">
+                <text>Alleen werd deze gekocht voor mijn zoon van 12 en blijkt het toestel groter dan in de beschrijving.</text>
+                <Opinions>
+                    <Opinion category="PHONE#DESIGN_FEATURES" polarity="negative"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Kazam_Trooper_451_3:5">
+                <text>Het is niet 11,4 cm hoog maar wel 14,2.</text>
+                <Opinions/>
+            </sentence>
+            <sentence id="Kazam_Trooper_451_3:6">
+                <text>Scheelt een serieus pak in de broekzak.</text>
+                <Opinions/>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="Kazam_Trooper_451_4">
+        <sentences>
+            <sentence id="Kazam_Trooper_451_4:1">
+                <text>Heb deze telefoon gekocht voor mijn schoonouders zodat ze ook aan de whatsapp kunnen, Deze telefoon is verrassend snel , helderscherm en ook lekker groot het geluid is ook goed.</text>
+                <Opinions>
+                    <Opinion category="PHONE#OPERATION_PERFORMANCE" polarity="positive"  />
+                    <Opinion category="DISPLAY#OPERATION_PERFORMANCE" polarity="positive"  />
+                    <Opinion category="DISPLAY#DESIGN_FEATURES" polarity="positive"  />
+                    <Opinion category="MULTIMEDIA_DEVICES#QUALITY" polarity="positive"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Kazam_Trooper_451_4:2">
+                <text>Ze zijn er zeer blij mee en ze hebben het zeer snel onder controle.</text>
+                <Opinions>
+                    <Opinion category="PHONE#GENERAL" polarity="positive"  />
+                    <Opinion category="PHONE#USABILITY" polarity="positive"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Kazam_Trooper_451_4:3">
+                <text>Foto&apos;s maken kan natuurlijk scherper maar wat wil je voor het geld..</text>
+                <Opinions>
+                    <Opinion category="MULTIMEDIA_DEVICES#QUALITY" polarity="negative"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Kazam_Trooper_451_4:4">
+                <text>Gewoon een super smartphone voor degene die geen dure abbo wil of 600 wil betalen voor een telefoon.</text>
+                <Opinions>
+                    <Opinion category="PHONE#GENERAL" polarity="positive"  />
+                    <Opinion category="PHONE#PRICE" polarity="positive"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Kazam_Trooper_451_4:5">
+                <text>De telefoon ziet er ook nog super uit en lijkt zeker niet goedkoop.</text>
+                <Opinions>
+                    <Opinion category="PHONE#DESIGN_FEATURES" polarity="positive"  />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="Huawei_Y6_dual_sim_zwart_1">
+        <sentences>
+            <sentence id="Huawei_Y6_dual_sim_zwart_1:1">
+                <text>Prima smartphone in deze prijscategorie.</text>
+                <Opinions>
+                    <Opinion category="PHONE#GENERAL" polarity="positive"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Huawei_Y6_dual_sim_zwart_1:2">
+                <text>Erg groot, maar dat is meer aan de trend binnen de industrie te wijden dan aan de telefoon.</text>
+                <Opinions>
+                    <Opinion category="PHONE#DESIGN_FEATURES" polarity="negative"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Huawei_Y6_dual_sim_zwart_1:3">
+                <text> Nadeel is dat het scherm niet automatisch uit gaat na enige tijd.</text>
+                <Opinions>
+                    <Opinion category="DISPLAY#DESIGN_FEATURES" polarity="negative"  />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="Nokia_Lumia_830_1">
+        <sentences>
+            <sentence id="Nokia_Lumia_830_1:1">
+                <text>Nokia lumia 830 is een prachtig toestel, goede camera en makkelijk te bedienen.</text>
+                <Opinions>
+                    <Opinion category="PHONE#GENERAL" polarity="positive"  />
+                    <Opinion category="PHONE#USABILITY" polarity="positive"  />
+                    <Opinion category="MULTIMEDIA_DEVICES#OPERATION_PERFORMANCE" polarity="positive"  />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="Nokia_Lumia_930_2">
+        <sentences>
+            <sentence id="Nokia_Lumia_930_2:1">
+                <text>De telefoon is weer een prima product van Nokia, robust, voelt lekker in de hand en doet alles wat het moet doen.</text>
+                <Opinions>
+                    <Opinion category="PHONE#GENERAL" polarity="positive"  />
+                    <Opinion category="COMPANY#GENERAL" polarity="positive"  />
+                    <Opinion category="PHONE#DESIGN_FEATURES" polarity="positive"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Nokia_Lumia_930_2:2">
+                <text>Coordinatie met je PC en cloud computing is ook zeer goed.</text>
+                <Opinions>
+                    <Opinion category="PHONE#CONNECTIVITY" polarity="positive"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Nokia_Lumia_930_2:3">
+                <text>Whatsapp, sms, emailing, agenda, alarm, internet, doet het allemaal heel smooth.</text>
+                <Opinions>
+                    <Opinion category="SOFTWARE#GENERAL" polarity="positive"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Nokia_Lumia_930_2:4">
+                <text>Overdracht van gegevens van een oude telefoon naar je nieuwe Nokia gaat ook prima via Bluetooth.</text>
+                <Opinions>
+                    <Opinion category="PHONE#CONNECTIVITY" polarity="positive"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Nokia_Lumia_930_2:5">
+                <text>Een klein min punt is de oplaadduur van de accu.</text>
+                <Opinions>
+                    <Opinion category="BATTERY#DESIGN_FEATURES" polarity="negative"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Nokia_Lumia_930_2:6">
+                <text>Het is een vrij sterke accu die wel is 4 dagen mee kan gaan bij laag gebruik, maar het opladen er van duurt wat langer dan voormalige Nokias.</text>
+                <Opinions>
+                    <Opinion category="BATTERY#OPERATION_PERFORMANCE" polarity="positive"  />
+                    <Opinion category="BATTERY#DESIGN_FEATURES" polarity="negative"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Nokia_Lumia_930_2:7">
+                <text>Dit is een must buy voor alle mensen die van de kwaliteit van Nokia houden en die een zakkelijke telefoon nodig hebben die ook gebruikt kan worden voor social media en video games.</text>
+                <Opinions>
+                    <Opinion category="PHONE#GENERAL" polarity="positive"  />
+                    <Opinion category="COMPANY#GENERAL" polarity="positive"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Nokia_Lumia_930_2:8">
+                <text>Het aanbod van apps is misschien wat kleiner dan voor de IOS en Android Platforms, maar wie kan zijn weg vinden tussen 1.500.000 apps?.</text>
+                <Opinions>
+                    <Opinion category="SOFTWARE#DESIGN_FEATURES" polarity="neutral"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Nokia_Lumia_930_2:9">
+                <text>De meest gebruikte apps zijn beschikbaar en ook vele andere goede apps die men zou nodig hebben.</text>
+                <Opinions>
+                    <Opinion category="SOFTWARE#DESIGN_FEATURES" polarity="positive"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Nokia_Lumia_930_2:10">
+                <text>De telefoon zelf heeft al heel wat apps beschikbaar en de winkel heeft ook een groot aanbod van vele andere goede apps.</text>
+                <Opinions>
+                    <Opinion category="SOFTWARE#DESIGN_FEATURES" polarity="positive"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Nokia_Lumia_930_2:11">
+                <text>Onwijs goede kamera en film opname, 20 MP.</text>
+                <Opinions>
+                    <Opinion category="MULTIMEDIA_DEVICES#OPERATION_PERFORMANCE" polarity="positive"  />
+                    <Opinion category="MULTIMEDIA_DEVICES#DESIGN_FEATURES" polarity="positive"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Nokia_Lumia_930_2:12">
+                <text>Kan meteen verbeterd worden met een &quot;wizard&quot; en of met eigen instellingen.</text>
+                <Opinions>
+                    <Opinion category="OS#USABILITY" polarity="positive"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Nokia_Lumia_930_2:13">
+                <text>Delivery service van Bol.com was uitstekend, vandaag besteld morgen in huis.</text>
+                <Opinions>
+                    <Opinion category="SHIPPING#QUALITY" polarity="positive"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Nokia_Lumia_930_2:14">
+                <text>Kan je meteen aan de gang met je nieuwe business phone.</text>
+                <Opinions/>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="Nokia_Lumia_1020_2">
+        <sentences>
+            <sentence id="Nokia_Lumia_1020_2:1">
+                <text>gewoon super, geen onnodige onzin , mooie weergave , zeer goede camera</text>
+                <Opinions>
+                    <Opinion category="PHONE#GENERAL" polarity="positive"  />
+                    <Opinion category="PHONE#DESIGN_FEATURES" polarity="positive"  />
+                    <Opinion category="MULTIMEDIA_DEVICES#OPERATION_PERFORMANCE" polarity="positive"  />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="Samsung_Galaxy_A5_3">
+        <sentences>
+            <sentence id="Samsung_Galaxy_A5_3:1">
+                <text>Mooi en dun design Levering zoals overlegd</text>
+                <Opinions>
+                    <Opinion category="PHONE#DESIGN_FEATURES" polarity="positive"  />
+                    <Opinion category="SHIPPING#QUALITY" polarity="positive"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Samsung_Galaxy_A5_3:2">
+                <text>Gekocht via de outlet als nieuw alleen de zegel van de doos was gebroken</text>
+                <Opinions/>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="Samsung_Galaxy_A5_5">
+        <sentences>
+            <sentence id="Samsung_Galaxy_A5_5:1">
+                <text>Heerlijk, een batterij die het langer dan een dag volhoudt.. ook al gebruik ik de telefoon intensief!</text>
+                <Opinions>
+                    <Opinion category="BATTERY#OPERATION_PERFORMANCE" polarity="positive"  />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="Samsung_Galaxy_Note_4_1">
+        <sentences>
+            <sentence id="Samsung_Galaxy_Note_4_1:1">
+                <text>Dit toestel lijkt groot in opzichte maar na gebruik is het niet zo groot en een geweldig toestel die zeer mooie foto&apos;s maakt en goede batterij duur top samsung.</text>
+                <Opinions>
+                    <Opinion category="PHONE#GENERAL" polarity="positive"  />
+                    <Opinion category="PHONE#DESIGN_FEATURES" polarity="positive"  />
+                    <Opinion category="MULTIMEDIA_DEVICES#QUALITY" polarity="positive"  />
+                    <Opinion category="BATTERY#OPERATION_PERFORMANCE" polarity="positive"  />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="Samsung_Galaxy_S2_Plus_1">
+        <sentences>
+            <sentence id="Samsung_Galaxy_S2_Plus_1:1">
+                <text>fijne telefoon en werkt goed,en een fijne prijs voor zo&apos;n telefoon.</text>
+                <Opinions>
+                    <Opinion category="PHONE#GENERAL" polarity="positive"  />
+                    <Opinion category="PHONE#OPERATION_PERFORMANCE" polarity="positive"  />
+                    <Opinion category="PHONE#PRICE" polarity="positive"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Samsung_Galaxy_S2_Plus_1:2">
+                <text>goede opvolger van de S 2</text>
+                <Opinions>
+                    <Opinion category="PHONE#GENERAL" polarity="positive"  />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="Samsung_Galaxy_S2_Plus_5">
+        <sentences>
+            <sentence id="Samsung_Galaxy_S2_Plus_5:1">
+                <text>Ik heb hem nu ongeveer 5 maanden en zeer tevreden over dit toestel.</text>
+                <Opinions>
+                    <Opinion category="PHONE#GENERAL" polarity="positive"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Samsung_Galaxy_S2_Plus_5:2">
+                <text>Voldoet aan alle verwachtingen die ik over een Smartphone had.</text>
+                <Opinions>
+                    <Opinion category="PHONE#GENERAL" polarity="positive"  />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="Samsung_Galaxy_S4_Mini_VE_2">
+        <sentences>
+            <sentence id="Samsung_Galaxy_S4_Mini_VE_2:1">
+                <text>De Samsung S4 mini is een prettige kleine mobiele telefoon, handzaam en maakt goede foto&apos;s!</text>
+                <Opinions>
+                    <Opinion category="PHONE#GENERAL" polarity="positive"  />
+                    <Opinion category="PHONE#USABILITY" polarity="positive"  />
+                    <Opinion category="PHONE#DESIGN_FEATURES" polarity="positive"  />
+                    <Opinion category="MULTIMEDIA_DEVICES#QUALITY" polarity="positive"  />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="Samsung_Galaxy_S5_5">
+        <sentences>
+            <sentence id="Samsung_Galaxy_S5_1:1">
+                <text>Snelle levering super fijne telefoonmooi groot scherm en lekker snel batterij gaat lekker lang mee voor optimaal gebruiksplezier !</text>
+                <Opinions>
+                    <Opinion category="SHIPPING#QUALITY" polarity="positive"  />
+                    <Opinion category="PHONE#GENERAL" polarity="positive"  />
+                    <Opinion category="DISPLAY#DESIGN_FEATURES" polarity="positive"  />
+                    <Opinion category="PHONE#OPERATION_PERFORMANCE" polarity="positive"  />
+                    <Opinion category="BATTERY#OPERATION_PERFORMANCE" polarity="positive"  />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="Samsung_Galaxy_S6_Edge_2">
+        <sentences>
+            <sentence id="Samsung_Galaxy_S6_Edge_2:1">
+                <text>Noooooit meer geheugen tekort supersnel perfecte grafics voor het gamen en voor wat ik heb betaald is dit het waard aldus tevreden klant</text>
+                <Opinions>
+                    <Opinion category="MEMORY#DESIGN_FEATURES" polarity="positive"  />
+                    <Opinion category="PHONE#OPERATION_PERFORMANCE" polarity="positive"  />
+                    <Opinion category="DISPLAY#QUALITY" polarity="positive"  />
+                    <Opinion category="PHONE#PRICE" polarity="positive"  />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="Sony_Xperia_E1_2">
+        <sentences>
+            <sentence id="Sony_Xperia_E1_2:1">
+                <text>Uitstekend toestel voor een meer dan behoorlijke prijs.</text>
+                <Opinions>
+                    <Opinion category="PHONE#GENERAL" polarity="positive"  />
+                    <Opinion category="PHONE#PRICE" polarity="positive"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Sony_Xperia_E1_2:2">
+                <text>Heel tevreden over.</text>
+                <Opinions>
+                    <Opinion category="PHONE#GENERAL" polarity="positive"  />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="Sony_Xperia_Z1_Compact_2">
+        <sentences>
+            <sentence id="Sony_Xperia_Z1_Compact_2:1">
+                <text>ligt makkelijk in de hand, reageert goed en snel, veel geheugen.</text>
+                <Opinions>
+                    <Opinion category="PHONE#DESIGN_FEATURES" polarity="positive"  />
+                    <Opinion category="PHONE#OPERATION_PERFORMANCE" polarity="positive"  />
+                    <Opinion category="MEMORY#DESIGN_FEATURES" polarity="positive"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Sony_Xperia_Z1_Compact_2:2">
+                <text>goed geluid en video.</text>
+                <Opinions>
+                    <Opinion category="MULTIMEDIA_DEVICES#QUALITY" polarity="positive"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Sony_Xperia_Z1_Compact_2:3">
+                <text>camera is oke, maar kan beter.</text>
+                <Opinions>
+                    <Opinion category="MULTIMEDIA_DEVICES#OPERATION_PERFORMANCE" polarity="negative"  />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="Sony_Xperia_Z3_1">
+        <sentences>
+            <sentence id="Sony_Xperia_Z3_1:1">
+                <text>mooi en licht toestel.</text>
+                <Opinions>
+                    <Opinion category="PHONE#DESIGN_FEATURES" polarity="positive"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Sony_Xperia_Z3_1:2">
+                <text>jammer is wel dat de kantelfunctie van het scherm minder snel reageert dan de experia z2</text>
+                <Opinions>
+                    <Opinion category="DISPLAY#OPERATION_PERFORMANCE" polarity="negative"  />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="Sony_Xperia_Z3_2">
+        <sentences>
+            <sentence id="Sony_Xperia_Z3_2:1">
+                <text>Alles werkt perfect zoals het hoort , vooral beeld en geluid (stereo) .</text>
+                <Opinions>
+                    <Opinion category="PHONE#OPERATION_PERFORMANCE" polarity="positive"  />
+                    <Opinion category="MULTIMEDIA_DEVICES#OPERATION_PERFORMANCE" polarity="positive"  />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="Sony_Xperia_Z3_3">
+        <sentences>
+            <sentence id="Sony_Xperia_Z3_3:1">
+                <text>Sony heeft weer een super telefoon afgeleverd na eerder de Xperia Z te hebben gehad is dit mooie opvolger.</text>
+                <Opinions>
+                    <Opinion category="COMPANY#GENERAL" polarity="positive"  />
+                    <Opinion category="PHONE#GENERAL" polarity="positive"  />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="Huawei_P8_Lite_1">
+        <sentences>
+            <sentence id="Huawei_P8_Lite_1:1">
+                <text>Zeer lichte, sterke smartphone.</text>
+                <Opinions>
+                    <Opinion category="PHONE#DESIGN_FEATURES" polarity="positive"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Huawei_P8_Lite_1:2">
+                <text>Net iets te groot, maar bijgevolg ook een groot scherm wat positief is.</text>
+                <Opinions>
+                    <Opinion category="PHONE#DESIGN_FEATURES" polarity="negative"  />
+                    <Opinion category="DISPLAY#DESIGN_FEATURES" polarity="positive"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Huawei_P8_Lite_1:3">
+                <text>Zeer snel, een heleboel extra&apos;s zoals optimaliseren enz..</text>
+                <Opinions>
+                    <Opinion category="PHONE#OPERATION_PERFORMANCE" polarity="positive"  />
+                    <Opinion category="SOFTWARE#DESIGN_FEATURES" polarity="positive"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Huawei_P8_Lite_1:4">
+                <text>Zeer goede en duidelijke front- en backcamera.</text>
+                <Opinions>
+                    <Opinion category="MULTIMEDIA_DEVICES#OPERATION_PERFORMANCE" polarity="positive"  />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="Huawei_P8_Lite_2">
+        <sentences>
+            <sentence id="Huawei_P8_Lite_2:1">
+                <text>De Huawei P8 doet precies wat ik ervan verwacht had en het is ook nog eens een prachtig toestel.</text>
+                <Opinions>
+                    <Opinion category="PHONE#GENERAL" polarity="positive"  />
+                    <Opinion category="PHONE#DESIGN_FEATURES" polarity="positive"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Huawei_P8_Lite_2:2">
+                <text>Voor mij doet hij niet onder voor de originele P8 ook al heb ik daar geen ervaring mee.</text>
+                <Opinions>
+                    <Opinion category="PHONE#GENERAL" polarity="positive"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Huawei_P8_Lite_2:3">
+                <text>Maar voor deze prijs vindt ik dat ik een mooi en goed toestel heb gekocht waar ik heel happy mee ben.</text>
+                <Opinions>
+                    <Opinion category="PHONE#PRICE" polarity="positive"  />
+                    <Opinion category="PHONE#DESIGN_FEATURES" polarity="positive"  />
+                    <Opinion category="PHONE#GENERAL" polarity="positive"  />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="Huawei_P8_Lite_3">
+        <sentences>
+            <sentence id="Huawei_P8_Lite_3:1">
+                <text>Super telefoon.</text>
+                <Opinions>
+                    <Opinion category="PHONE#GENERAL" polarity="positive"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Huawei_P8_Lite_3:2">
+                <text>Ziet er mooi uit, is heel licht, beeldscherm is groot, kortom dik tevreden!</text>
+                <Opinions>
+                    <Opinion category="PHONE#DESIGN_FEATURES" polarity="positive"  />
+                    <Opinion category="DISPLAY#DESIGN_FEATURES" polarity="positive"  />
+                    <Opinion category="PHONE#GENERAL" polarity="positive"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Huawei_P8_Lite_3:3">
+                <text>Het besturingssysteem is even wennen, maar prima telefoon voor deze prijsklasse.</text>
+                <Opinions>
+                    <Opinion category="OS#USABILITY" polarity="neutral"  />
+                    <Opinion category="PHONE#GENERAL" polarity="positive"  />
+                    <Opinion category="PHONE#PRICE" polarity="positive"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Huawei_P8_Lite_3:4">
+                <text>Verzending verliep trouwens ook heel goed!</text>
+                <Opinions>
+                    <Opinion category="SHIPPING#QUALITY" polarity="positive"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Huawei_P8_Lite_3:5">
+                <text>Fijn de track&amp;trace en vooral dat wordt aangegeven wanneer de postbezorger er ongeveer is.</text>
+                <Opinions>
+                    <Opinion category="SHIPPING#MISCELLANEOUS" polarity="positive"  />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="Huawei_P8_Lite_4">
+        <sentences>
+            <sentence id="Huawei_P8_Lite_4:1">
+                <text>Huawei heeft met deze P8 Lite een schitterende smartphone voor slechts 1/3 van de prijs van bv. een iPhone 6S of Samsung S6 ( Edge),...</text>
+                <Opinions>
+                    <Opinion category="PHONE#GENERAL" polarity="positive"  />
+                    <Opinion category="PHONE#PRICE" polarity="positive"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Huawei_P8_Lite_4:2">
+                <text>Let wel: deze versie is de Single Sim variant van de P8 Lite die via NL wordt aangeboden.</text>
+                <Opinions/>
+            </sentence>
+            <sentence id="Huawei_P8_Lite_4:3">
+                <text>In BE kan je ook de Dual Sim aankopen. </text>
+                <Opinions/>
+            </sentence>
+            <sentence id="Huawei_P8_Lite_4:4">
+                <text>Dan heb je echter geen 2e slot meer vrij voor een MicroSD memorystick card.</text>
+                <Opinions/>
+            </sentence>
+            <sentence id="Huawei_P8_Lite_4:5">
+                <text>De standaard Sim is een microSim in Slot 1 (altijd) en Slot 2 is ofwel MicroSD ofwel NanoSim!</text>
+                <Opinions/>
+            </sentence>
+            <sentence id="Huawei_P8_Lite_4:6">
+                <text>Android 5.0 en recente Emui skin werkt feilloos.</text>
+                <Opinions>
+                    <Opinion category="OS#OPERATION_PERFORMANCE" polarity="positive"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Huawei_P8_Lite_4:7">
+                <text>Verschillende apps standaard voorzien die ook het batterijverbruik in de gaten houden.</text>
+                <Opinions>
+                    <Opinion category="SOFTWARE#DESIGN_FEATURES" polarity="positive"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Huawei_P8_Lite_4:8">
+                <text>13mega camera achteraan en 5mega vooraan voor zeer mooie foto&apos;s en filmpjes.</text>
+                <Opinions>
+                    <Opinion category="MULTIMEDIA_DEVICES#DESIGN_FEATURES" polarity="positive"  />
+                    <Opinion category="MULTIMEDIA_DEVICES#QUALITY" polarity="positive"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Huawei_P8_Lite_4:9">
+                <text>Kortom: schitterende low budget smartphone!</text>
+                <Opinions>
+                    <Opinion category="PHONE#GENERAL" polarity="positive"  />
+                    <Opinion category="PHONE#PRICE" polarity="positive"  />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="Huawei_P8_Lite_5">
+        <sentences>
+            <sentence id="Huawei_P8_Lite_5:1">
+                <text>helaas was het display na een paar dagen voor de helft onleesbaar door een defect onderste gedeelte was net een barcode geworden.</text>
+                <Opinions>
+                    <Opinion category="DISPLAY#QUALITY" polarity="negative"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Huawei_P8_Lite_5:2">
+                <text>Nu mijn tweede gehad na het terugsturen van het defecte toestel binnen drie dagen een nieuwe via bol.com .</text>
+                <Opinions>
+                    <Opinion category="SUPPORT#QUALITY" polarity="positive"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Huawei_P8_Lite_5:3">
+                <text>Mijn eerste indruk is dat het toestel wel aardig is,alleen de batterij is net als bij alle andere telefoons binnen een dag leeg bij alleen normaal gebruik.</text>
+                <Opinions>
+                    <Opinion category="PHONE#GENERAL" polarity="positive"  />
+                    <Opinion category="BATTERY#OPERATION_PERFORMANCE" polarity="negative"  />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="Samsung_Galaxy_Grand_Prime_1">
+        <sentences>
+            <sentence id="Samsung_Galaxy_Grand_Prime_1:1">
+                <text>Op zich prima mobiel.</text>
+                <Opinions>
+                    <Opinion category="PHONE#GENERAL" polarity="positive"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Samsung_Galaxy_Grand_Prime_1:2">
+                <text>Mooie foto&apos;s, maar als muziekliefhebber heb ik toch n minpunt ondekt.</text>
+                <Opinions>
+                    <Opinion category="MULTIMEDIA_DEVICES#QUALITY" polarity="positive"  />
+                    <Opinion category="PHONE#GENERAL" polarity="negative"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Samsung_Galaxy_Grand_Prime_1:3">
+                <text>Er is namelijk geen gratis muziekapp standaard op toestel aanwezig en doorspoelen via koptelefoon lukt ook niet meer, dat is wel handig onderweg.</text>
+                <Opinions>
+                    <Opinion category="SOFTWARE#DESIGN_FEATURES" polarity="negative"  />
+                    <Opinion category="MULTIMEDIA_DEVICES#DESIGN_FEATURES" polarity="negative"  />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="Samsung_Galaxy_Grand_Prime_2">
+        <sentences>
+            <sentence id="Samsung_Galaxy_Grand_Prime_2:1">
+                <text>Deze kreeg ik van de Sint!</text>
+                <Opinions/>
+            </sentence>
+            <sentence id="Samsung_Galaxy_Grand_Prime_2:2">
+                <text>Mocht hem zelf uitzoeken natuurlijk!</text>
+                <Opinions/>
+            </sentence>
+            <sentence id="Samsung_Galaxy_Grand_Prime_2:3">
+                <text>Voor de eerste keer een mobiel!</text>
+                <Opinions/>
+            </sentence>
+            <sentence id="Samsung_Galaxy_Grand_Prime_2:4">
+                <text>Maar het ging goed, klein beetje hulp gehad.</text>
+                <Opinions/>
+            </sentence>
+            <sentence id="Samsung_Galaxy_Grand_Prime_2:5">
+                <text>Hij is duidelijk, makkelijk, toetsen kan ik bedienen met mijn grote vingers!</text>
+                <Opinions>
+                    <Opinion category="PHONE#USABILITY" polarity="positive"  />
+                    <Opinion category="PHONE#DESIGN_FEATURES" polarity="positive"  />
+                    <Opinion category="KEYBOARD#DESIGN_FEATURES" polarity="positive"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Samsung_Galaxy_Grand_Prime_2:6">
+                <text>Verder een leuk mobieltje.</text>
+                <Opinions>
+                    <Opinion category="PHONE#GENERAL" polarity="positive"  />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="Samsung_Galaxy_Grand_Prime_3">
+        <sentences>
+            <sentence id="Samsung_Galaxy_Grand_Prime_3:1">
+                <text>Deze telefoon is zeer gebruiksvriendelijk en heeft weinig energie nodig om al zijn functie te benutten.</text>
+                <Opinions>
+                    <Opinion category="PHONE#USABILITY" polarity="positive"  />
+                    <Opinion category="PHONE#OPERATION_PERFORMANCE" polarity="positive"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Samsung_Galaxy_Grand_Prime_3:2">
+                <text>Dus de accu gebruikt weinig stroom en ben je dus goed bereikbaar als je ambulant door het land gaat.</text>
+                <Opinions>
+                    <Opinion category="BATTERY#OPERATION_PERFORMANCE" polarity="positive"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Samsung_Galaxy_Grand_Prime_3:3">
+                <text>Dit is mijn eerste samsung en heb er spijt van dat ik niet eerder deze mooie telefoon heb aangeschaft.</text>
+                <Opinions>
+                    <Opinion category="PHONE#GENERAL" polarity="positive"  />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="Samsung_Galaxy_Grand_Prime_4">
+        <sentences>
+            <sentence id="Samsung_Galaxy_Grand_Prime_4:1">
+                <text>In het begin even wennen aan de grote.</text>
+                <Opinions>
+                    <Opinion category="PHONE#DESIGN_FEATURES" polarity="neutral"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Samsung_Galaxy_Grand_Prime_4:2">
+                <text>Beeld kwaliteit is goed, scherm is groot genoeg dat je alles goed kan zien.</text>
+                <Opinions>
+                    <Opinion category="DISPLAY#QUALITY" polarity="positive"  />
+                    <Opinion category="DISPLAY#DESIGN_FEATURES" polarity="positive"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Samsung_Galaxy_Grand_Prime_4:3">
+                <text>Foto kwaliteit is goed, apps werken snel.</text>
+                <Opinions>
+                    <Opinion category="MULTIMEDIA_DEVICES#QUALITY" polarity="positive"  />
+                    <Opinion category="SOFTWARE#OPERATION_PERFORMANCE" polarity="positive"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Samsung_Galaxy_Grand_Prime_4:4">
+                <text>Ik ben blij dat ik een goede mobiele telefoon heb gevonden.</text>
+                <Opinions>
+                    <Opinion category="PHONE#GENERAL" polarity="positive"  />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="Samsung_Galaxy_Grand_Prime_5">
+        <sentences>
+            <sentence id="Samsung_Galaxy_Grand_Prime_5:1">
+                <text>Ik heb deze telefoon aangeschaf, omdat de huidige telefoon de batterij duur korter werd, maar.....</text>
+                <Opinions/>
+            </sentence>
+            <sentence id="Samsung_Galaxy_Grand_Prime_5:2">
+                <text>Deze telefoon nieuw had een kortere standby tijd dan de oude.</text>
+                <Opinions>
+                    <Opinion category="BATTERY#OPERATION_PERFORMANCE" polarity="negative"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Samsung_Galaxy_Grand_Prime_5:3">
+                <text>Na de telefoon een week in huis te hebben gehad toch besloten om hem terug te sturen.</text>
+                <Opinions>
+                    <Opinion category="PHONE#GENERAL" polarity="negative"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Samsung_Galaxy_Grand_Prime_5:4">
+                <text>Alle achtergrond Apps uitgezet, maar ook dat hielp niets.</text>
+                <Opinions/>
+            </sentence>
+            <sentence id="Samsung_Galaxy_Grand_Prime_5:5">
+                <text>Scherm helderheid verminderd, geen impact.</text>
+                <Opinions/>
+            </sentence>
+            <sentence id="Samsung_Galaxy_Grand_Prime_5:6">
+                <text>Op een gegeven ogenblik was het zo erg, dat de batterijweergave prima kon worden gebruikt als aftelmechanisme.</text>
+                <Opinions/>
+            </sentence>
+            <sentence id="Samsung_Galaxy_Grand_Prime_5:7">
+                <text>Daarnaast leek het wel, of het touchscreen er &quot;scheef&quot; opzat.</text>
+                <Opinions>
+                    <Opinion category="KEYBOARD#DESIGN_FEATURES" polarity="negative"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Samsung_Galaxy_Grand_Prime_5:8">
+                <text>Bij het aantikken van bepaalde letters kwamen de letters die er naast stonden in het scherm te staan.</text>
+                <Opinions>
+                    <Opinion category="KEYBOARD#OPERATION_PERFORMANCE" polarity="negative"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Samsung_Galaxy_Grand_Prime_5:9">
+                <text>Nu heb ik wel dikke vingers, maar goed is het natuurlijk niet.</text>
+                <Opinions/>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="Samsung_Galaxy_XCover_1">
+        <sentences>
+            <sentence id="Samsung_Galaxy_XCover_1:1">
+                <text>Aan te raden toestel zit goed in de hand is stevig en kan tegen een stoot échut super</text>
+                <Opinions>
+                    <Opinion category="PHONE#GENERAL" polarity="positive"  />
+                    <Opinion category="PHONE#DESIGN_FEATURES" polarity="positive"  />
+                    <Opinion category="PHONE#QUALITY" polarity="positive"  />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="Samsung_Galaxy_XCover_2">
+        <sentences>
+            <sentence id="Samsung_Galaxy_XCover_2:1">
+                <text>Makkelijk in gebruik.</text>
+                <Opinions>
+                    <Opinion category="PHONE#USABILITY" polarity="positive"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Samsung_Galaxy_XCover_2:2">
+                <text>Ziet er stevig uit.</text>
+                <Opinions>
+                    <Opinion category="PHONE#DESIGN_FEATURES" polarity="positive"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Samsung_Galaxy_XCover_2:3">
+                <text>Mooi scherm.</text>
+                <Opinions>
+                    <Opinion category="DISPLAY#DESIGN_FEATURES" polarity="positive"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Samsung_Galaxy_XCover_2:4">
+                <text>Ben er blij mee!</text>
+                <Opinions>
+                    <Opinion category="PHONE#GENERAL" polarity="positive"  />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="Samsung_Galaxy_XCover_3">
+        <sentences>
+            <sentence id="Samsung_Galaxy_XCover_3:1">
+                <text>Deze telefoon is echt geweldig als je ruig bent met je telefoon.</text>
+                <Opinions>
+                    <Opinion category="PHONE#GENERAL" polarity="positive"  />
+                    <Opinion category="PHONE#QUALITY" polarity="positive"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Samsung_Galaxy_XCover_3:2">
+                <text>Camera is top niet overweldig maar zeker ook niet slecht.</text>
+                <Opinions>
+                    <Opinion category="MULTIMEDIA_DEVICES#OPERATION_PERFORMANCE" polarity="positive"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Samsung_Galaxy_XCover_3:3">
+                <text>Verder werkt hij heel snel loopt nooit vast.</text>
+                <Opinions>
+                    <Opinion category="PHONE#OPERATION_PERFORMANCE" polarity="positive"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Samsung_Galaxy_XCover_3:4">
+                <text>Heeft een heel mooi scherm.</text>
+                <Opinions>
+                    <Opinion category="DISPLAY#DESIGN_FEATURES" polarity="positive"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Samsung_Galaxy_XCover_3:5">
+                <text>Hij is zelf een keer over water geweest toen het klepje niet goed dicht zat, er zat toen wel water in maar gelijk batterij eruit en in de rijst gestopt en toen deed hij het weer.</text>
+                <Opinions>
+                    <Opinion category="PHONE#QUALITY" polarity="positive"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Samsung_Galaxy_XCover_3:6">
+                <text>De boksen hebben een mooi groot geluid.</text>
+                <Opinions>
+                    <Opinion category="MULTIMEDIA_DEVICES#QUALITY" polarity="positive"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Samsung_Galaxy_XCover_3:7">
+                <text>Geen led lampje voorop vind ik top geen gestalk</text>
+                <Opinions>
+                    <Opinion category="PHONE#DESIGN_FEATURES" polarity="positive"  />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="Samsung_Galaxy_XCover_4">
+        <sentences>
+            <sentence id="Samsung_Galaxy_XCover_4:1">
+                <text>heel goeie tel maar batterij elke dag plat en ook constant internet uit vallen</text>
+                <Opinions>
+                    <Opinion category="PHONE#GENERAL" polarity="positive"  />
+                    <Opinion category="BATTERY#OPERATION_PERFORMANCE" polarity="negative"  />
+                    <Opinion category="PHONE#CONNECTIVITY" polarity="negative"  />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="Samsung_Galaxy_XCover_5">
+        <sentences>
+            <sentence id="Samsung_Galaxy_XCover_5:1">
+                <text>Fijne snelle telefoon.</text>
+                <Opinions>
+                    <Opinion category="PHONE#GENERAL" polarity="positive"  />
+                    <Opinion category="PHONE#OPERATION_PERFORMANCE" polarity="positive"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Samsung_Galaxy_XCover_5:2">
+                <text>Software matig veel beter dan de xcover 2.</text>
+                <Opinions>
+                    <Opinion category="SOFTWARE#GENERAL" polarity="neutral"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Samsung_Galaxy_XCover_5:3">
+                <text>Hier kun je normaal apps op installeren zonder dat hij begint over weinig geheugen zoals zijn broertje.</text>
+                <Opinions>
+                    <Opinion category="MEMORY#DESIGN_FEATURES" polarity="positive"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Samsung_Galaxy_XCover_5:4">
+                <text>Vele handige opties zoals, Handschoenoptie zodat scherm gevoeliger wordt en handschoen niet uit hoeft te doen.</text>
+                <Opinions>
+                    <Opinion category="SOFTWARE#DESIGN_FEATURES" polarity="positive"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Samsung_Galaxy_XCover_5:5">
+                <text>Extra optie voor buiten gebruiken zodat de scherm altijd leesbaar blijft.</text>
+                <Opinions/>
+            </sentence>
+            <sentence id="Samsung_Galaxy_XCover_5:6">
+                <text>ik hem heb laten vallen ,de telefoon viel uitelkaar en de achterzijde krijg ik er niet meer vlak op.</text>
+                <Opinions>
+                    <Opinion category="PHONE#QUALITY" polarity="negative"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Samsung_Galaxy_XCover_5:7">
+                <text>Xcover 2 is robuuster.!!</text>
+                <Opinions/>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="Samsung_Galaxy_J5_1">
+        <sentences>
+            <sentence id="Samsung_Galaxy_J5_1:1">
+                <text>Ik loop niet de hele dag met een mobiel in mijn hand; ik ben een oudere jongere.</text>
+                <Opinions/>
+            </sentence>
+            <sentence id="Samsung_Galaxy_J5_1:2">
+                <text>Maar zelfs ik kan niet meer zonder, het is gewoon makkelijk.</text>
+                <Opinions/>
+            </sentence>
+            <sentence id="Samsung_Galaxy_J5_1:3">
+                <text>Waarom dan dit toestel?</text>
+                <Opinions/>
+            </sentence>
+            <sentence id="Samsung_Galaxy_J5_1:4">
+                <text>Duidelijk display, lange stand-by, gebruiksvriendelijk en dit is mijn 2e Samsung, dat zegt ook iets.</text>
+                <Opinions>
+                    <Opinion category="DISPLAY#QUALITY" polarity="positive"  />
+                    <Opinion category="BATTERY#OPERATION_PERFORMANCE" polarity="positive"  />
+                    <Opinion category="PHONE#USABILITY" polarity="positive"  />
+                    <Opinion category="COMPANY#GENERAL" polarity="positive"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Samsung_Galaxy_J5_1:5">
+                <text>Natuurlijk kun je meer geld uitgeven, maar ik vind het niet nodig.</text>
+                <Opinions/>
+            </sentence>
+            <sentence id="Samsung_Galaxy_J5_1:6">
+                <text>Ik ben zeer tevreden over de J5, een mooi toestel met alle mogelijkheden die ik wil hebben.</text>
+                <Opinions>
+                    <Opinion category="PHONE#GENERAL" polarity="positive"  />
+                    <Opinion category="PHONE#DESIGN_FEATURES" polarity="positive"  />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="Samsung_Galaxy_J5_2">
+        <sentences>
+            <sentence id="Samsung_Galaxy_J5_2:1">
+                <text>Een verademing om met dit toestel te werken, na 2 jaar een Huawei gehad te hebben.</text>
+                <Opinions>
+                    <Opinion category="PHONE#GENERAL" polarity="positive"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Samsung_Galaxy_J5_2:2">
+                <text>Fijn toestel, gemakkelijk in de bediening.</text>
+                <Opinions>
+                    <Opinion category="PHONE#GENERAL" polarity="positive"  />
+                    <Opinion category="PHONE#USABILITY" polarity="positive"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Samsung_Galaxy_J5_2:3">
+                <text>En ziet er mooi uit.</text>
+                <Opinions>
+                    <Opinion category="PHONE#DESIGN_FEATURES" polarity="positive"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Samsung_Galaxy_J5_2:4">
+                <text>Voor een redelijke prijs.</text>
+                <Opinions>
+                    <Opinion category="PHONE#PRICE" polarity="positive"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Samsung_Galaxy_J5_2:5">
+                <text>En een hele snelle levering van Bol.com</text>
+                <Opinions>
+                    <Opinion category="SHIPPING#QUALITY" polarity="positive"  />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="Samsung_Galaxy_J5_3">
+        <sentences>
+            <sentence id="Samsung_Galaxy_J5_3:1">
+                <text>Ik gebruik deze telefoon nu ongeveer 2 maanden en ik ben al met al zeer tevreden.</text>
+                <Opinions>
+                    <Opinion category="PHONE#GENERAL" polarity="positive"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Samsung_Galaxy_J5_3:2">
+                <text>Één minpuntje: niet zo&apos;n supergoede geluidskwaliteit maar daar heb je niet heel veel last van tenzij je vaak filmpjes kijkt en graag met goed geluid.</text>
+                <Opinions>
+                    <Opinion category="MULTIMEDIA_DEVICES#QUALITY" polarity="negative"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Samsung_Galaxy_J5_3:3">
+                <text>Fraai uiterlijk, net niet te groot dus als je liever een kleine hebt koop deze dan niet.</text>
+                <Opinions>
+                    <Opinion category="PHONE#DESIGN_FEATURES" polarity="positive"  />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="Samsung_Galaxy_J5_4">
+        <sentences>
+            <sentence id="Samsung_Galaxy_J5_4:1">
+                <text>Ik dat deze gsm zeker zijn geld waar is gaat snel en blokeert niet ook als je veel programma&apos;s hebt open staan ideaal dus voor iemand die mulitietaskt</text>
+                <Opinions>
+                    <Opinion category="PHONE#GENERAL" polarity="positive"  />
+                    <Opinion category="PHONE#PRICE" polarity="positive"  />
+                    <Opinion category="PHONE#OPERATION_PERFORMANCE" polarity="positive"  />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="Samsung_Galaxy_J5_5">
+        <sentences>
+            <sentence id="Samsung_Galaxy_J5_5:1">
+                <text>Een super smartphone die net zo goed is als zijn duurdere broer Samsung S4!!</text>
+                <Opinions>
+                    <Opinion category="PHONE#GENERAL" polarity="positive"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Samsung_Galaxy_J5_5:2">
+                <text>Ben er ontzettend tevreden mee!!!</text>
+                <Opinions>
+                    <Opinion category="PHONE#GENERAL" polarity="positive"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Samsung_Galaxy_J5_5:3">
+                <text>Maakt erg mooie foto&apos;s en heeft een supermooi, helder beeldscherm!!</text>
+                <Opinions>
+                    <Opinion category="MULTIMEDIA_DEVICES#QUALITY" polarity="positive"  />
+                    <Opinion category="DISPLAY#DESIGN_FEATURES" polarity="positive"  />
+                    <Opinion category="DISPLAY#OPERATION_PERFORMANCE" polarity="positive"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Samsung_Galaxy_J5_5:4">
+                <text>Kortom een echte aanrader!!!</text>
+                <Opinions>
+                    <Opinion category="PHONE#GENERAL" polarity="positive"  />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="Samsung_Galaxy_J5_6">
+        <sentences>
+            <sentence id="Samsung_Galaxy_J5_6:1">
+                <text>In zn prijs categorie is dit de beste gsm.</text>
+                <Opinions>
+                    <Opinion category="PHONE#GENERAL" polarity="positive"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Samsung_Galaxy_J5_6:2">
+                <text>Batterij gaat 3-4 dagen mee.</text>
+                <Opinions>
+                    <Opinion category="BATTERY#OPERATION_PERFORMANCE" polarity="positive"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Samsung_Galaxy_J5_6:3">
+                <text>perfecte ontvangst en bereik.</text>
+                <Opinions>
+                    <Opinion category="PHONE#CONNECTIVITY" polarity="positive"  />
+                </Opinions>
+            </sentence>
+            <sentence id="Samsung_Galaxy_J5_6:4">
+                <text>gewoon een aanrader</text>
+                <Opinions>
+                    <Opinion category="PHONE#GENERAL" polarity="positive"  />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+</Reviews>

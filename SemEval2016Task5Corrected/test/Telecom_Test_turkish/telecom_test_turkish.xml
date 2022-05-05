@@ -1,0 +1,1889 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Tweets>
+  <Tweet tid="286196757728219137">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#PRICE_INVOICE" polarity="negative" from="60" to="75"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="288583618387906560">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#PRICE_INVOICE" polarity="positive" from="21" to="50"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="288596393331941376">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#GENERAL" polarity="positive" from="30" to="45"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="288749098339815424">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#PRICE_INVOICE" polarity="negative" from="3" to="25"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="348343659462287361">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#GENERAL" polarity="positive" from="27" to="49"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="285918279212601344">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#PRICE_INVOICE" polarity="negative" from="72" to="88"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="285932520623730688">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#GENERAL" polarity="negative" from="54" to="70"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="285983069679259648">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#PRICE_INVOICE" polarity="negative" from="65" to="77"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="288751719041617921">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="INTERNET#SPEED" polarity="negative" from="29" to="56"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="334607572948615168">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#GENERAL" polarity="negative" from="6" to="28"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="334735862342504448">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#PRICE_INVOICE" polarity="negative" from="0" to="26"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="335148056511148032">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#GENERAL" polarity="negative" from="21" to="41"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="335146185859948544">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="INTERNET#SPEED" polarity="negative" from="32" to="59"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="335143982751428608">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="INTERNET#GENERAL" polarity="negative" from="50" to="60"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="213295282362912769">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#PRICE_INVOICE" polarity="negative" from="32" to="58"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="341605153343930368">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#GENERAL" polarity="positive" from="30" to="51"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="341610157865840640">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#GENERAL" polarity="positive" from="35" to="57"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="286136958470746112">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#GENERAL" polarity="negative" from="82" to="113"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="335139464370339841">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="INTERNET#GENERAL" polarity="negative" from="123" to="136"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="335364936538664960">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#PRICE_INVOICE" polarity="negative" from="35" to="61"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="385358143536246784">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="INTERNET#GENERAL" polarity="positive" from="4" to="34"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="385681280895295488">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#COVERAGE" polarity="positive" from="15" to="30"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="385684594907160576">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#GENERAL" polarity="negative" from="36" to="54"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="341614785273671680">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#COVERAGE" polarity="positive" from="86" to="99"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="341118432521117696">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#GENERAL" polarity="negative" from="9" to="21"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="348050719145869312">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#GENERAL" polarity="positive" from="9" to="28"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="348048232674390016">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#GENERAL" polarity="positive" from="24" to="50"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="335366225070792704">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="CUSTOMER SERVICES#GENERAL" polarity="negative" from="29" to="59"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="334828424600367104">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="INTERNET#GENERAL" polarity="negative" from="39" to="59"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="334846798847934464">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#COVERAGE" polarity="negative" from="44" to="67"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="213318004333756416">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#COVERAGE" polarity="positive" from="0" to="25"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="385338959754444800">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#COVERAGE" polarity="negative" from="30" to="51"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="385670293072924673">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#GENERAL" polarity="negative" from="14" to="39"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="212867131140878337">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#GENERAL" polarity="positive" from="0" to="14"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="212861444616757248">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#GENERAL" polarity="positive" from="11" to="25"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="212941566787059713">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#GENERAL" polarity="positive" from="39" to="58"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="348055559557246976">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#GENERAL" polarity="positive" from="12" to="33"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="297027671899127808">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#GENERAL" polarity="positive" from="27" to="50"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="348202056240218112">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="INTERNET#SPEED" polarity="negative" from="35" to="68"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="348199498301980672">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="INTERNET#PRICE_INVOICE" polarity="negative" from="0" to="19"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="286429334204465152">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#GENERAL" polarity="negative" from="63" to="100"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="335157832058040320">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#COVERAGE" polarity="negative" from="51" to="86"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="335149766600167426">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#PRICE_INVOICE" polarity="negative" from="24" to="37"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="335148688907313153">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#COVERAGE" polarity="negative" from="13" to="30"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="348053505463943168">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#GENERAL" polarity="positive" from="40" to="63"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="348052895758942213">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#GENERAL" polarity="positive" from="26" to="41"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="348056279857631234">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#GENERAL" polarity="positive" from="25" to="38"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="348059045330030592">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#GENERAL" polarity="positive" from="37" to="59"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="348058705826283521">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#GENERAL" polarity="positive" from="12" to="32"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="347418199547068416">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#GENERAL" polarity="positive" from="38" to="53"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="347749147815837697">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#GENERAL" polarity="positive" from="43" to="71"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="288234897926131712">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#GENERAL" polarity="positive" from="10" to="37"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="288661011655954432">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#GENERAL" polarity="positive" from="0" to="24"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="335018884992204800">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#PRICE_INVOICE" polarity="negative" from="0" to="19"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="335161792827367425">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#GENERAL" polarity="negative" from="11" to="34"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="335163816298041344">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#GENERAL" polarity="negative" from="8" to="23"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="352386927384727554">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="DEVICE#CAMPAIGN_ADVERTISEMENT" polarity="positive" from="1" to="10"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="352386156362600449">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="DEVICE#CAMPAIGN_ADVERTISEMENT" polarity="positive" from="0" to="15"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="352404528865349632">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="DEVICE#CAMPAIGN_ADVERTISEMENT" polarity="positive" from="0" to="11"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="351394257745088512">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#GENERAL" polarity="positive" from="9" to="31"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="351400441239711744">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#GENERAL" polarity="positive" from="58" to="68"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="352425736612741125">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="DEVICE#CAMPAIGN_ADVERTISEMENT" polarity="positive" from="40" to="49"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="335415736707215360">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#GENERAL" polarity="negative" from="9" to="21"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="335415356980072448">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#COVERAGE" polarity="negative" from="0" to="30"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="335074762617417728">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#PRICE_INVOICE" polarity="positive" from="56" to="85"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="335074111745302529">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="INTERNET#PRICE_INVOICE" polarity="negative" from="5" to="16"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="335112561160749056">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#COVERAGE" polarity="negative" from="15" to="29"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="288632971215380480">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#PRICE_INVOICE" polarity="negative" from="28" to="40"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="288634043426304000">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#COVERAGE" polarity="negative" from="34" to="62"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="287709029843755009">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#GENERAL" polarity="negative" from="16" to="44"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="344148896261472256">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="DEVICE#PRICE_INVOICE" polarity="positive" from="0" to="4"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="340417506449711104">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="CUSTOMER SERVICES#GENERAL" polarity="positive" from="14" to="22"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="287611934633771008">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="INTERNET#CAMPAIGN_ADVERTISEMENT" polarity="negative" from="0" to="16"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="287661301491191809">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="APPLICATION_SERVICE#GENERAL" polarity="negative" from="50" to="64"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="287661462082703361">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="APPLICATION_SERVICE#GENERAL" polarity="negative" from="50" to="64"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="287661571684057088">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#PRICE_INVOICE" polarity="negative" from="1" to="9"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="287661653888221185">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#COVERAGE" polarity="negative" from="28" to="38"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="352411922290839553">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="DEVICE#CAMPAIGN_ADVERTISEMENT" polarity="positive" from="1" to="10"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="352410187090497536">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="DEVICE#CAMPAIGN_ADVERTISEMENT" polarity="positive" from="1" to="10"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="352411257145524224">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="DEVICE#CAMPAIGN_ADVERTISEMENT" polarity="positive" from="1" to="10"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="350359343675342848">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#GENERAL" polarity="positive" from="3" to="24"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="350362473200762880">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="INTERNET#CAMPAIGN_ADVERTISEMENT" polarity="positive" from="9" to="24"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="359302834535149570">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#CAMPAIGN_ADVERTISEMENT" polarity="positive" from="10" to="18"/>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#CAMPAIGN_ADVERTISEMENT" polarity="positive" from="22" to="41"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="352443091577356288">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#GENERAL" polarity="positive" from="0" to="7"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="341270097513558016">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="INTERNET#GENERAL" polarity="negative" from="0" to="40"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="335350071128379392">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#COVERAGE" polarity="negative" from="83" to="104"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="348055007561674752">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#COVERAGE" polarity="positive" from="19" to="46"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="348057019137273856">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#GENERAL" polarity="positive" from="0" to="16"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="286431320874311680">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#GENERAL" polarity="negative" from="13" to="24"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="288242991263518721">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#PRICE_INVOICE" polarity="negative" from="7" to="46"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="335380912533553152">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#COVERAGE" polarity="negative" from="16" to="45"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="335377023251906560">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#COVERAGE" polarity="negative" from="0" to="25"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="334994595194732544">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#GENERAL" polarity="negative" from="16" to="31"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="340912890687152128">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="INTERNET#GENERAL" polarity="negative" from="18" to="42"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="341215647969185792">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#GENERAL" polarity="positive" from="9" to="26"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="352391131939610627">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#GENERAL" polarity="positive" from="11" to="15"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="352390966759526402">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="DEVICE#CAMPAIGN_ADVERTISEMENT" polarity="positive" from="0" to="15"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="352390964003864577">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="DEVICE#CAMPAIGN_ADVERTISEMENT" polarity="positive" from="12" to="23"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="352390960421945344">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="DEVICE#CAMPAIGN_ADVERTISEMENT" polarity="positive" from="0" to="15"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="352390445134905345">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="DEVICE#CAMPAIGN_ADVERTISEMENT" polarity="positive" from="0" to="11"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="352390413333708801">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="DEVICE#CAMPAIGN_ADVERTISEMENT" polarity="positive" from="12" to="17"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="340875929318481921">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="INTERNET#SPEED" polarity="negative" from="0" to="11"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="340884331851554817">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="INTERNET#GENERAL" polarity="negative" from="0" to="12"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="344039434997616640">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="INTERNET#GENERAL" polarity="positive" from="0" to="11"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="344026657201475584">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="INTERNET#GENERAL" polarity="negative" from="10" to="15"/>
+      <Opinion target="CONTENT" category="INTERNET#GENERAL" polarity="positive" from="27" to="38"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="340421071616479233">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#GENERAL" polarity="negative" from="0" to="8"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="340421494553317376">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#PRICE_INVOICE" polarity="negative" from="11" to="19"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="287612532208828416">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#GENERAL" polarity="negative" from="0" to="8"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="351014271347462146">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#CAMPAIGN_ADVERTISEMENT" polarity="negative" from="3" to="38"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="351028409889079296">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#GENERAL" polarity="positive" from="0" to="10"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="350255162960519170">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#GENERAL" polarity="negative" from="38" to="42"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="350256100555239427">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#CAMPAIGN_ADVERTISEMENT" polarity="positive" from="41" to="52"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="359489397739094016">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#COVERAGE" polarity="negative" from="5" to="12"/>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#GENERAL" polarity="positive" from="111" to="119"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="359488710766637056">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="INTERNET#CAMPAIGN_ADVERTISEMENT" polarity="positive" from="32" to="47"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="359487324616265731">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="INTERNET#CAMPAIGN_ADVERTISEMENT" polarity="positive" from="6" to="34"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="359059057279115265">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#CAMPAIGN_ADVERTISEMENT" polarity="negative" from="0" to="30"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="352421016355618816">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="DEVICE#CAMPAIGN_ADVERTISEMENT" polarity="positive" from="0" to="15"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="352420747735605248">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="DEVICE#CAMPAIGN_ADVERTISEMENT" polarity="positive" from="0" to="15"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="352420496282894336">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="DEVICE#CAMPAIGN_ADVERTISEMENT" polarity="positive" from="0" to="15"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="352383277950189570">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="DEVICE#CAMPAIGN_ADVERTISEMENT" polarity="positive" from="0" to="8"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="352401608002387970">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="DEVICE#CAMPAIGN_ADVERTISEMENT" polarity="positive" from="0" to="15"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="342231365837799424">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="CUSTOMER SERVICES#GENERAL" polarity="positive" from="12" to="32"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="340379742509338627">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="INTERNET#SPEED" polarity="negative" from="0" to="8"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="340382612092747777">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#GENERAL" polarity="negative" from="47" to="55"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="334643893901606912">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#GENERAL" polarity="positive" from="0" to="10"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="341569643871363072">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#COVERAGE" polarity="positive" from="30" to="55"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="350255818064662530">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#CAMPAIGN_ADVERTISEMENT" polarity="positive" from="58" to="69"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="350255664536367107">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#CAMPAIGN_ADVERTISEMENT" polarity="positive" from="71" to="82"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="350255470646267904">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#CAMPAIGN_ADVERTISEMENT" polarity="positive" from="72" to="83"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="350255056387452930">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#GENERAL" polarity="negative" from="6" to="10"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="350617218406547457">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#CAMPAIGN_ADVERTISEMENT" polarity="negative" from="10" to="24"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="350617337503817730">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#GENERAL" polarity="positive" from="7" to="17"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="350615801256083456">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="CUSTOMER SERVICES#GENERAL" polarity="positive" from="0" to="20"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="359299792058335232">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#GENERAL" polarity="negative" from="14" to="21"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="359298384676401154">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="APPLICATION_SERVICE#GENERAL" polarity="positive" from="13" to="19"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="359424524392988672">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#CAMPAIGN_ADVERTISEMENT" polarity="positive" from="14" to="21"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="359426845541810177">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="INTERNET#CAMPAIGN_ADVERTISEMENT" polarity="positive" from="13" to="18"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="340420313097572353">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="CUSTOMER SERVICES#GENERAL" polarity="negative" from="46" to="73"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="340929730050146307">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="INTERNET#GENERAL" polarity="positive" from="27" to="32"/>
+      <Opinion target="CONTENT" category="INTERNET#GENERAL" polarity="positive" from="0" to="0"/>
+      <Opinion target="CONTENT" category="INTERNET#GENERAL" polarity="positive" from="0" to="0"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="340928112797839363">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="INTERNET#GENERAL" polarity="positive" from="27" to="32"/>
+      <Opinion target="CONTENT" category="INTERNET#GENERAL" polarity="positive" from="0" to="0"/>
+      <Opinion target="CONTENT" category="INTERNET#GENERAL" polarity="positive" from="0" to="0"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="342912031252418561">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="INTERNET#GENERAL" polarity="positive" from="0" to="11"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="340426989259341824">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#CAMPAIGN_ADVERTISEMENT" polarity="positive" from="13" to="24"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="350386377898205184">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#GENERAL" polarity="positive" from="4" to="12"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="350386660812398592">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#GENERAL" polarity="positive" from="9" to="20"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="350626001342046208">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#GENERAL" polarity="positive" from="10" to="32"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="350625021556822017">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#CAMPAIGN_ADVERTISEMENT" polarity="positive" from="0" to="23"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="350631501345460225">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#CAMPAIGN_ADVERTISEMENT" polarity="positive" from="0" to="24"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="350993448909799426">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#GENERAL" polarity="positive" from="27" to="31"/>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#GENERAL" polarity="positive" from="39" to="47"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="352390017953447937">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="DEVICE#PRICE_INVOICE" polarity="positive" from="0" to="15"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="352389908133978112">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="DEVICE#GENERAL" polarity="positive" from="1" to="10"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="352389653833334786">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="DEVICE#CAMPAIGN_ADVERTISEMENT" polarity="positive" from="1" to="10"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="352389570706411520">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="DEVICE#CAMPAIGN_ADVERTISEMENT" polarity="positive" from="1" to="10"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="287583105403994113">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="CUSTOMER SERVICES#CAMPAIGN_ADVERTISEMENT" polarity="negative" from="31" to="48"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="286074840325160960">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#GENERAL" polarity="positive" from="0" to="8"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="341638109118730241">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#CAMPAIGN_ADVERTISEMENT" polarity="positive" from="36" to="58"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="332729001560915968">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#GENERAL" polarity="positive" from="13" to="21"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="332729212559556608">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="APPLICATION_SERVICE#GENERAL" polarity="positive" from="17" to="33"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="332760111498022912">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#CAMPAIGN_ADVERTISEMENT" polarity="positive" from="52" to="72"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="352344119512805376">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="INTERNET#SPEED" polarity="positive" from="67" to="90"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="351850877981700096">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="INTERNET#SPEED" polarity="positive" from="12" to="29"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="350502341948080128">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="APPLICATION_SERVICE#GENERAL" polarity="positive" from="42" to="78"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="350514577051631618">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="APPLICATION_SERVICE#CAMPAIGN_ADVERTISEMENT" polarity="positive" from="0" to="33"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="350661096316747778">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#CAMPAIGN_ADVERTISEMENT" polarity="positive" from="21" to="41"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="339469170037116928">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#CAMPAIGN_ADVERTISEMENT" polarity="positive" from="33" to="42"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="339469031956414464">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="INTERNET#GENERAL" polarity="positive" from="0" to="17"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="350674436749410304">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#CAMPAIGN_ADVERTISEMENT" polarity="positive" from="0" to="31"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="350238102087933955">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#CAMPAIGN_ADVERTISEMENT" polarity="positive" from="43" to="58"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="350292351534632960">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#CAMPAIGN_ADVERTISEMENT" polarity="positive" from="0" to="27"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="352392406517301248">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="DEVICE#CAMPAIGN_ADVERTISEMENT" polarity="positive" from="1" to="10"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="340410713405272064">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#GENERAL" polarity="neutral" from="8" to="12"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="340409632671539200">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#PRICE_INVOICE" polarity="negative" from="38" to="47"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="340414939082665985">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="INTERNET#GENERAL" polarity="negative" from="78" to="83"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="350259465553059840">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#GENERAL" polarity="positive" from="0" to="24"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="350259057694740484">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#GENERAL" polarity="positive" from="13" to="43"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="342965931800133632">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#GENERAL" polarity="positive" from="79" to="88"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="342978016353341440">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="CUSTOMER SERVICES#GENERAL" polarity="positive" from="118" to="131"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="333089501889064960">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#GENERAL" polarity="negative" from="28" to="38"/>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#GENERAL" polarity="positive" from="78" to="87"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="333320259056570368">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#CAMPAIGN_ADVERTISEMENT" polarity="positive" from="73" to="94"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="335477975787118593">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="INTERNET#SPEED" polarity="positive" from="50" to="67"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="350384890463797248">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="CUSTOMER SERVICES#GENERAL" polarity="positive" from="15" to="25"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="350385766402228224">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="APPLICATION_SERVICE#GENERAL" polarity="positive" from="0" to="10"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="350625589973102594">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#CAMPAIGN_ADVERTISEMENT" polarity="positive" from="5" to="17"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="350628474207219714">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#CAMPAIGN_ADVERTISEMENT" polarity="positive" from="0" to="15"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="351000504739962880">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#CAMPAIGN_ADVERTISEMENT" polarity="negative" from="0" to="17"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="350997943626637315">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#CAMPAIGN_ADVERTISEMENT" polarity="positive" from="3" to="36"/>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#CAMPAIGN_ADVERTISEMENT" polarity="positive" from="0" to="0"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="350262157801291776">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#CAMPAIGN_ADVERTISEMENT" polarity="positive" from="92" to="103"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="359318772726759424">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#CAMPAIGN_ADVERTISEMENT" polarity="positive" from="0" to="12"/>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#CAMPAIGN_ADVERTISEMENT" polarity="positive" from="16" to="46"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="359316808341270532">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#GENERAL" polarity="positive" from="4" to="17"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="359316581764972544">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#CAMPAIGN_ADVERTISEMENT" polarity="positive" from="0" to="17"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="350260456360910849">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#GENERAL" polarity="positive" from="0" to="8"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="350259126682660868">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#CAMPAIGN_ADVERTISEMENT" polarity="positive" from="0" to="31"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="350365695588040705">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="CUSTOMER SERVICES#GENERAL" polarity="positive" from="0" to="18"/>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#GENERAL" polarity="negative" from="82" to="100"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="350372460690014212">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#CAMPAIGN_ADVERTISEMENT" polarity="negative" from="14" to="27"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="350609299610931200">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#GENERAL" polarity="positive" from="0" to="24"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="350613525183475716">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#GENERAL" polarity="positive" from="18" to="28"/>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#GENERAL" polarity="negative" from="43" to="53"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="359304129287438336">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#GENERAL" polarity="positive" from="0" to="8"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="359425188007387136">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#GENERAL" polarity="positive" from="0" to="4"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="359424527236734976">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#CAMPAIGN_ADVERTISEMENT" polarity="positive" from="0" to="25"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="359573928278102016">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#GENERAL" polarity="negative" from="7" to="14"/>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#GENERAL" polarity="positive" from="23" to="30"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="359580961077329920">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="APPLICATION_SERVICE#GENERAL" polarity="positive" from="93" to="102"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="359580625784680448">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="APPLICATION_SERVICE#QUALITY" polarity="positive" from="0" to="6"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="330046059550228480">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="APPLICATION_SERVICE#GENERAL" polarity="negative" from="0" to="6"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="330050422008074241">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#GENERAL" polarity="positive" from="0" to="11"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="330061884743102464">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#GENERAL" polarity="negative" from="27" to="35"/>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#GENERAL" polarity="positive" from="0" to="8"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="330064269469175808">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#CAMPAIGN_ADVERTISEMENT" polarity="positive" from="7" to="17"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="330064575871455232">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#CAMPAIGN_ADVERTISEMENT" polarity="positive" from="0" to="8"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="287609673715171328">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#GENERAL" polarity="negative" from="1" to="9"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="352405745070903296">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#CAMPAIGN_ADVERTISEMENT" polarity="positive" from="135" to="139"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="352427740454060032">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="DEVICE#CAMPAIGN_ADVERTISEMENT" polarity="positive" from="0" to="15"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="352432671693086721">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#GENERAL" polarity="negative" from="0" to="12"/>
+      <Opinion target="CONTENT" category="CUSTOMER SERVICES#GENERAL" polarity="positive" from="29" to="47"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="352449217043759106">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="DEVICE#CAMPAIGN_ADVERTISEMENT" polarity="neutral" from="0" to="14"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="352390936350822400">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="DEVICE#CAMPAIGN_ADVERTISEMENT" polarity="positive" from="77" to="82"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="352390638186147840">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="DEVICE#CAMPAIGN_ADVERTISEMENT" polarity="positive" from="70" to="85"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="287226272675942400">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#GENERAL" polarity="negative" from="1" to="9"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="287226640575102976">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#GENERAL" polarity="negative" from="0" to="8"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="350584973000052736">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#CAMPAIGN_ADVERTISEMENT" polarity="positive" from="21" to="41"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="350587798169980928">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#CAMPAIGN_ADVERTISEMENT" polarity="positive" from="12" to="38"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="359280111759011840">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="APPLICATION_SERVICE#CAMPAIGN_ADVERTISEMENT" polarity="positive" from="26" to="54"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="359287335659114496">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="INTERNET#MISCELLANEOUS" polarity="positive" from="0" to="23"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="350254895460397059">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#CAMPAIGN_ADVERTISEMENT" polarity="positive" from="0" to="4"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="350254739235151873">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#GENERAL" polarity="positive" from="14" to="22"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="350342961185296384">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#GENERAL" polarity="positive" from="0" to="4"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="350342528945496065">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="INTERNET#SPEED" polarity="positive" from="21" to="25"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="350294003297697792">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#GENERAL" polarity="positive" from="24" to="55"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="350532904696287232">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="INTERNET#CAMPAIGN_ADVERTISEMENT" polarity="positive" from="46" to="59"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="350532303509921792">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="CUSTOMER SERVICES#GENERAL" polarity="positive" from="18" to="43"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="350533708467535874">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#PRICE_INVOICE" polarity="positive" from="81" to="96"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="350534710562267137">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#GENERAL" polarity="positive" from="104" to="118"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="287265316889825280">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="DEVICE#GENERAL" polarity="negative" from="42" to="62"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="287277892445011969">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#GENERAL" polarity="negative" from="26" to="51"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="352431801911873536">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#CAMPAIGN_ADVERTISEMENT" polarity="positive" from="1" to="10"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="352431774900551681">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#CAMPAIGN_ADVERTISEMENT" polarity="positive" from="9" to="18"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="352431763357831169">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#CAMPAIGN_ADVERTISEMENT" polarity="positive" from="1" to="10"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="340794341696106496">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="APPLICATION_SERVICE#GENERAL" polarity="positive" from="19" to="32"/>
+      <Opinion target="CONTENT" category="APPLICATION_SERVICE#GENERAL" polarity="positive" from="19" to="32"/>
+      <Opinion target="CONTENT" category="APPLICATION_SERVICE#GENERAL" polarity="positive" from="19" to="32"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="214449231430295553">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="INTERNET#CAMPAIGN_ADVERTISEMENT" polarity="positive" from="23" to="37"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="214443036502016001">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="INTERNET#PRICE_INVOICE" polarity="positive" from="0" to="28"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="352388456879632384">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="DEVICE#CAMPAIGN_ADVERTISEMENT" polarity="positive" from="31" to="46"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="352388396188057601">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="DEVICE#CAMPAIGN_ADVERTISEMENT" polarity="positive" from="0" to="15"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="352388385077342210">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="DEVICE#CAMPAIGN_ADVERTISEMENT" polarity="positive" from="1" to="10"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="352131223616888832">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#GENERAL" polarity="positive" from="0" to="22"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="352388372716732416">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="DEVICE#CAMPAIGN_ADVERTISEMENT" polarity="positive" from="0" to="15"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="352404509932257280">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#COVERAGE" polarity="negative" from="48" to="56"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="352404351962193920">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="DEVICE#CAMPAIGN_ADVERTISEMENT" polarity="positive" from="1" to="10"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="352134852335771649">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#CAMPAIGN_ADVERTISEMENT" polarity="positive" from="14" to="29"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="352137929965043712">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#CAMPAIGN_ADVERTISEMENT" polarity="positive" from="0" to="22"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="352404193186824198">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="DEVICE#CAMPAIGN_ADVERTISEMENT" polarity="positive" from="1" to="10"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="352403924843634690">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="DEVICE#CAMPAIGN_ADVERTISEMENT" polarity="positive" from="0" to="15"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="336501737437409281">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="DEVICE#GENERAL" polarity="negative" from="10" to="18"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="350322736024928256">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#GENERAL" polarity="positive" from="18" to="35"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="350564194996850688">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="INTERNET#SPEED" polarity="positive" from="53" to="73"/>
+      <Opinion target="CONTENT" category="INTERNET#SPEED" polarity="negative" from="12" to="33"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="350568003793993729">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#MISCELLANEOUS" polarity="positive" from="35" to="73"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="340379524166479872">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#CAMPAIGN_ADVERTISEMENT" polarity="positive" from="36" to="58"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="359473404358819840">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="INTERNET#CAMPAIGN_ADVERTISEMENT" polarity="positive" from="15" to="41"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="359418431143022592">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#GENERAL" polarity="positive" from="9" to="28"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="352412420028891136">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#CAMPAIGN_ADVERTISEMENT" polarity="positive" from="18" to="36"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="352383175252643840">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#GENERAL" polarity="positive" from="0" to="19"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="338275233062600706">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#CAMPAIGN_ADVERTISEMENT" polarity="positive" from="29" to="42"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="338621617901031425">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="CUSTOMER SERVICES#GENERAL" polarity="negative" from="9" to="14"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="350265728869466112">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="INTERNET#CAMPAIGN_ADVERTISEMENT" polarity="positive" from="24" to="38"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="350265428188213251">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="APPLICATION_SERVICE#GENERAL" polarity="positive" from="12" to="36"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="350264435547455491">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#MISCELLANEOUS" polarity="negative" from="50" to="77"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="336190136897388544">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#GENERAL" polarity="negative" from="0" to="16"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="354755902718492672">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="INTERNET#CAMPAIGN_ADVERTISEMENT" polarity="positive" from="45" to="66"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="349813263388786690">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#GENERAL" polarity="positive" from="0" to="4"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="352726041225211904">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="APPLICATION_SERVICE#GENERAL" polarity="positive" from="33" to="43"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="352744491830091776">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#GENERAL" polarity="positive" from="69" to="77"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="350706634902863872">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#CAMPAIGN_ADVERTISEMENT" polarity="positive" from="5" to="32"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="350706737382301696">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#GENERAL" polarity="positive" from="82" to="100"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="350706315271749632">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#GENERAL" polarity="negative" from="6" to="14"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="350247117148790787">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#CAMPAIGN_ADVERTISEMENT" polarity="positive" from="24" to="27"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="350345077899530240">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#CAMPAIGN_ADVERTISEMENT" polarity="positive" from="0" to="6"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="350586515476332544">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#PRICE_INVOICE" polarity="positive" from="64" to="74"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="350754499733897216">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#GENERAL" polarity="negative" from="17" to="25"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="350759685999181824">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#PRICE_INVOICE" polarity="positive" from="0" to="7"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="359404065605693441">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="INTERNET#SPEED" polarity="positive" from="0" to="11"/>
+      <Opinion target="CONTENT" category="INTERNET#SPEED" polarity="negative" from="30" to="35"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="359405464527712256">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#CAMPAIGN_ADVERTISEMENT" polarity="positive" from="0" to="8"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="359404065047842817">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="APPLICATION_SERVICE#CAMPAIGN_ADVERTISEMENT" polarity="positive" from="0" to="5"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="359501915958149120">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="INTERNET#CAMPAIGN_ADVERTISEMENT" polarity="positive" from="74" to="79"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="359505939323293696">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="APPLICATION_SERVICE#GENERAL" polarity="positive" from="17" to="50"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="332604948464427008">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#GENERAL" polarity="positive" from="14" to="18"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="332603471901630465">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="APPLICATION_SERVICE#GENERAL" polarity="positive" from="12" to="18"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="352404533151936513">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="INTERNET#COVERAGE" polarity="positive" from="0" to="8"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="341976453468024832">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="INTERNET#GENERAL" polarity="positive" from="5" to="9"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="335322744193441792">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#GENERAL" polarity="negative" from="73" to="102"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="335456736574054400">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#GENERAL" polarity="negative" from="0" to="31"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="288631300867383296">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#COVERAGE" polarity="negative" from="0" to="20"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="288631323613081600">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#PRICE_INVOICE" polarity="negative" from="21" to="44"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="334046652266602496">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#GENERAL" polarity="negative" from="0" to="19"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="341579541002735616">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#GENERAL" polarity="positive" from="9" to="42"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="341584210840137728">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#GENERAL" polarity="negative" from="18" to="49"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="352148419382489088">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#COVERAGE" polarity="negative" from="12" to="46"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="286196395319390208">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#PRICE_INVOICE" polarity="negative" from="1" to="16"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="352421156957077507">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="DEVICE#CAMPAIGN_ADVERTISEMENT" polarity="positive" from="0" to="15"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="340377132352016385">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#GENERAL" polarity="negative" from="57" to="65"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="351413795542933504">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#GENERAL" polarity="negative" from="4" to="12"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="287226915461419009">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#GENERAL" polarity="negative" from="55" to="63"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="287485720648617984">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#CAMPAIGN_ADVERTISEMENT" polarity="positive" from="0" to="15"/>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#CAMPAIGN_ADVERTISEMENT" polarity="negative" from="43" to="53"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="352390303963025409">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="DEVICE#CAMPAIGN_ADVERTISEMENT" polarity="positive" from="1" to="10"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="352390180847616001">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="DEVICE#CAMPAIGN_ADVERTISEMENT" polarity="positive" from="1" to="10"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="352433905367908353">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#GENERAL" polarity="positive" from="0" to="6"/>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#GENERAL" polarity="negative" from="23" to="34"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="352437814769627136">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#GENERAL" polarity="positive" from="48" to="52"/>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#GENERAL" polarity="negative" from="0" to="9"/>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#GENERAL" polarity="negative" from="10" to="18"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="352440050253955072">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#CAMPAIGN_ADVERTISEMENT" polarity="positive" from="0" to="30"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="352449100492455936">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="DEVICE#CAMPAIGN_ADVERTISEMENT" polarity="positive" from="16" to="31"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="336394233063821312">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#CAMPAIGN_ADVERTISEMENT" polarity="positive" from="62" to="85"/>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#CAMPAIGN_ADVERTISEMENT" polarity="positive" from="62" to="85"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="352450342883041281">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#CAMPAIGN_ADVERTISEMENT" polarity="positive" from="29" to="43"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="352450335371034624">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#GENERAL" polarity="positive" from="55" to="60"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="339132011665051648">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="APPLICATION_SERVICE#GENERAL" polarity="positive" from="0" to="17"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="339381505862295553">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="INTERNET#SPEED" polarity="positive" from="36" to="45"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="340837512106889216">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="INTERNET#GENERAL" polarity="negative" from="68" to="99"/>
+      <Opinion target="CONTENT" category="INTERNET#GENERAL" polarity="positive" from="126" to="137"/>
+    </Opinions>
+  </Tweet>
+  <Tweet tid="350353047651745793">
+    <Text>CONTENT</Text>
+    <Opinions>
+      <Opinion target="CONTENT" category="TELECOM OPERATOR#CAMPAIGN_ADVERTISEMENT" polarity="positive" from="17" to="37"/>
+    </Opinions>
+  </Tweet>
+</Tweets>

@@ -1,0 +1,169 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Reviews slot1="u" slot2="u" slot12="u">
+  <Review rid="Huawei_Ascend_G6_4G_4">
+    <sentences>
+      <sentence id="Huawei_Ascend_G6_4G_4:1">
+        <text>Ik zou deze gsm ten sterkste aanbevelen ik was lang aan het twijfelen of ik hem zou kopen maar zeker geen spijt van, tot nu toe heb ik nog geen minpunten gemerkt en de accu gaat ook lang mee.</text>
+        <Opinions>
+          <Opinion category="BATTERY#OPERATION_PERFORMANCE" polarity="positive"/>
+          <Opinion category="PHONE#GENERAL" polarity="positive"/>
+        </Opinions>
+      </sentence>
+      <sentence id="Huawei_Ascend_G6_4G_4:2">
+        <text>en ook een dikke duim voor de service van bol.com op vrijdag besteld en zaterdag al in huis.</text>
+        <Opinions>
+          <Opinion category="SHIPPING#QUALITY" polarity="positive"/>
+        </Opinions>
+      </sentence>
+      <sentence id="Huawei_Ascend_G6_4G_4:3">
+        <text>Toppie!</text>
+        <Opinions>
+          <Opinion category="PHONE#GENERAL" polarity="positive"/>
+        </Opinions>
+      </sentence>
+      <sentence id="Huawei_Ascend_G6_4G_4:4">
+        <text>een aanrader!</text>
+        <Opinions>
+          <Opinion category="PHONE#GENERAL" polarity="positive"/>
+        </Opinions>
+      </sentence>
+    </sentences>
+  </Review>
+  <Review rid="HTC_Desire_510_2">
+    <sentences>
+      <sentence id="HTC_Desire_510_2:1">
+        <text>Een paar dagen gebruik ik nu dit toestel als opvolger van mijn HTC One X en ik ben zeer onder de indruk, mooi beeld, goed geluid, prima interface, alleen het gebruik van de camera is even wennen.</text>
+        <Opinions>
+          <Opinion category="MULTIMEDIA_DEVICES#USABILITY" polarity="neutral"/>
+          <Opinion category="MULTIMEDIA_DEVICES#QUALITY" polarity="positive"/>
+          <Opinion category="OS#GENERAL" polarity="positive"/>
+          <Opinion category="DISPLAY#QUALITY" polarity="positive"/>
+          <Opinion category="PHONE#GENERAL" polarity="positive"/>
+        </Opinions>
+      </sentence>
+      <sentence id="HTC_Desire_510_2:2">
+        <text>Deze smartphone kan makkelijk concurreren met veel duurdere modellen.</text>
+        <Opinions>
+          <Opinion category="PHONE#GENERAL" polarity="positive"/>
+        </Opinions>
+      </sentence>
+    </sentences>
+  </Review>
+  <Review rid="Samsung_Galaxy_Note_3_1">
+    <sentences>
+      <sentence id="Samsung_Galaxy_Note_3_1:1">
+        <text>Echt een super telefoon, heb er erg veel plezier van, de batterij gat lang mee en je kunt er vanalles mee doen.</text>
+        <Opinions>
+          <Opinion category="BATTERY#OPERATION_PERFORMANCE" polarity="positive"/>
+          <Opinion category="PHONE#GENERAL" polarity="positive"/>
+        </Opinions>
+      </sentence>
+      <sentence id="Samsung_Galaxy_Note_3_1:2">
+        <text>Ik heb er op school ook er veel plezier van, gebruik m namelijk soms als laptop</text>
+        <Opinions>
+          <Opinion category="PHONE#GENERAL" polarity="positive"/>
+        </Opinions>
+      </sentence>
+    </sentences>
+  </Review>
+  <Review rid="Sony_Xperia_E1_4">
+    <sentences>
+      <sentence id="Sony_Xperia_E1_4:1">
+        <text>Deze smartphone gekocht, omdat ik overstapte naar een simonly en de budgetmodels van nu zouden net zo goed mee moeten kunnen als de eerste smartphones van paar jaar terug.</text>
+      </sentence>
+      <sentence id="Sony_Xperia_E1_4:2">
+        <text>Niet dus.</text>
+        <Opinions>
+          <Opinion category="PHONE#QUALITY" polarity="negative"/>
+        </Opinions>
+      </sentence>
+      <sentence id="Sony_Xperia_E1_4:3">
+        <text>Ik heb dit toestel gekocht ergens in juli 2014 ben nu bijna 1 jaar verder en het toestel is al 2x terug gegaan naar bol.com &amp; sony.</text>
+        <Opinions>
+          <Opinion category="PHONE#QUALITY" polarity="negative"/>
+        </Opinions>
+      </sentence>
+      <sentence id="Sony_Xperia_E1_4:4">
+        <text>Eerst de uitknop die het soms niet deed, en later het beeld wat steeds bevriest of superrr traag.</text>
+        <Opinions>
+          <Opinion category="PHONE#GENERAL" polarity="negative"/>
+          <Opinion category="DISPLAY#OPERATION_PERFORMANCE" polarity="negative"/>
+          <Opinion category="KEYBOARD#GENERAL" polarity="negative"/>
+        </Opinions>
+      </sentence>
+      <sentence id="Sony_Xperia_E1_4:5">
+        <text>toen deed hij het weer voor 2 maanden, complete uitval.</text>
+        <Opinions>
+          <Opinion category="PHONE#QUALITY" polarity="negative"/>
+        </Opinions>
+      </sentence>
+      <sentence id="Sony_Xperia_E1_4:6">
+        <text>Scherm is vervangen, en nog een zooi van binnen, hele waslijst in ieder geval.</text>
+      </sentence>
+      <sentence id="Sony_Xperia_E1_4:7">
+        <text>Nu heb ik hem weer en we zijn wat updates verder maar sommige programmas werken niet zoals hij zou moeten werken en soms bevriest het scherm weer.</text>
+        <Opinions>
+          <Opinion category="DISPLAY#OPERATION_PERFORMANCE" polarity="negative"/>
+          <Opinion category="SOFTWARE#OPERATION_PERFORMANCE" polarity="negative"/>
+        </Opinions>
+      </sentence>
+      <sentence id="Sony_Xperia_E1_4:8">
+        <text>Voor bol.com klasse voor de snelle handelingen.. maar ik heb eigenlijk een slecht toestel gekocht en vraag me af met wat er allemaal vervangen is of het niet goedkoper was geweest om een nieuw toestel te sturen of een ander vergelijkbaar toestel (prijsklasse).</text>
+        <Opinions>
+          <Opinion category="PHONE#QUALITY" polarity="negative"/>
+          <Opinion category="COMPANY#GENERAL" polarity="positive"/>
+        </Opinions>
+      </sentence>
+      <sentence id="Sony_Xperia_E1_4:9">
+        <text>In ieder geval heb ik toen 110 euro besteed aan een toestel wat tot de dag vandaag keuren heeft.</text>
+        <Opinions>
+          <Opinion category="PHONE#QUALITY" polarity="negative"/>
+        </Opinions>
+      </sentence>
+      <sentence id="Sony_Xperia_E1_4:10">
+        <text>Even vergelijking met mijn vorige smartphone heb ik bijna 4 jaar lang gebeld enz. en toen nog door kunnen verkopen omdat hij in perfecte staat was.</text>
+      </sentence>
+      <sentence id="Sony_Xperia_E1_4:11">
+        <text>Ik ben altijd zuinig op mijn spullen.</text>
+      </sentence>
+    </sentences>
+  </Review>
+  <Review rid="LG_G4_1">
+    <sentences>
+      <sentence id="LG_G4_1:1">
+        <text>Na de G2, kwam de G3 en nu ook gelijk de overstap, mits enige schrik voor de batterij, naar de G4 gemaakt.</text>
+      </sentence>
+      <sentence id="LG_G4_1:2">
+        <text>SUPER tevreden over deze aankoop.</text>
+        <Opinions>
+          <Opinion category="PHONE#GENERAL" polarity="positive"/>
+        </Opinions>
+      </sentence>
+      <sentence id="LG_G4_1:3">
+        <text>De batterij is een plezier qua gebruik, gaat opnieuw een dag lang mee en neemt een pak frustraties weg!</text>
+        <Opinions>
+          <Opinion category="BATTERY#OPERATION_PERFORMANCE" polarity="positive"/>
+        </Opinions>
+      </sentence>
+      <sentence id="LG_G4_1:4">
+        <text>De lichtopbrengst van het scherm is waanzinnig en perfect aanpasbaar.</text>
+        <Opinions>
+          <Opinion category="DISPLAY#QUALITY" polarity="positive"/>
+          <Opinion category="DISPLAY#USABILITY" polarity="positive"/>
+        </Opinions>
+      </sentence>
+      <sentence id="LG_G4_1:5">
+        <text>De camera... wat een grandioos ding!</text>
+        <Opinions>
+          <Opinion category="MULTIMEDIA_DEVICES#GENERAL" polarity="positive"/>
+        </Opinions>
+      </sentence>
+      <sentence id="LG_G4_1:6">
+        <text>De beelden zijn waanzinnig goed en dan ben ik nog maar een rasechte amateur als het op fotografie neer komt, maar iedereen kan hier duidelijk het onderscheid in zien!</text>
+        <Opinions>
+          <Opinion category="MULTIMEDIA_DEVICES#QUALITY" polarity="positive"/>
+        </Opinions>
+      </sentence>
+    </sentences>
+  </Review>
+</Reviews>

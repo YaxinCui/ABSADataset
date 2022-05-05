@@ -1,0 +1,231 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Reviews>
+    <Review rid="1">
+        <sentences>
+            <sentence id="1:0">
+                <text>最近买了NEX5N，</text>
+            </sentence>
+            <sentence id="1:1">
+                <text>用下来的感觉真的很方便。</text>
+                <Opinions>
+                    <Opinion category="CAMERA#USABILITY" polarity="positive"/>
+                </Opinions>
+            </sentence>
+            <sentence id="1:2">
+                <text>画质反正我在电脑上全屏看不出什么不好。</text>
+                <Opinions>
+                    <Opinion category="PHOTO#QUALITY" polarity="neutral"/>
+                </Opinions>
+            </sentence>
+            <sentence id="1:3">
+                <text>颜色也很讨好，</text>
+                <Opinions>
+                    <Opinion category="PHOTO#QUALITY" polarity="positive"/>
+                </Opinions>
+            </sentence>
+            <sentence id="1:4">
+                <text>除了操控方面要换模式比较讨厌之外，</text>
+                <Opinions>
+                    <Opinion category="CAMERA#OPERATION_PERFORMANCE" polarity="negative"/>
+                </Opinions>
+            </sentence>
+            <sentence id="1:5">
+                <text>实在看不出有什么不好的。</text>
+                <Opinions>
+                    <Opinion category="CAMERA#GENERAL" polarity="positive"/>
+                </Opinions>
+            </sentence>
+            <sentence id="1:6">
+                <text>日常拍照足够用了。</text>
+                <Opinions>
+                    <Opinion category="CAMERA#GENERAL" polarity="positive"/>
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="2">
+        <sentences>
+            <sentence id="2:0">
+                <text>120-300/2.8 HSM OS的外观已经有了很大变化，</text>
+            </sentence>
+            <sentence id="2:1">
+                <text>特别是表面喷漆工艺不再向以前那样让人担心，</text>
+                <Opinions>
+                    <Opinion category="DISPLAY#QUALITY" polarity="positive"/>
+                </Opinions>
+            </sentence>
+            <sentence id="2:2">
+                <text>掉皮现象以及上手旧的问题已经明显改观。</text>
+                <Opinions>
+                    <Opinion category="DISPLAY#QUALITY" polarity="positive"/>
+                </Opinions>
+            </sentence>    
+            <sentence id="2:3">
+                <text>我去肯尼来几天，</text>
+            </sentence>
+            <sentence id="2:4">
+                <text>在宾馆里面轻擦拭了一下就像新的一样了，</text>
+                <Opinions>
+                    <Opinion category="CAMERA#GENERAL" polarity="positive"/>
+                </Opinions>
+            </sentence>
+            <sentence id="2:5">
+                <text>对于适马镜头自来旧的感觉看来可以修正了。</text>
+                <Opinions>
+                    <Opinion category="LENS#GENERAL" polarity="positive"/>
+                </Opinions>
+            </sentence>
+            <sentence id="2:6">
+                <text>但是镜头盖盖不严，</text>
+                <Opinions>
+                    <Opinion category="LENS#DESIGN_FEATURES" polarity="negative"/>
+                </Opinions>
+            </sentence>
+            <sentence id="2:7">
+                <text>轻微的触碰这个盖很容量掉下来。</text>
+                <Opinions>
+                    <Opinion category="LENS#DESIGN_FEATURES" polarity="negative"/>
+                </Opinions>
+            </sentence>
+            <sentence id="2:8">
+                <text>画质表现应该是不错的。</text>
+                <Opinions>
+                    <Opinion category="PHOTO#QUALITY" polarity="positive"/>
+                </Opinions>
+            </sentence>
+            <sentence id="2:9">
+                <text>如果分辨率不足，那往往是拍摄距离与空气的原因。</text>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="3">
+        <sentences>
+            <sentence id="3:0">
+                <text>周六参加了站方组织的在798艺术园区试用佳能G11数码相机活动。</text>
+            </sentence>
+            <sentence id="3:1">
+                <text>小机器拿到手后首先感觉很精致,</text>
+                <Opinions>
+                    <Opinion category="CAMERA#GENERAL" polarity="positive"/>
+                </Opinions>
+            </sentence>
+            <sentence id="3:2">
+                <text>通过使用感受如下：</text>
+            </sentence>
+            <sentence id="3:3">
+                <text>1．做工精细，</text>
+                <Opinions>
+                    <Opinion category="CAMERA#QUALITY" polarity="positive"/>
+                </Opinions>
+            </sentence>
+            <sentence id="3:4">
+                <text>拿在手里令人有拍摄的欲望。</text>
+                <Opinions>
+                    <Opinion category="CAMERA#GENERAL" polarity="positive"/>
+                </Opinions>
+            </sentence>
+            <sentence id="3:5">
+                <text>2．反转屏的设计很好用且方便构图,</text>
+                <Opinions>
+                    <Opinion category="DISPLAY#DESIGN_FEATURES" polarity="positive"/>
+                </Opinions>
+            </sentence>
+            <sentence id="3:6">
+                <text>开机速度快，</text>
+                <Opinions>
+                    <Opinion category="CAMERA#OPERATION_PERFORMANCE" polarity="positive"/>
+                </Opinions>
+            </sentence>
+            <sentence id="3:7">
+                <text>快门时滞短，</text>
+                <Opinions>
+                    <Opinion category="HARDWARE#QUALITY" polarity="positive"/>
+                </Opinions>
+            </sentence>
+            <sentence id="3:8">
+                <text>操作简单方便,</text>
+                <Opinions>
+                    <Opinion category="CAMERA#USABILITY" polarity="positive"/>
+                </Opinions>
+            </sentence>
+            <sentence id="3:9">
+                <text>比如感光度拨盘,加减曝光拨盘等等。</text>
+            </sentence>
+            <sentence id="3:10">
+                <text>3．菜单使用起来方便快捷,</text>
+                <Opinions>
+                    <Opinion category="SOFTWARE#USABILITY" polarity="positive"/>
+                </Opinions>
+            </sentence>
+            <sentence id="3:11">
+                <text>拍摄模式很齐全，</text>
+                <Opinions>
+                    <Opinion category="SOFTWARE#DESIGN_FEATURES" polarity="positive"/>
+                </Opinions>
+            </sentence>
+            <sentence id="3:12">
+                <text>包括程序、光圈优先、快门优先、手动等等。</text>
+            </sentence>
+            <sentence id="3:13">
+                <text>4．色彩饱满，</text>
+                <Opinions>
+                    <Opinion category="PHOTO#QUALITY" polarity="positive"/>
+                </Opinions>
+            </sentence>
+            <sentence id="3:14">
+                <text>还原准确。</text>
+                <Opinions>
+                    <Opinion category="LENS#QUALITY" polarity="positive"/>
+                </Opinions>
+            </sentence>
+            <sentence id="3:15">
+                <text>5．高感光度成像质量很好,</text>
+                <Opinions>
+                    <Opinion category="PHOTO#QUALITY" polarity="positive"/>
+                </Opinions>
+            </sentence>
+            <sentence id="3:16">
+                <text>双重降噪功能明显。</text>
+                <Opinions>
+                    <Opinion category="HARDWARE#QUALITY" polarity="positive"/>
+                </Opinions>
+            </sentence>
+            <sentence id="3:17">
+                <text>1．广角端不足，</text>
+                <Opinions>
+                    <Opinion category="LENS#QUALITY" polarity="negative"/>
+                </Opinions>
+            </sentence>
+            <sentence id="3:18">
+                <text>最大光圈有限，</text>
+                <Opinions>
+                    <Opinion category="LENS#QUALITY" polarity="negative"/>
+                </Opinions>
+            </sentence>
+            <sentence id="3:19">
+                <text>2．有些键在拍摄时很容易碰到。</text>
+                <Opinions>
+                    <Opinion category="CAMERA#DESIGN_FEATURES" polarity="negative"/>
+                </Opinions>
+            </sentence>
+            <sentence id="3:20">
+                <text>G11是一款综合素质不错的便携式消费级数码相机，</text>
+                <Opinions>
+                    <Opinion category="CAMERA#GENERAL" polarity="positive"/>
+                </Opinions>
+            </sentence>
+            <sentence id="3:21">
+                <text>方便平时随身携带，</text>
+                <Opinions>
+                    <Opinion category="CAMERA#PORTABILITY" polarity="positive"/>
+                </Opinions>
+            </sentence>
+            <sentence id="3:22">
+                <text>作为外拍时的备机也是不错的选择。</text>
+                <Opinions>
+                    <Opinion category="CAMERA#GENERAL" polarity="positive"/>
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+</Reviews>
