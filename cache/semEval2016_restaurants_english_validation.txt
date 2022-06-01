@@ -1,0 +1,680 @@
+[]
+Just O
+went O
+here O
+for O
+my O
+girlfriends O
+23rd O
+bday O
+. O
+
+['view']
+If O
+you O
+'ve O
+ever O
+been O
+along O
+the O
+river O
+in O
+Weehawken O
+you O
+have O
+an O
+idea O
+of O
+the O
+top O
+of O
+view B-ASP
+the O
+chart O
+house O
+has O
+to O
+offer O
+. O
+
+['service', 'food', 'food']
+Add O
+to O
+that O
+great O
+service B-ASP
+and O
+great O
+food B-ASP
+at O
+a O
+reasonable O
+price O
+and O
+you O
+have O
+yourself O
+the O
+beginning O
+of O
+a O
+great O
+evening O
+. O
+
+['lava cake dessert']
+The O
+lava B-ASP
+cake I-ASP
+dessert I-ASP
+was O
+incredible O
+and O
+I O
+recommend O
+it O
+. O
+
+['Pizza']
+Pizza B-ASP
+here O
+is O
+consistently O
+good O
+. O
+
+['Salads']
+Salads B-ASP
+are O
+a O
+delicious O
+way O
+to O
+begin O
+the O
+meal O
+. O
+
+['calamari']
+You O
+should O
+pass O
+on O
+the O
+calamari B-ASP
+. O
+
+['NULL']
+It O
+is O
+thick O
+and O
+slightly O
+soggy O
+. O
+
+['Decor']
+Decor B-ASP
+is O
+charming O
+. O
+
+['Service']
+Service B-ASP
+is O
+average O
+. O
+
+['food', 'service']
+sometimes O
+i O
+get O
+good O
+food B-ASP
+and O
+ok O
+service B-ASP
+. O
+
+['food', 'service', 'good', 'service']
+sometimes O
+i O
+get O
+bad O
+food B-ASP
+and O
+bad O
+service B-ASP
+, O
+sometimes O
+i O
+get O
+good O
+good B-ASP
+and O
+bad O
+service B-ASP
+. O
+
+['NULL']
+it O
+is O
+not O
+consistent O
+. O
+
+[]
+really O
+depends O
+on O
+your O
+luck O
+! O
+
+['Bombay beer']
+I O
+started O
+out O
+with O
+a O
+Bombay B-ASP
+beer I-ASP
+which O
+was O
+big O
+enough O
+for O
+two O
+. O
+
+[]
+For O
+dinner O
+I O
+had O
+the O
+chicken O
+tikka-masala O
+and O
+some O
+garlic O
+naan O
+. O
+
+['NULL']
+MMmmm O
+... O
+it O
+was O
+delicious O
+. O
+
+['Service', 'people']
+Service B-ASP
+was O
+slow O
+, O
+but O
+the O
+people B-ASP
+were O
+friendly O
+. O
+
+['place']
+It O
+'s O
+a O
+nice O
+place B-ASP
+to O
+relax O
+and O
+have O
+conversation O
+. O
+
+['NULL']
+I O
+ca O
+n't O
+wait O
+to O
+go O
+back O
+. O
+
+[]
+I O
+went O
+here O
+with O
+a O
+friend O
+on O
+a O
+whim O
+, O
+we O
+went O
+someplace O
+else O
+first O
+and O
+could O
+n't O
+get O
+a O
+table O
+. O
+
+['Service', 'food']
+Service B-ASP
+here O
+was O
+great O
+, O
+food B-ASP
+was O
+fantastic O
+. O
+
+['Guacamole+shrimp appetizer', 'frites', 'filet']
+Guacamole B-ASP
++ I-ASP
+shrimp I-ASP
+appetizer I-ASP
+was O
+really O
+great O
+, O
+we O
+both O
+had O
+the O
+filet B-ASP
+, O
+very O
+good O
+, O
+did O
+n't O
+much O
+like O
+the O
+frites B-ASP
+that O
+came O
+with O
+, O
+but O
+the O
+filet O
+was O
+so O
+good O
+, O
+neither O
+of O
+us O
+cared O
+. O
+
+['NULL']
+Will O
+absolutely O
+visit O
+again O
+. O
+
+[]
+Maybe O
+tomorrow O
+; O
+- O
+) O
+
+[]
+Molto O
+bene O
+! O
+
+['trattoria', 'trattoria']
+This O
+quaint O
+and O
+romantic O
+trattoria B-ASP
+is O
+at O
+the O
+top O
+of O
+my O
+Manhattan O
+restaurant O
+list O
+. O
+
+['specials', 'food', 'regular menu-fare', 'dishes']
+The O
+food B-ASP
+is O
+delicious O
+- O
+from O
+the O
+specials B-ASP
+to O
+the O
+regular B-ASP
+menu I-ASP
+- I-ASP
+fare I-ASP
+, O
+the O
+dishes B-ASP
+are O
+never O
+a O
+disappointment O
+. O
+
+['parmesean porcini souffle', 'lamb glazed with balsamic vinegar']
+Whether O
+it O
+'s O
+the O
+parmesean B-ASP
+porcini I-ASP
+souffle I-ASP
+or O
+the O
+lamb B-ASP
+glazed I-ASP
+with I-ASP
+balsamic I-ASP
+vinegar I-ASP
+, O
+you O
+will O
+surely O
+be O
+transported O
+to O
+Northern O
+Italy O
+with O
+one O
+bite O
+. O
+
+['tables', 'candle-light', 'food', 'service']
+Although O
+the O
+tables B-ASP
+may O
+be O
+closely O
+situated O
+, O
+the O
+candle B-ASP
+- I-ASP
+light I-ASP
+, O
+food B-ASP
+- O
+quality O
+and O
+service B-ASP
+overcompensate O
+. O
+
+['NULL']
+A O
+guaranteeed O
+delight O
+! O
+
+['place', 'interior decor']
+this O
+little O
+place B-ASP
+has O
+a O
+cute O
+interior B-ASP
+decor I-ASP
+and O
+affordable O
+city O
+prices O
+. O
+
+['pad se ew chicken', 'pad thai']
+the O
+pad B-ASP
+se I-ASP
+ew I-ASP
+chicken I-ASP
+was O
+delicious O
+, O
+however O
+the O
+pad B-ASP
+thai I-ASP
+was O
+far O
+too O
+oily O
+. O
+
+[]
+i O
+would O
+just O
+ask O
+for O
+no O
+oil O
+next O
+time O
+. O
+
+['restaurant']
+I O
+was O
+very O
+disappointed O
+with O
+this O
+restaurant B-ASP
+. O
+
+['cart attendant']
+Ive O
+asked O
+a O
+cart B-ASP
+attendant I-ASP
+for O
+a O
+lotus O
+leaf O
+wrapped O
+rice O
+and O
+she O
+replied O
+back O
+rice O
+and O
+just O
+walked O
+away O
+. O
+
+['NULL']
+I O
+had O
+to O
+ask O
+her O
+three O
+times O
+before O
+she O
+finally O
+came O
+back O
+with O
+the O
+dish O
+Ive O
+requested O
+. O
+
+['Food']
+Food B-ASP
+was O
+okay O
+, O
+nothing O
+great O
+. O
+
+['Chow fun', 'NULL', 'pork shu mai']
+Chow B-ASP
+fun I-ASP
+was O
+dry O
+; O
+pork B-ASP
+shu I-ASP
+mai I-ASP
+was O
+more O
+than O
+usually O
+greasy O
+and O
+had O
+to O
+share O
+a O
+table O
+with O
+loud O
+and O
+rude O
+family O
+. O
+
+['place']
+I/we O
+will O
+never O
+go O
+back O
+to O
+this O
+place B-ASP
+again O
+. O
+
+['food', 'interior']
+Excellent O
+food B-ASP
+, O
+although O
+the O
+interior B-ASP
+could O
+use O
+some O
+help O
+. O
+
+['space']
+The O
+space B-ASP
+kind O
+of O
+feels O
+like O
+an O
+Alice O
+in O
+Wonderland O
+setting O
+, O
+without O
+it O
+trying O
+to O
+be O
+that O
+. O
+
+['meal', 'meal']
+I O
+paid O
+just O
+about O
+$ O
+60 O
+for O
+a O
+good O
+meal B-ASP
+, O
+though O
+: O
+) O
+
+['sake']
+Great O
+sake B-ASP
+! O
+
+['NULL']
+Way O
+below O
+average O
+
+['pizza']
+I O
+think O
+the O
+pizza B-ASP
+is O
+so O
+overrated O
+and O
+was O
+under O
+cooked O
+. O
+
+['NULL', 'staff']
+Had O
+no O
+flavor O
+and O
+the O
+staff B-ASP
+is O
+rude O
+and O
+not O
+attentive O
+. O
+
+['NULL']
+Would O
+NEVER O
+go O
+back O
+
