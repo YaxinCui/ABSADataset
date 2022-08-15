@@ -13,6 +13,8 @@ restaurants_trial_turkish.xml
 
 restaurants_test_turkish.xml
     1. 420-th line: from="-1" to="28" --> from="0" to="37"
+    2. 422-th line: from="-1" to="28" --> from="0" to="32"
+
 
 # 修改完hotels领域数据集
 都正确
