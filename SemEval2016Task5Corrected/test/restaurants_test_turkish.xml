@@ -419,7 +419,7 @@
       <sentence id="5016:4">
         <text>ahtapot, karides, kalamar, somon füme ; ne ararsanız var içinde.</text>
         <Opinions>
-          <Opinion target="ahtapot karides kalamar somon" category="FOOD#STYLE_OPTIONS" polarity="positive" from="-1" to="28"/>
+          <Opinion target="ahtapot karides kalamar somon" category="FOOD#STYLE_OPTIONS" polarity="positive" from="0" to="32"/>
         </Opinions>
       </sentence>
       <sentence id="5016:5">
